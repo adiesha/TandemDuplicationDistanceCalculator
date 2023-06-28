@@ -16,6 +16,12 @@ public class LZ77UnWTest extends TestCase {
 
     public void testCompress() {
         lz77UnW.compress("ACGT", "ACGTAA");
-        System.out.println(lz77UnW.getOutput());
+        lz77UnW.printCompressedOutput();
+
+        lz77UnW.compress("", "ACGT|ACGTAA");
+        lz77UnW.printCompressedOutput();
+
+        lz77UnW.compress("", "ACGTAA|ACGTAA");
+        lz77UnW.printCompressedOutput();
     }
 }
