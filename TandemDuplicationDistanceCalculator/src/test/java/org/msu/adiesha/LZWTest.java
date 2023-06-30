@@ -25,5 +25,9 @@ public class LZWTest {
         System.out.println();
         lzw.printcompressed();
 
+        lzw.compress("", "vwxyz|wvxwyxzyyxwxwvzyxzyxwyxwvzyxwv");
+        System.out.println();
+        lzw.printcompressed();
+
     }
 }

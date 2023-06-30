@@ -8,7 +8,7 @@ public class LZ77UnWTest extends TestCase {
 
     public void setUp() throws Exception {
         super.setUp();
-        lz77UnW = new LZ77UnW("ACGT", "ACGTAA");
+        lz77UnW = new LZ77UnW();
     }
 
     public void tearDown() throws Exception {
@@ -23,5 +23,25 @@ public class LZ77UnWTest extends TestCase {
 
         lz77UnW.compress("", "ACGTAA|ACGTAA");
         lz77UnW.printCompressedOutput();
+
+        lz77UnW.compress("", "ACGTAA|ACGTAA");
+        lz77UnW.printCompressedOutput();
+
+        lz77UnW.compress("", "vwxyz|wvxwyxzyyxwxwvzyxzyxwyxwvzyxwv");
+        lz77UnW.printCompressedOutput();
+        lz77UnW.printTDDuplications();
+
+        lz77UnW.compress("", "zyxwv|wvxwyxzyyxwxwvzyxzyxwyxwvzyxwv");
+        lz77UnW.printCompressedOutput();
+        lz77UnW.printTDDuplications();
+
+        lz77UnW.compress("", "vwxyz|zyxwv");
+        lz77UnW.printCompressedOutput();
+        lz77UnW.printTDDuplications();
+
+
+
+
+
     }
 }

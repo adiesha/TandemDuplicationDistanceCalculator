@@ -1,8 +1,10 @@
 package org.msu.adiesha;
 
+import org.msu.adiesha.interfaces.Compressor;
+
 import java.util.*;
 
-public class LZW {
+public class LZW implements Compressor {
     private Map<String, Integer> phrases;
     private String S;
     private String T;

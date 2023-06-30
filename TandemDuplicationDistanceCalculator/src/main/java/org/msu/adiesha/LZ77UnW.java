@@ -1,12 +1,13 @@
 package org.msu.adiesha;
 
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.List;
-import java.util.Map;
+import org.msu.adiesha.interfaces.Compressor;
 
-public class LZ77UnW {
+import java.util.ArrayList;
+import java.util.List;
+
+public class LZ77UnW implements Compressor {
     private String T;
+    private String Target;
     private StringBuilder initialBuffer;
     private String S;
 
@@ -27,7 +28,7 @@ public class LZ77UnW {
         }
     }
 
-    public LZ77UnW(String S, String T) {
+    public LZ77UnW() {
 
 
     }
@@ -35,6 +36,7 @@ public class LZ77UnW {
     public void compress(String source, String target) {
 
         this.output = new ArrayList<>();
+        this.Target = target;
         this.T = target;
         this.S = source;
         if (!source.isEmpty()) {
@@ -65,6 +67,11 @@ public class LZ77UnW {
 
             }
         }
+        // removing unnecessary empty char at the end
+        if (this.output.get(this.output.size() - 1).c == 0 && this.output.get(this.output.size() - 1).size == 0) {
+            this.output.remove(this.output.size() - 1);
+        }
+
     }
 
 
@@ -77,8 +84,19 @@ public class LZ77UnW {
             System.out.print(t + "\t");
         }
         System.out.println();
-        for (TupleO t: this.output) {
+        System.out.println("Number of phrases " + this.output.size());
+    }
 
+    public void printTDDuplications() {
+        System.out.println(this.S);
+        System.out.println(this.Target);
+        System.out.println(this.T);
+
+        StringBuilder output = new StringBuilder();
+        for (TupleO t : this.output) {
+
+            output.append(this.T, t.offset, t.offset + t.size).append(t.c);
+            System.out.println(output);
         }
     }
 }
