@@ -17,6 +17,7 @@ public class LZW implements Compressor {
 
     private void initialize() {
         phrases = new HashMap<>();
+        this.count = 0;
     }
 
 
@@ -38,7 +39,7 @@ public class LZW implements Compressor {
                 // append the next character by continuing
                 stringcode.append(symbol);
             } else {
-                System.out.print(this.phrases.get(stringcode.toString()));
+                System.out.print(this.phrases.get(stringcode.toString()) + ",");
                 count++;
                 phrases.put(stringcode.toString() + symbol, count);
                 stringcode.setLength(0);
@@ -46,6 +47,11 @@ public class LZW implements Compressor {
             }
             i++;
         }
+        if (!stringcode.isEmpty()) {
+            System.out.println(this.phrases.get(stringcode.toString()) + ",");
+            stringcode.setLength(0);
+        }
+
     }
 
     private void extractAlphabet() {
