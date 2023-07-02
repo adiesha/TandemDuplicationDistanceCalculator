@@ -79,4 +79,13 @@ public class LZ77Updated implements Compressor {
     }
 
 
+    public void printCompressed() {
+        String sss = this.S + this.Target;
+        System.out.println("Number of phrases: " + this.output.size());
+        for (Tuple1 tuple1 : this.output) {
+            System.out.print(sss.substring(tuple1.index, tuple1.index + tuple1.size)+ ",");
+        }
+        System.out.println();
+    }
+
 }

@@ -20,7 +20,17 @@ public class LZ77UpdatedTest {
     @Test
     public void compress() {
         lz77Updated.compress("vwxyz", "zyxwv");
+        lz77Updated.printCompressed();
         lz77Updated.compress("vwxyz", "zyxwvvw");
+        lz77Updated.printCompressed();
         lz77Updated.compress("vwxyz", "zyxwvvw");
+        lz77Updated.printCompressed();
+        lz77Updated.compress("vwxyz", "wvxwyxzyyxwxwvzyxzyxwyxwvzyxwv");
+        lz77Updated.printCompressed();
+        lz77Updated.compress("zyxwv", "wvxwyxzyyxwxwvzyxzyxwyxwvzyxwv");
+        lz77Updated.printCompressed();
+        lz77Updated.compress("ACCCGGGACGATTAACGAGGAT", "ACTGGTTGACTTACGGGAGATATTAACGAATTTTATTAATTAACAACCAACCAACGA");
+        lz77Updated.printCompressed();
+
     }
 }
