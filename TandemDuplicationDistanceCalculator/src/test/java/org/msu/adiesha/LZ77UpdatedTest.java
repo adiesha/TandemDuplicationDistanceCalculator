@@ -29,7 +29,13 @@ public class LZ77UpdatedTest {
         lz77Updated.printCompressed();
         lz77Updated.compress("zyxwv", "wvxwyxzyyxwxwvzyxzyxwyxwvzyxwv");
         lz77Updated.printCompressed();
-        lz77Updated.compress("ACCCGGGACGATTAACGAGGAT", "ACTGGTTGACTTACGGGAGATATTAACGAATTTTATTAATTAACAACCAACCAACGA");
+        lz77Updated.compress("ACCCGGGACGATTAACGAGGAT", "ACTGGTTGACTTATCCATGAGATATTAACGAATTTTATTAATTAACAACCAACCAACGA");
+        lz77Updated.printCompressed();
+        lz77Updated.compress("ACGTACG", "AAGAGTACG");
+        lz77Updated.printCompressed();
+        lz77Updated.compress("AGTCGAAGTAAGTTG", "AGTCGAAGTAAGTAGTG");
+        lz77Updated.printCompressed();
+        lz77Updated.compress("AGTCGAAGTAAGTAGTG", "AGTCGAAGTAAGTTG");
         lz77Updated.printCompressed();
 
     }
