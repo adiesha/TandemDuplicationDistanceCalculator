@@ -15,7 +15,7 @@ public class TDHueristics {
 
     }
 
-    public void run(String source, String target) {
+    public void run(String source, String target) throws Exception {
 
         char[] sequence = LCS.lcs(source, target, source.length(), target.length());
         System.out.println(sequence);
@@ -101,8 +101,82 @@ public class TDHueristics {
             }
         }
 
+        int lengthofTD = newtarget.length() / 2;
+        while (lengthofTD > 0) {
+            int k = 0;
+            while (k + lengthofTD * 2 < newtarget.length()) {
+                if (checkWhetherTDisPossible(skeletonindices, k, k + lengthofTD)) {
+                    if (checkTDbility(newtarget.toString(), k, k + lengthofTD)) {
+                        deductXFromElementsInAGivenRange(skeletonindices, lengthofTD, k + lengthofTD, newtarget.length()-1);
+                        newtarget.delete(k + lengthofTD, k + 2 * lengthofTD);
+                    }
+                }
+                k++;
+
+            }
+            lengthofTD--;
+        }
+
+        System.out.println("+++++++++++++++++");
+        System.out.println(newtarget);
+        System.out.println(LCS.lcs(source, newtarget.toString(), source.length(), newtarget.length()));
     }
 
+    public boolean checkWhetherTDisPossible(List<Integer> list, int i, int j) {
+        int dist = j - i;
+        int ileft = i;
+        int iright = i + dist - 1;
+
+        int jleft = j;
+        int jright = j + dist - 1;
+
+        if (searchTargetInaRange(list, ileft, iright)) {
+            if (searchTargetInaRange(list, jleft, jright)) {
+                return false;
+            } else {
+                return true;
+            }
+        } else {
+            return true;
+        }
+    }
+
+    public void deductXFromElementsInAGivenRange(List<Integer> list, int x, int lo, int hi) throws Exception {
+        if (lo > hi) {
+            throw new Exception("lo is higher than hi");
+        }
+        for (int i = 0; i < list.size(); i++) {
+            int temp = list.get(i);
+            if (lo <= temp && temp <= hi) {
+                list.set(i, temp - x);
+            }
+        }
+
+    }
+
+    public boolean searchTargetInaRange(List<Integer> list, int i, int j) {
+        int result = binarySearch(list, 0, list.size() - 1, i, j);
+        if (result == -1) {
+            return false;
+        } else {
+            return true;
+        }
+    }
+
+    private int binarySearch(List<Integer> list, int lo, int hi, int i, int j) {
+        if (lo > hi) {
+            return -1;
+        }
+        int mid = (lo + hi) / 2;
+        int target = list.get(mid);
+        if (i <= target && target <= j) {
+            return target;
+        } else if (target < i) {
+            return binarySearch(list, mid + 1, hi, i, j);
+        } else {
+            return binarySearch(list, lo, mid - 1, i, j);
+        }
+    }
 
     public boolean checkTDbility(String str, int i, int j) {
         if (i >= j) {
@@ -124,7 +198,7 @@ public class TDHueristics {
 
     }
 
-    public static void main(String[] args) {
+    public static void main(String[] args) throws Exception {
         TDHueristics tdHueristics = new TDHueristics();
         tdHueristics.run("AGTCGTT", "AGGTTTTACCAATATTTACGGCA");
         System.out.println("----------------");
