@@ -37,6 +37,8 @@ public class LZ77UpdatedTest {
         lz77Updated.printCompressed();
         lz77Updated.compress("AGTCGAAGTAAGTAGTG", "AGTCGAAGTAAGTTG");
         lz77Updated.printCompressed();
+        lz77Updated.compress("ACGT", "TGCA");
+        lz77Updated.printCompressed();
 
     }
 }
