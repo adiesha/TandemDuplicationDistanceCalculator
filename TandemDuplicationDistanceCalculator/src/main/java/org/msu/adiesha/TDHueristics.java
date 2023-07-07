@@ -56,6 +56,10 @@ public class TDHueristics {
         }
 
         System.out.println();
+//        System.out.println("The number of deletions: " + (source.length() - sequence.length));
+        int countOfDeletions = findTheNumberOfDeletedSubstrings(coverofsource);
+        System.out.println("The number of deletions: " + countOfDeletions);
+
 
         StringBuilder newtarget = new StringBuilder(target);
         int offset = 0;
@@ -101,14 +105,16 @@ public class TDHueristics {
             }
         }
 
+        int countOfTDOperations = 0;
         int lengthofTD = newtarget.length() / 2;
         while (lengthofTD > 0) {
             int k = 0;
             while (k + lengthofTD * 2 < newtarget.length()) {
                 if (checkWhetherTDisPossible(skeletonindices, k, k + lengthofTD)) {
                     if (checkTDbility(newtarget.toString(), k, k + lengthofTD)) {
-                        deductXFromElementsInAGivenRange(skeletonindices, lengthofTD, k + lengthofTD, newtarget.length()-1);
+                        deductXFromElementsInAGivenRange(skeletonindices, lengthofTD, k + lengthofTD, newtarget.length() - 1);
                         newtarget.delete(k + lengthofTD, k + 2 * lengthofTD);
+                        countOfTDOperations++;
                     }
                 }
                 k++;
@@ -117,9 +123,73 @@ public class TDHueristics {
             lengthofTD--;
         }
 
+        System.out.println("Number of TDS " + countOfTDOperations);
+
         System.out.println("+++++++++++++++++");
         System.out.println(newtarget);
         System.out.println(LCS.lcs(source, newtarget.toString(), source.length(), newtarget.length()));
+
+        System.out.println("***********************");
+        System.out.println(skeletonindices);
+        List<String> insertSubstrings = findTheSubstringsThatAreNotCovered(newtarget.toString(), skeletonindices);
+
+        LZ77Updated lz77Updated = new LZ77Updated();
+        int countOfInsertions = 0;
+        for (String substring :
+                insertSubstrings) {
+            lz77Updated.compress(source, substring);
+            lz77Updated.printCompressed();
+            countOfInsertions = countOfInsertions + lz77Updated.getNumberOfPhrases();
+        }
+
+        System.out.println("Number of insertions " + countOfInsertions);
+
+        System.out.println("Total Number of Operations: " + countOfDeletions + "+" + countOfTDOperations + "+" + countOfInsertions * 2 + "= " + (countOfDeletions + countOfTDOperations + 2 * countOfInsertions));
+    }
+
+    public int findTheNumberOfDeletedSubstrings(boolean[] coverOfSource) {
+        int numberOfSubstrings = 0;
+        boolean previous = true;
+        for (boolean current :
+                coverOfSource) {
+            if (previous)
+                previous = current;
+            else {
+                if (current) {
+                    numberOfSubstrings++;
+                    previous = current;
+                } else {
+                    previous = current;
+                }
+            }
+
+        }
+        if (!previous)
+            numberOfSubstrings++;
+        return numberOfSubstrings;
+    }
+
+    public List<String> findTheSubstringsThatAreNotCovered(String input, List<Integer> skeleton) {
+        System.out.println(input);
+        System.out.println(skeleton);
+        List<String> results = new ArrayList<>();
+        int i = 0; // starting index
+        for (int j = 0; j < skeleton.size(); j++) {
+            if (skeleton.get(j) - i == 0) {
+                // nothing to add
+            } else {
+                results.add(input.substring(i, skeleton.get(j)));
+            }
+            i = skeleton.get(j) + 1;
+        }
+
+        if (input.length() - 1 - i > 0) {
+            results.add(input.substring(i));
+        }
+
+        System.out.println(results);
+
+        return results;
     }
 
     public boolean checkWhetherTDisPossible(List<Integer> list, int i, int j) {

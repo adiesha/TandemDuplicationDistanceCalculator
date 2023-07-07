@@ -20,8 +20,9 @@ public class LCSTest {
 
     @Test
     public void lcs() {
-        LCS.lcs("ACGTACG", "AAGAGTACG", 7, 9 );
+        LCS.lcs("ACGTACG", "AAGAGTACG", 7, 9);
         LCS.lcs("AGTCGAAGTAAGTTG", "AGTCGAAGTAAAAGTAAGTTG", "AGTCGAAGTAAGTTG".length(), "AGTCGAAGTAAAAGTAAGTTG".length());
+
 
     }
 }
