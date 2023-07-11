@@ -9,10 +9,17 @@ import java.util.Set;
 
 public class TDHueristics {
 
+    private double ratio;
+
     private LCS lcs;
+    private int numberOfTDSearches = 3;
 
     public TDHueristics() {
 
+    }
+
+    public double getRatio() {
+        return this.ratio;
     }
 
     public void run(String source, String target) throws Exception {
@@ -100,30 +107,35 @@ public class TDHueristics {
 
         for (int j = 0; j < newtarget.length(); j++) {
             for (int k = j + 1; k < newtarget.length(); k++) {
-                if (checkTDbility(newtarget.toString(), j, k))
-                    System.out.println(j + "," + k);
+                if (checkTDbility(newtarget.toString(), j, k)) {
+//                    System.out.println(j + "," + k);
+                }
+
             }
         }
 
         int countOfTDOperations = 0;
-        int lengthofTD = newtarget.length() / 2;
-        while (lengthofTD > 0) {
-            int k = 0;
-            while (k + lengthofTD * 2 < newtarget.length()) {
-                if (checkWhetherTDisPossible(skeletonindices, k, k + lengthofTD)) {
-                    if (checkTDbility(newtarget.toString(), k, k + lengthofTD)) {
-                        deductXFromElementsInAGivenRange(skeletonindices, lengthofTD, k + lengthofTD, newtarget.length() - 1);
-                        newtarget.delete(k + lengthofTD, k + 2 * lengthofTD);
-                        countOfTDOperations++;
+        for (int p = 0; p < numberOfTDSearches; p++) {
+            int lengthofTD = newtarget.length() / 2;
+            while (lengthofTD > 0) {
+                int k = 0;
+                while (k + lengthofTD * 2 < newtarget.length()+1) {
+                    if (checkWhetherTDisPossible(skeletonindices, k, k + lengthofTD)) {
+                        if (checkTDbility(newtarget.toString(), k, k + lengthofTD)) {
+                            deductXFromElementsInAGivenRange(skeletonindices, lengthofTD, k + lengthofTD, newtarget.length() - 1);
+                            newtarget.delete(k + lengthofTD, k + 2 * lengthofTD);
+                            countOfTDOperations++;
+                        }
                     }
-                }
-                k++;
+                    k++;
 
+                }
+                lengthofTD--;
             }
-            lengthofTD--;
+
+            System.out.println("Number of TDS " + countOfTDOperations);
         }
 
-        System.out.println("Number of TDS " + countOfTDOperations);
 
         System.out.println("+++++++++++++++++");
         System.out.println(newtarget);
@@ -138,13 +150,20 @@ public class TDHueristics {
         for (String substring :
                 insertSubstrings) {
             lz77Updated.compress(source, substring);
-            lz77Updated.printCompressed();
+//            lz77Updated.printCompressed();
             countOfInsertions = countOfInsertions + lz77Updated.getNumberOfPhrases();
         }
 
-        System.out.println("Number of insertions " + countOfInsertions);
+        LZ77Updated lz77Updated1 = new LZ77Updated();
+        lz77Updated1.compress(source, newtarget.toString());
+        lz77Updated1.printCompressed();
+        System.out.println("New insertions: " + lz77Updated1.getNumberOfPhrases() + " Total operations: " + 2 * lz77Updated1.getNumberOfPhrases());
 
-        System.out.println("Total Number of Operations: " + countOfDeletions + "+" + countOfTDOperations + "+" + countOfInsertions * 2 + "= " + (countOfDeletions + countOfTDOperations + 2 * countOfInsertions));
+        System.out.println("Number of individual insertions " + countOfInsertions);
+
+        System.out.println("Total Number of Operations with individual insertions: " + countOfDeletions + "+" + countOfTDOperations + "+" + countOfInsertions * 2 + "= " + (countOfDeletions + countOfTDOperations + 2 * countOfInsertions));
+        System.out.println("Total Number of Operations with compressed insertions: " + countOfDeletions + "+" + countOfTDOperations + "+" + lz77Updated1.getNumberOfPhrases() * 2 + "= " + (countOfDeletions + countOfTDOperations + 2 * lz77Updated1.getNumberOfPhrases()));
+        this.ratio = (countOfDeletions + countOfTDOperations + lz77Updated1.getNumberOfPhrases()) * 1.0 / (countOfDeletions + lz77Updated1.getNumberOfPhrases());
     }
 
     public int findTheNumberOfDeletedSubstrings(boolean[] coverOfSource) {
@@ -281,7 +300,10 @@ public class TDHueristics {
         tdHueristics.run("ACTCGAACT", "TCGAATTTGGAACG");
         System.out.println("----------------");
         tdHueristics.run("ACGT", "TGCA");
-
+        System.out.println("----------------");
+        tdHueristics.run("ACGTCGGCATGACTACGTATCGATGCTAGCTAGTGCGGGCCTATGCATCGATGCTAGCTGATGCTAGCTGATGCTAGCGATGCAGTCGATGC", "AAAACACGATCGTAGCTAGCTAGTCGATGCATGCTGATCGATGCTAGCTAGATGCATGATGCATGCTGAATATTATATCGATGCTAGCTGATCGTAGCTAGTACGTAGCTAGTAGCATGCTAGCTAGTCGATGTAGCATCGATGCTAGATGATGCTAGCTCAATATATATCGGCGACGCAGATGTATGCATGCTAGCTAGCATGCTAGCATGCTAGCTAGTCGATGCATGAGCTAGTAGTCGATGATCGATGACT");
+        System.out.println("----------------");
+        tdHueristics.run("ACGTCGGCATGACTACGTATCGATGCTAGCTAGTGCGGGCCTATGCATCGATGCTAGCTGATGCTAGCTGATGCTAGCGATGCAGTCGATGC", "ACGTCGGCATGAGGCATGATGACTACGTATCGTATATCGATGCTAGCTAGTGTATGCATGATTGATTGATTGATTGATTGATGCTAGCGATAGCGATAGCTCGATGC");
 
     }
 }
