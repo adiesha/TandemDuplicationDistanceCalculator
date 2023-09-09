@@ -1,5 +1,7 @@
 package org.msu.adiesha;
 
+import org.msu.adiesha.utils.ReadInput;
+
 public class Controller {
 
     LZ77Updated lz77Updated;
@@ -108,19 +110,53 @@ public class Controller {
         System.out.println("---------------------------------------------------------------------------------------------");
     }
 
-    public void test9() {
+    public void test9() throws Exception {
+        System.out.println("Test 8");
+        lz77Updated.compress("ACGCCGGCTTTGCGGCGAGCAGACTGTACTGCATGATGCTAGTGAGATGTAGTACCCAAAACGCGGCGGCTTACGTAGCATTTTCGTA", "ACGCCGGCTTTGCGGCGAGCAGACTGTACTGCATGATGCGGCGAGCAGACTGTACTGCATGATGCGGCGAGCAGACTGTACTGCATGATGCGGCGAGCAGACTGTACTGCATGATGCTAGTGAGATGTAGTACCCAAAACGCGGCGTACCCAAAACGCGGCGTACCCAAAACGCGGCGTACCCAAACGGCGGCTTACGATTTTCGTA");
+        lz77Updated.printCompressed();
+        tdHueristics.run("ACGCCGGCTTTGCGGCGAGCAGACTGTACTGCATGATGCTAGTGAGATGTAGTACCCAAAACGCGGCGGCTTACGTAGCATTTTCGTA", "ACGCCGGCTTTGCGGCGAGCAGACTGTACTGCATGATGCGGCGAGCAGACTGTACTGCATGATGCGGCGAGCAGACTGTACTGCATGATGCGGCGAGCAGACTGTACTGCATGATGCTAGTGAGATGTAGTACCCAAAACGCGGCGTACCCAAAACGCGGCGTACCCAAAACGCGGCGTACCCAAACGGCGGCTTACGATTTTCGTA");
+
+        lz77Updated.printCompressed();
+        System.out.println("Total Number of TDs and deletions with compressed algorithm: " + 2 * lz77Updated.getNumberOfPhrases());
+        System.out.println("TD to Deletion ratio: " + tdHueristics.getRatio());
+        System.out.println("---------------------------------------------------------------------------------------------");
     }
+
+    public void test10() throws Exception {
+        System.out.println("Test 10");
+        ReadInput.SourceAndTarget data = ReadInput.readInput("data/mitochondrialdna/cucumaria_miniata_mitochondrion_complete/data1.txt");
+        lz77Updated.compress(data.getSource(), data.getTarget());
+        System.out.println("Number of phrases: " + lz77Updated.getNumberOfPhrases());
+
+        lz77Updated.compress(data.getTarget(),data.getSource());
+        System.out.println("Number of phrases: " + lz77Updated.getNumberOfPhrases());
+
+
+        LZ77WithMultiWindow lz77WithMultiWindow = new LZ77WithMultiWindow();
+        lz77WithMultiWindow.compress(data.getSource(), data.getTarget());
+        //lz77WithMultiWindow.printCompressed();
+        System.out.println(lz77WithMultiWindow.getNumberOfPhrases());
+
+
+        ReadInput.SourceAndTarget data3 = ReadInput.readInput("data/mitochondrialdna/cucumaria_miniata_mitochondrion_complete/data3.txt");
+        lz77WithMultiWindow.compress(data3.getSource(), data3.getTarget());
+        System.out.println("Number of phrases: " + lz77WithMultiWindow.getNumberOfPhrases());
+
+    }
+
 
     public static void main(String[] args) throws Exception {
         Controller controller = new Controller();
-        controller.test1();
-        controller.test2();
-        controller.test3();
-        controller.test4();
-        controller.test5();
-        controller.test6();
-        controller.test7();
-        controller.test8();
+//        controller.test1();
+//        controller.test2();
+//        controller.test3();
+//        controller.test4();
+//        controller.test5();
+//        controller.test6();
+//        controller.test7();
+//        controller.test8();
+//        controller.test9();
+        controller.test10();
 
 
     }
