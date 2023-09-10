@@ -1,6 +1,6 @@
-tRNA-Phe
+tRNA-Phe-UUC
 12S
-tRNA-Val-V
+tRNA-Val-GUA
 16S
 tRNA-Leu-UUA
 ND1
@@ -13,7 +13,7 @@ tRNA-Ala-GCA
 tRNA-Asn-AAC
 tRNA-Cys-UGC
 tRNA-Tyr-UAC
-COXI
+COX1
 tRNA-Ser-UCA
 tRNA-Asp-GAC
 COX2
