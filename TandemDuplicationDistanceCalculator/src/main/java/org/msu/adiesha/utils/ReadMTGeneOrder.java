@@ -1,5 +1,7 @@
 package org.msu.adiesha.utils;
 
+import org.msu.adiesha.LZ77Updated;
+
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.*;
@@ -79,5 +81,39 @@ public class ReadMTGeneOrder {
 
     }
 
+    public static List<List<LZ77Updated.Tuple1>> getSubsequenceTuples(List<LZ77Updated.Tuple1> tuples, String source) {
+        List<List<LZ77Updated.Tuple1>> result = new ArrayList<>();
 
+        String substring = "";
+        List<LZ77Updated.Tuple1> concatanatedTuples = new ArrayList<>();
+        for (LZ77Updated.Tuple1 t : tuples) {
+            substring = substring + source.substring(t.index, t.index + t.size);
+
+            if (isSubsequence(substring, source)) {
+                concatanatedTuples.add(t);
+            } else {
+                result.add(concatanatedTuples);
+                concatanatedTuples = new ArrayList<>();
+                substring = source.substring(t.index, t.index + t.size);
+                concatanatedTuples.add(t);
+            }
+        }
+        result.add(concatanatedTuples);
+
+        return result;
+
+    }
+
+
+    public static boolean isSubsequence(String str, String source) {
+        int i = 0;
+        int j = 0;
+        while (i < str.length() && j < source.length()) {
+            if (str.charAt(i) == source.charAt(j)) {
+                i++;
+            }
+            j++;
+        }
+        return i == str.length();
+    }
 }
