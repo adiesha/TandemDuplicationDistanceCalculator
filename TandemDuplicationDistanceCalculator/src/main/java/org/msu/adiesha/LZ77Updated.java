@@ -4,7 +4,6 @@ import org.msu.adiesha.interfaces.Compressor;
 
 import java.util.ArrayList;
 import java.util.List;
-import java.util.Set;
 
 public class LZ77Updated implements Compressor {
 
@@ -15,9 +14,9 @@ public class LZ77Updated implements Compressor {
 
     private List<Tuple1> output;
 
-    static class Tuple1 {
-        int index = 0;
-        int size = 0;
+    public static class Tuple1 {
+        public int index = 0;
+        public int size = 0;
 
 
         @Override
@@ -90,6 +89,10 @@ public class LZ77Updated implements Compressor {
 
     public int getNumberOfPhrases() {
         return this.output.size();
+    }
+
+    public List<Tuple1> getOutput() {
+        return output;
     }
 
 }
