@@ -59,6 +59,17 @@ public class ReadMTGeneOrderTest {
         List<List<LZ77Updated.Tuple1>> r = ReadMTGeneOrder.getSubsequenceTuples(lz77Updated.getOutput(), "abcdefghpqrsabcdefghpqrs");
         System.out.println(r);
 
+        System.out.println("+_+_+_+_+_+_+_+_+_+_+_");
+        out = ReadMTGeneOrder.assignCharsToStringList(geneOrder_sym_ori);
+//        System.out.println(ReadMTGeneOrder.getTheChangedOutput(geneOrder_sym_ori, out));
+        String str1 = ReadMTGeneOrder.getTheChangedOutput(geneOrder_sym_ori, out);
+        String str2 = ReadMTGeneOrder.getTheChangedOutput(geneOrder_sym_pl, out);
+        System.out.println(str1);
+        System.out.println(str2);
+        lz77Updated.compress(str1, str2);
+        lz77Updated.printCompressed();
+        System.out.println(ReadMTGeneOrder.getSubsequenceTuples(lz77Updated.getOutput(), str1 + str1));
+
     }
 }
 
