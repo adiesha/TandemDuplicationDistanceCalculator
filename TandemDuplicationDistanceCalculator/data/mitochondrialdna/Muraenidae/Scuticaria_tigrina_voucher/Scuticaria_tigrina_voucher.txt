@@ -1,0 +1,283 @@
+Scuticaria tigrina voucher 347 mitochondrion, complete genome
+GenBank: KP874183.1
+
+FASTA Graphics
+Go to:
+LOCUS       KP874183               16521 bp    DNA     circular VRT 01-MAR-2017
+DEFINITION  Scuticaria tigrina voucher 347 mitochondrion, complete genome.
+ACCESSION   KP874183
+VERSION     KP874183.1
+KEYWORDS    .
+SOURCE      mitochondrion Scuticaria tigrina (spotted snake moray)
+  ORGANISM  Scuticaria tigrina
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Anguilliformes; Muraenidae;
+            Scuticaria.
+REFERENCE   1  (bases 1 to 16521)
+  AUTHORS   Loh,K.-H., Shao,K.-T., Chen,C.-H., Then,A.Y.H., Shen,K.-N. and
+            Hsiao,C.-D.
+  TITLE     Next generation sequencing yields the complete mitochondrial genome
+            of the Tiger reef-eel, Scuticaria tigrina (Anguilliformes:
+            Muraenidae)
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 16521)
+  AUTHORS   Loh,K.-H., Shao,K.-T., Chen,C.-H., Then,A.Y.H., Shen,K.-N. and
+            Hsiao,C.-D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (03-MAR-2015) Department of Bioscience Technology, Chung
+            Yuan Christian University, 200 Chung-Pei Rd., Chung-Li, Taiwan
+            32023, Taiwan
+FEATURES             Location/Qualifiers
+     source          1..16521
+                     /organism="Scuticaria tigrina"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="347"
+                     /db_xref="taxon:391220"
+                     /tissue_type="muscle"
+                     /country="Taiwan: Changbin"
+                     /collected_by="Kar-Hoe Loh"
+     tRNA            1..71
+                     /product="tRNA-Phe"
+     rRNA            71..1018
+                     /product="12S ribosomal RNA"
+     tRNA            1018..1091
+                     /product="tRNA-Val"
+     rRNA            1090..2762
+                     /product="16S ribosomal RNA"
+     tRNA            2763..2838
+                     /product="tRNA-Leu"
+     gene            2839..3807
+                     /gene="ND1"
+     CDS             2839..3807
+                     /gene="ND1"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 1"
+                     /protein_id="AKO90237.1"
+                     /translation="MNTIMTHIINPLAYIVPVLLAVAFLTLLERKVLGYMQLRKGPNV
+                     VGPYGLLQPIADGVKLFIKEPIRPSTASPFLFLATPTLALTLALTLWAPMPMPYPVVD
+                     LNLGILFLLALSSLAVYSILGSGWASNSKYALIGALRAVAQTISYEVSLGLILLSVII
+                     MVGGFNLSVFNTAQEATWLLAPAWPLAAMWYVSTLAETNRAPFDLTEGESELVSGFNV
+                     EYAGGPFALFFLAEYSNILLMNTLSTVLFLGAMHNPLLPELTTVNLMLKAALLSIIFL
+                     WVRASYPRFRYDQLMHLVWKNFLPLALALLLLNMALPVALVGLPPQ"
+     tRNA            3811..3882
+                     /product="tRNA-Ile"
+     tRNA            complement(3882..3952)
+                     /product="tRNA-Gln"
+     tRNA            3951..4021
+                     /product="tRNA-Met"
+     gene            4021..5065
+                     /gene="ND2"
+     CDS             4021..5065
+                     /gene="ND2"
+                     /note="TAA stop codon is completed by the addition of 3' A
+                     residues to the mRNA"
+                     /codon_start=1
+                     /transl_except=(pos:5065,aa:TERM)
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 2"
+                     /protein_id="AKO90236.1"
+                     /translation="MNPWVVFFLIASLGLGTTITFASSHWMLAWMGLEINTLAIIPLM
+                     AQHHHPRAVEATTKYFLTQATAAALMLFATTSNAWMLGEWQIQQLSHPLATTITMVAL
+                     GLKVGLAPMHFWLPEVLQGLDLNTGLVLSTWQKLAPMILIYQLAPNADQTTLILIGLT
+                     STLVGGWGGLNQTQLRKILAYSSIAHMGWMIIVLKYAPNLMLLNLMVYITMTTTAFLT
+                     LKVISATKINTLATASTKAPLMMSVAMLTMLSLGGLPPLTGFMPKWMILQELTKQTLP
+                     LTATIMALAALLSLFFYLRLCYSMALTTSPNVNNNKAPWRTDTNATLTLLPTTAILSL
+                     MMLPATPAAIALMT"
+     tRNA            5065..5135
+                     /product="tRNA-Trp"
+     tRNA            complement(5136..5204)
+                     /product="tRNA-Ala"
+     tRNA            complement(5206..5278)
+                     /product="tRNA-Asn"
+     tRNA            complement(5306..5374)
+                     /product="tRNA-Cys"
+     tRNA            complement(5374..5446)
+                     /product="tRNA-Tyr"
+     gene            5448..7022
+                     /gene="COX1"
+     CDS             5448..7022
+                     /gene="COX1"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="AKO90241.1"
+                     /translation="MAITRWFFSTNHKDIGTLYLVFGAWAGMVGTALSLLIRAELSQP
+                     GALLGDDQIYNVIVTAHAFVMIFFMVMPLMIGGFGNWLVPLMIGAPDMAFPRMNNMSF
+                     WLLPPSFLLLLASSGVEAGAGTGWTVYPPLAGNLAHAGASVDLTIFSLHLAGVSSILG
+                     AINFITTIINMKPPAITQYQTPLFVWAVLVTAVLLLLSLPVLAAGITMLLTDRNLNTT
+                     FFDPAGGGDPILYQHLFWFFGHPEVYILILPGFGMISHIVAYYAGKPQPFGYMGMVWA
+                     MMAIGLLGFIVWAHHMFTVGMDVDTRAYFTSATMIIAIPTGVKVFSWLATLHGGQIKW
+                     ETPLLWALGFIFLFTVGGLTGIVLANSSIDIVLHDTYYVVAHFHYVLSMGAVFAIMAG
+                     FVHWFPLFTGYTLHNTWTKIHFGVMFIGVNLTFFPQHFLGLAGMPRRYSDYPDAYTLW
+                     NTISSIGSLVSLTAVILFLFILWEAFASKREVKWVELTPTNVEWLHGCPPPYHTFEEP
+                     GYVRVHPAWDHKILKQ"
+     tRNA            complement(7052..7112)
+                     /product="tRNA-Ser"
+     tRNA            7127..7198
+                     /product="tRNA-Asp"
+     gene            7198..7888
+                     /gene="COX2"
+     CDS             7198..7888
+                     /gene="COX2"
+                     /note="TAA stop codon is completed by the addition of 3' A
+                     residues to the mRNA"
+                     /codon_start=1
+                     /transl_except=(pos:7888,aa:TERM)
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit II"
+                     /protein_id="AKO90240.1"
+                     /translation="MAHPSQLGFQDAASPVMEELLHFHDHALMIVFLISTLVLYIIVA
+                     MVTTSLTDAYILDSQEIEIVWTILPAIILILIALPSLRILYLMDEVNDPHLTIKAIGH
+                     QWYWSYEYTDYEDLGFDSYMVPTQDLAPGQFRLLEADHRMVVPMESPVRVLVTAEDVL
+                     HSWAVPALGVKMDAVPGRLNQTAFIAARPGVYYGQCSEICGANHSFMPIVVESVPLQH
+                     FESWSSMMLEDA"
+     tRNA            7889..7961
+                     /product="tRNA-Lys"
+     gene            7962..8129
+                     /gene="ATP8"
+     CDS             7962..8129
+                     /gene="ATP8"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="ATP synthase F0 subunit 8"
+                     /protein_id="AKO90242.1"
+                     /translation="MPQLNPSPWFMILVFSWMVFLLIAPTKVMAHTFANEPTQLPTKS
+                     IKTSPWNWPWH"
+     gene            8120..8803
+                     /gene="ATP6"
+     CDS             8120..8803
+                     /gene="ATP6"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="ATP synthase F0 subunit 6"
+                     /protein_id="AKO90243.1"
+                     /translation="MALNFFDQFMSPTLLGMPLMGLALILPWVLYPTPTSRWLNNRLL
+                     TLQAWFLGRFTQQIFTPLNPGGHKWALLLGSLMLFLITMNILGLLPYTFTPTTQLSLN
+                     MGFAVPLWLATVIIGMRNQPTAALGHLLPEGTPVALIPVLIIIETISLFIRPLALGVR
+                     LTANLTAGHLLIQLIATAVFVLLPMMPAVAILTATVLFLLTLLEVAVAMIQAYVFVLL
+                     LSLYLQENV"
+     gene            8803..9587
+                     /gene="COX3"
+     CDS             8803..9587
+                     /gene="COX3"
+                     /note="TAA stop codon is completed by the addition of 3' A
+                     residues to the mRNA"
+                     /codon_start=1
+                     /transl_except=(pos:9586..9587,aa:TERM)
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit III"
+                     /protein_id="AKO90239.1"
+                     /translation="MAHQAHAYHMVDPSPWPLTGAVAALLVTSGTAMWFHFQTTTLAS
+                     LGMILLLLTMYQWWRDIVREGTFQGHHTPPVQKGLRYGMILFITSEVFFFLGFFWAFY
+                     HSSLAPTPELGACWPPTGIITLDPFEVPLLNTAVLLASGVTVTWAHHSIMEGERKQAI
+                     QSLALTIILGFYFTLLQAMEYYEAPFTIADGVYGSTFFVATGFHGLHVIIGSTFLAVC
+                     LFRQVKYHFTSEHHFGFEAAAWYWHFVDVVWLFLYVSIYWWGS"
+     tRNA            9588..9658
+                     /product="tRNA-Gly"
+     gene            9659..10007
+                     /gene="ND3"
+     CDS             9659..10007
+                     /gene="ND3"
+                     /note="TAA stop codon is completed by the addition of 3' A
+                     residues to the mRNA"
+                     /codon_start=1
+                     /transl_except=(pos:10007,aa:TERM)
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 3"
+                     /protein_id="AKO90235.1"
+                     /translation="MNPIISILMITTTLSCILITVSFWLPQMNPDLEKLSPYECGFDP
+                     LGSARLPFSMRFFLVAILFLLFDLEIALLLPLPWGNQLPDTTQTFAWAALILILLTAG
+                     LAYEWTQGGLEWAE"
+     tRNA            10009..10077
+                     /product="tRNA-Arg"
+     gene            10079..10375
+                     /gene="ND4L"
+     CDS             10079..10375
+                     /gene="ND4L"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 4L"
+                     /protein_id="AKO90233.1"
+                     /translation="MTPIHYSFTLAFTLGLSGLAFHRKHLLSALLCLEAMMLSLYVAT
+                     ALWSIQMNSDTFTPAPMMLLAFSACEASAGLALLVATSRTHGTDHLKALNLLQC"
+     gene            10369..11749
+                     /gene="ND4"
+     CDS             10369..11749
+                     /gene="ND4"
+                     /note="TAA stop codon is completed by the addition of 3' A
+                     residues to the mRNA"
+                     /codon_start=1
+                     /transl_except=(pos:11749,aa:TERM)
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 4"
+                     /protein_id="AKO90234.1"
+                     /translation="MLKILIPTIMLIPTTWLVNKKWLWATITAQGLVIATISLTWFKW
+                     EAETGWAHSNLYTATDPLSTPLLVLSCWLLPLMTLASQNHMAPEPEGRQRSFLTLLVS
+                     LQTFLILAFGATEVIMFYVMFEATLIPTLIIITRWGNQAERLNAGTYFLFYTLAGSLP
+                     LLVALLVLQKDLGTLSMLIIHHTDPLTTTSWGTKIWWAGCLVAFLVKMPLYGAHLWLP
+                     KAHVEAPIAGSMVLAAVLLKLGGYGMMRIMTILTPLTKELAYPFIILALWGIIMTGSI
+                     CLRQTDLKSMIAYSSVSHMGLVAAGILIQTPWGFTGAIILMIAHGLVSSALFCLANTG
+                     YERTHSRTLLLARGMQLILPLAATWWFISSLANLALPPLPNLMGELMIIVSVFNWSGF
+                     TIVLTGLGTLITAGYSLYMFLMTQRGPTPHHIIGLEPSHTREHILIALHLAPVLLLML
+                     KPELMWGWCM"
+     tRNA            11750..11818
+                     /product="tRNA-His"
+     tRNA            11817..11890
+                     /product="tRNA-Ser"
+     tRNA            11887..11959
+                     /product="tRNA-Leu"
+     gene            11960..13801
+                     /gene="ND5"
+     CDS             11960..13801
+                     /gene="ND5"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 5"
+                     /protein_id="AKO90232.1"
+                     /translation="MHITTMMFNSSLLLVLALLVFPIITTLSPHPRKKTWALTQVKTA
+                     VKLAFLVSLMPLFIFLDQGMEVITTNWHWSNTMTFDLNTSFKFDQFSVIFVPIALYVT
+                     WSILEFAAWYMATDPNMNRFFKYLLTFLIAMIVLVTANNMFQLFIGWEGVGIMSFLLI
+                     GWWYGRADANTAALQAVVYNRVGDIGLILAMAWMATNLNSWEIQQIFMVSKDMDLTLP
+                     LMGLILAATGKSAQFGLHPWLPAAMEGPTPVSALLHSSTMVVAGVFLLIRLHPIMQEN
+                     QAALTTCLCLGALTTLFTAVCALTQNDIKKIVAFSTSSQLGLMMVTIGLNQPQLAFLH
+                     ICTHAFFKAMLFLCSGSIIHSLSDEQDIRKMGGIHNTLPFTSSCLTIGSLALTGTPFL
+                     AGFFSKDAILEALNTSHLNAWALALTLIATSFTAVYSFRIIFFASMGQPRHLSLSPIN
+                     ENDHTLMNPIKRLAWGSIVAGLVITTNYLPTKTQTMTMPISLKLAALTVTIIGFITAM
+                     ELANLTNKQLKPSPKITPHNFSNMLGYFPTLVHRMLPKMTLTLGQKTATQAMDQIWLE
+                     KVGPKGLAFSQVPMIKMINNPQQGLIKTYLGIFFLTNLIIVLMMTQA"
+     gene            complement(13798..14316)
+                     /gene="ND6"
+     CDS             complement(13798..14316)
+                     /gene="ND6"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 6"
+                     /protein_id="AKO90231.1"
+                     /translation="MEYFVSLFMFLLVLGLVGVASNPAPYFAALGLVLAAGGGCGVLA
+                     GFGGSFVSLVLFLIYLGGMLVVFAYSAALAAEPYPESWGDWSVVGYVIGYGVLCVLGA
+                     LYYVDGKGGYCFAGGELEGFSVLRGDFNGVSYIYYFGGEMLVICGWALLLTLFVVLEL
+                     ARGRERGALRAI"
+     tRNA            complement(14317..14385)
+                     /product="tRNA-Glu"
+     gene            14391..15530
+                     /gene="CYTB"
+     CDS             14391..15530
+                     /gene="CYTB"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="AKO90238.1"
+                     /translation="MANLRKTHPILKIANDALVDLPTPSNISAMWNFGSLLGLCLITQ
+                     ILTGLFLAMHYTSDISTAFSSVAHICRDVNYGWLIRNLHANGASFFFICLYMHIARGL
+                     YYGSYLYKETWNIGVILFLLVMMTAFVGYVLPWGQMSFWGATVITNLLSAVPYVGNTL
+                     VQWIWGGFSVDNATLTRFFAFHFLLPFVVLAATLLHLLFLHETGSNNPAGLNSDADKI
+                     PFHPYFSYKDLLGFIIMLTALTALALFYPNALGDPDNFIPANPMVTPPHIKPEWYFLF
+                     AYAILRSIPNKLGGVLALLFSILVLMLVPFLHTSKQRALTFRPASQILFWLLVADMLI
+                     LTWIGGMPVEHPFIIIGQVASVLYFTLFLVLNPLVAWVENKALDW"
+     tRNA            15533..15605
+                     /product="tRNA-Thr"
+     tRNA            complement(15605..15667)
+                     /product="tRNA-Pro"
+     D-loop          15672..16521
