@@ -11,6 +11,7 @@ ND2
 tRNA-Trp
 tRNA-Ala
 tRNA-Asn
+/note="putative L-strand replication origin"
 tRNA-Cys
 tRNA-Tyr
 COX1
@@ -34,5 +35,8 @@ ND6
 tRNA-Glu
 CYTB
 tRNA-Thr
+/note="tandem repeats of 347-bp sequence"
 tRNA-Pro
-CR
+/note="control region CSB-1"
+/note="control region CSB-2"
+/note="control region CSB-3"

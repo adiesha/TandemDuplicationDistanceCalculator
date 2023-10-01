@@ -14,8 +14,8 @@ tRNA-Asn
 tRNA-Cys
 tRNA-Tyr
 COX1
-tRNA-Ser
 tRNA-Asp
+tRNA-Ser
 COX2
 tRNA-Lys
 ATP8

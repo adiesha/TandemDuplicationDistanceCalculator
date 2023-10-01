@@ -1,0 +1,482 @@
+Aeluroscalabotes felinus mitochondrion, complete genome
+NCBI Reference Sequence: NC_035150.1
+
+FASTA Graphics
+Go to:
+LOCUS       NC_035150              18974 bp    DNA     circular VRT 03-APR-2023
+DEFINITION  Aeluroscalabotes felinus mitochondrion, complete genome.
+ACCESSION   NC_035150
+VERSION     NC_035150.1
+DBLINK      BioProject: PRJNA927338
+KEYWORDS    RefSeq.
+SOURCE      mitochondrion Aeluroscalabotes felinus
+  ORGANISM  Aeluroscalabotes felinus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Lepidosauria; Squamata; Bifurcata; Gekkota; Gekkonidae;
+            Aeluroscalabotinae; Aeluroscalabotes.
+REFERENCE   1  (bases 1 to 18974)
+  AUTHORS   Kumazawa,Y.
+  TITLE     Complete mitochondrial genome sequence of Aeluroscalabotes felinus
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 18974)
+  CONSRTM   NCBI Genome Project
+  TITLE     Direct Submission
+  JOURNAL   Submitted (27-JUN-2017) National Center for Biotechnology
+            Information, NIH, Bethesda, MD 20894, USA
+REFERENCE   3  (bases 1 to 18974)
+  AUTHORS   Kumazawa,Y.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (29-JUL-2012) Nagoya City University, Department of
+            Information and Basic Science, Graduate School of Natural Sciences;
+            1 Yamanohata, Mizuho-cho, Mizuho-ku, Nagoya, Aichi 467-8501, Japan
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence is identical to AB738948.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..18974
+                     /organism="Aeluroscalabotes felinus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="Afel1"
+                     /db_xref="taxon:96749"
+     gene            1..75
+                     /locus_tag="CEK10_mgt01"
+                     /db_xref="GeneID:33194382"
+     tRNA            1..75
+                     /locus_tag="CEK10_mgt01"
+                     /product="tRNA-Phe"
+                     /db_xref="GeneID:33194382"
+     gene            76..1014
+                     /locus_tag="CEK10_mgr02"
+                     /db_xref="GeneID:33194396"
+     rRNA            76..1014
+                     /locus_tag="CEK10_mgr02"
+                     /product="12S ribosomal RNA"
+                     /db_xref="GeneID:33194396"
+     gene            1015..1078
+                     /locus_tag="CEK10_mgt02"
+                     /db_xref="GeneID:33194397"
+     tRNA            1015..1078
+                     /locus_tag="CEK10_mgt02"
+                     /product="tRNA-Val"
+                     /db_xref="GeneID:33194397"
+     gene            1079..2617
+                     /locus_tag="CEK10_mgr01"
+                     /db_xref="GeneID:33194398"
+     rRNA            1079..2617
+                     /locus_tag="CEK10_mgr01"
+                     /product="16S ribosomal RNA"
+                     /db_xref="GeneID:33194398"
+     gene            2618..2693
+                     /locus_tag="CEK10_mgt03"
+                     /db_xref="GeneID:33194399"
+     tRNA            2618..2693
+                     /locus_tag="CEK10_mgt03"
+                     /product="tRNA-Leu"
+                     /codon_recognized="UUR"
+                     /db_xref="GeneID:33194399"
+     gene            2694..3657
+                     /gene="ND1"
+                     /locus_tag="CEK10_mgp13"
+                     /db_xref="GeneID:33194400"
+     CDS             2694..3657
+                     /gene="ND1"
+                     /locus_tag="CEK10_mgp13"
+                     /note="TAA stop codon is completed by the addition of 3' A
+                     residues to the mRNA"
+                     /codon_start=1
+                     /transl_except=(pos:3657,aa:TERM)
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 1"
+                     /protein_id="YP_009388911.1"
+                     /db_xref="GeneID:33194400"
+                     /translation="MHQMIPKLMNSILLIMPILLSVAFLTLLERKFLGYMQHRKGPNI
+                     IGTFGLLQPIADGMKLFIKEPLRPTSSNMTLFLMAPIMALTLALMIWIPLPMPQALSE
+                     MNLGLLFMLALSSLMVYSILWSGWASNSKYALIGALRAIAQTISYEVSLGIIILSTVL
+                     STGGFSLKMILLTQEQGPLMMSTWPLMMMWFISTLAETNRAPFDLTEGESELVSGFNT
+                     EYAGGLFALFFLAEYANILLMNTLSCILFLSQSTAYSNIFTLSLMIKTCLLTLGFLWV
+                     RASYPRFRYDQLMHLVWKNFLPLILALCLWYTMMPIMLAGTPSNM"
+     gene            3658..3730
+                     /locus_tag="CEK10_mgt04"
+                     /db_xref="GeneID:33194389"
+     tRNA            3658..3730
+                     /locus_tag="CEK10_mgt04"
+                     /product="tRNA-Ile"
+                     /db_xref="GeneID:33194389"
+     gene            complement(3729..3798)
+                     /locus_tag="CEK10_mgt05"
+                     /db_xref="GeneID:33194401"
+     tRNA            complement(3729..3798)
+                     /locus_tag="CEK10_mgt05"
+                     /product="tRNA-Gln"
+                     /db_xref="GeneID:33194401"
+     gene            3798..3862
+                     /locus_tag="CEK10_mgt06"
+                     /db_xref="GeneID:33194402"
+     tRNA            3798..3862
+                     /locus_tag="CEK10_mgt06"
+                     /product="tRNA-Met"
+                     /db_xref="GeneID:33194402"
+     gene            3863..4901
+                     /gene="ND2"
+                     /locus_tag="CEK10_mgp12"
+                     /db_xref="GeneID:33194403"
+     CDS             3863..4901
+                     /gene="ND2"
+                     /locus_tag="CEK10_mgp12"
+                     /note="TAA stop codon is completed by the addition of 3' A
+                     residues to the mRNA"
+                     /codon_start=1
+                     /transl_except=(pos:4901,aa:TERM)
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 2"
+                     /protein_id="YP_009388912.1"
+                     /db_xref="GeneID:33194403"
+                     /translation="MNPLIQLLLISGMAMGTIITLSSSHWLIAWIGLEINTLAIIPIL
+                     TNEHYPRTTEAATKYFLTQAIASALIMLSSMTNAWMTGQWDISQLTTPLAMLLLTLAI
+                     TMKLGLAPFHFWFLEVMQGATLKISLALSTWQKLAPFCLLYMTAPHLNHPLLITFSLF
+                     STMIGSMTGLNQTQTRKIMACSSITHLGWLTTMLTLNPPITMLTLILYILMTTTIFLV
+                     LIMLSMKTLIDLEIVGSTVPMLAMMTMLMLLSLGGLPPLTGFLPKWLILNELMKFKLI
+                     IFSMMLALTTLPSLFFYLRMGYLMIMVLPPTTTPKYNWRLKIKYPLMLAILMTLSTLL
+                     LPNLPMILMILS"
+     gene            4902..4966
+                     /locus_tag="CEK10_mgt07"
+                     /db_xref="GeneID:33194390"
+     tRNA            4902..4966
+                     /locus_tag="CEK10_mgt07"
+                     /product="tRNA-Trp"
+                     /db_xref="GeneID:33194390"
+     gene            complement(4966..5033)
+                     /locus_tag="CEK10_mgt08"
+                     /db_xref="GeneID:33194404"
+     tRNA            complement(4966..5033)
+                     /locus_tag="CEK10_mgt08"
+                     /product="tRNA-Ala"
+                     /db_xref="GeneID:33194404"
+     gene            complement(5035..5107)
+                     /locus_tag="CEK10_mgt09"
+                     /db_xref="GeneID:33194405"
+     tRNA            complement(5035..5107)
+                     /locus_tag="CEK10_mgt09"
+                     /product="tRNA-Asn"
+                     /db_xref="GeneID:33194405"
+     rep_origin      5109..5139
+                     /note="putative L-strand replication origin"
+     gene            complement(5136..5193)
+                     /locus_tag="CEK10_mgt10"
+                     /db_xref="GeneID:33194406"
+     tRNA            complement(5136..5193)
+                     /locus_tag="CEK10_mgt10"
+                     /product="tRNA-Cys"
+                     /db_xref="GeneID:33194406"
+     gene            complement(5194..5261)
+                     /locus_tag="CEK10_mgt11"
+                     /db_xref="GeneID:33194407"
+     tRNA            complement(5194..5261)
+                     /locus_tag="CEK10_mgt11"
+                     /product="tRNA-Tyr"
+                     /db_xref="GeneID:33194407"
+     gene            5263..6816
+                     /gene="COX1"
+                     /locus_tag="CEK10_mgp11"
+                     /db_xref="GeneID:33194408"
+     CDS             5263..6816
+                     /gene="COX1"
+                     /locus_tag="CEK10_mgp11"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="YP_009388913.1"
+                     /db_xref="GeneID:33194408"
+                     /translation="MMLTRWFFSTNHKDIGTLYLIFGAWAGMTGTALSLLIRAELSEP
+                     GTLLGDDQIYNVVVTAHAFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSF
+                     WLLPPSLMLLLASSSIEAGAGTGWTVYPPLAANLAHAGAAVDLTIFSLHLAGASSILG
+                     AINFITTCLNMKPPMMTQYMTPLFVWSVLITAVLLLLSLPVLAAGITMLLTDRNLNTA
+                     FFDPAGGGDPILYQHLFWFFGHPEVYILILPGFGMISHIVAYSAGKKEPFGYMGMVWA
+                     MMSIGFLGFIVWAHHMFTVGMDVDTRAYFTSATMIIAIPTGVKVFSWLATLHGGTIKW
+                     NTALLWALGFIFLFTIGGLTGIVLANSSLDIVLHDTYYVVAHFHYVLSMGAVFAIMGG
+                     FIHWFPLFSGYSLHSTWTKIHFGVMFVGVNMTFFPQHFLGLAGMPRRYSDYPDAYTLW
+                     NTLSSIGSLISLIAVIMMLFIIWEAYSAKREVSSIELLSTNLEWLHKYPPSYHTYEEP
+                     VYLLQNKKW"
+     gene            complement(6804..6874)
+                     /locus_tag="CEK10_mgt12"
+                     /db_xref="GeneID:33194385"
+     tRNA            complement(6804..6874)
+                     /locus_tag="CEK10_mgt12"
+                     /product="tRNA-Ser"
+                     /codon_recognized="UCN"
+                     /db_xref="GeneID:33194385"
+     gene            6877..6942
+                     /locus_tag="CEK10_mgt13"
+                     /db_xref="GeneID:33194409"
+     tRNA            6877..6942
+                     /locus_tag="CEK10_mgt13"
+                     /product="tRNA-Asp"
+                     /db_xref="GeneID:33194409"
+     gene            6946..7630
+                     /gene="COX2"
+                     /locus_tag="CEK10_mgp10"
+                     /db_xref="GeneID:33194410"
+     CDS             6946..7630
+                     /gene="COX2"
+                     /locus_tag="CEK10_mgp10"
+                     /note="TAA stop codon is completed by the addition of 3' A
+                     residues to the mRNA"
+                     /codon_start=1
+                     /transl_except=(pos:7630,aa:TERM)
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit II"
+                     /protein_id="YP_009388914.1"
+                     /db_xref="GeneID:33194410"
+                     /translation="MAHPMQLGFQNATSPIMEELLYFHDHTLMILFLISTLILYMILL
+                     MVTTTLTHTNAVDAQTIEMVWTLLPAIILIMIALPSLRILYLMDEVNNPHLTIKAIGH
+                     QWYWSYEYTDYQAVLFDSYMIPTNSISPGMYRLLDVDHRMIIPMESPIRMLISADDVL
+                     HSWAVPTLGVKTDAIPGRLNQTSFIISRPSLSYGQCSEICGSNHSFMPIVVEATTLEA
+                     FENWMKLTPM"
+     gene            7631..7693
+                     /locus_tag="CEK10_mgt14"
+                     /db_xref="GeneID:33194386"
+     tRNA            7631..7693
+                     /locus_tag="CEK10_mgt14"
+                     /product="tRNA-Lys"
+                     /db_xref="GeneID:33194386"
+     gene            7694..7858
+                     /gene="ATP8"
+                     /locus_tag="CEK10_mgp09"
+                     /db_xref="GeneID:33194411"
+     CDS             7694..7858
+                     /gene="ATP8"
+                     /locus_tag="CEK10_mgp09"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="ATP synthase F0 subunit 8"
+                     /protein_id="YP_009388915.1"
+                     /db_xref="GeneID:33194411"
+                     /translation="MPQLIPAPWFMTMLMTWIILLMMLIPMTMQINSLLSPKILKSTI
+                     PDIAWIWLWY"
+     gene            7849..8528
+                     /gene="ATP6"
+                     /locus_tag="CEK10_mgp08"
+                     /db_xref="GeneID:33194384"
+     CDS             7849..8528
+                     /gene="ATP6"
+                     /locus_tag="CEK10_mgp08"
+                     /note="TAA stop codon is completed by the addition of 3' A
+                     residues to the mRNA"
+                     /codon_start=1
+                     /transl_except=(pos:8527..8528,aa:TERM)
+                     /transl_table=2
+                     /product="ATP synthase F0 subunit 6"
+                     /protein_id="YP_009388916.1"
+                     /db_xref="GeneID:33194384"
+                     /translation="MMLNLFDQFMSPTLMGVPLMILALLAPTLLIPYKLRLQTNRFNA
+                     MKLWMVKKSIKHLMQPLGQAAQEWAVMLLVLMFFLLLLNILGLFPYTFTPTTQLAMNL
+                     SLALPMWLMTVLTGAWNYPTRSLSHLLPMGTPKVLVPSLIIIETLSLLLRPLALGVRL
+                     TANLTAGHLLIQLISTAILSLFPLSLMISISTTILLVLLLLLEIAVAMIQAYVFSLLM
+                     SLYLEENI"
+     gene            8529..9312
+                     /gene="COX3"
+                     /locus_tag="CEK10_mgp07"
+                     /db_xref="GeneID:33194383"
+     CDS             8529..9312
+                     /gene="COX3"
+                     /locus_tag="CEK10_mgp07"
+                     /note="TAA stop codon is completed by the addition of 3' A
+                     residues to the mRNA"
+                     /codon_start=1
+                     /transl_except=(pos:9312,aa:TERM)
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit III"
+                     /protein_id="YP_009388917.1"
+                     /db_xref="GeneID:33194383"
+                     /translation="MDHQAHTYHMVDPSPWPLTGAIAALLLTSGLTTWFHYKTLILMY
+                     MGLILLALTTIQWWRDIIRESTYQGHHTMFVQTGLRYGMMLFITSEIFFFLGFFWAFY
+                     HSSLAPTPELGGGWPPTGIITVSPFDVPLLNTAILLSSGVTVTWAHHSIMEGKHKEAM
+                     QALMLTVGLGIYFTLLQMMEYYDAPFTIADSVYGSTFFIATGFHGMHVIIGTSFLFVC
+                     LLRQMMQHFTTNHHFGFEAAAWYWHFVDVVWLFLYISIYWWGT"
+     gene            9313..9379
+                     /locus_tag="CEK10_mgt15"
+                     /db_xref="GeneID:33194387"
+     tRNA            9313..9379
+                     /locus_tag="CEK10_mgt15"
+                     /product="tRNA-Gly"
+                     /db_xref="GeneID:33194387"
+     gene            9380..9725
+                     /gene="ND3"
+                     /locus_tag="CEK10_mgp06"
+                     /db_xref="GeneID:33194412"
+     CDS             9380..9725
+                     /gene="ND3"
+                     /locus_tag="CEK10_mgp06"
+                     /note="TAA stop codon is completed by the addition of 3' A
+                     residues to the mRNA"
+                     /codon_start=1
+                     /transl_except=(pos:9725,aa:TERM)
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 3"
+                     /protein_id="YP_009388918.1"
+                     /db_xref="GeneID:33194412"
+                     /translation="MNLLLYLFIVALIMGLLMIMSFWLPQLTPDMEKLSPYECGFDPY
+                     GTARLPFSLRFFLIAILFLLFDLEIALLLPLPWAMCLINPNSLMFWAIILIFLLIMGL
+                     IYEWMQGGLEWAE"
+     gene            9726..9791
+                     /locus_tag="CEK10_mgt16"
+                     /db_xref="GeneID:33194391"
+     tRNA            9726..9791
+                     /locus_tag="CEK10_mgt16"
+                     /product="tRNA-Arg"
+                     /db_xref="GeneID:33194391"
+     gene            9791..10087
+                     /gene="ND4L"
+                     /locus_tag="CEK10_mgp05"
+                     /db_xref="GeneID:33194413"
+     CDS             9791..10087
+                     /gene="ND4L"
+                     /locus_tag="CEK10_mgp05"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 4L"
+                     /protein_id="YP_009388919.1"
+                     /db_xref="GeneID:33194413"
+                     /translation="MAPLQLMTTGTFLLSALGVAMYRTHLVSALLCIEGMLLTLFINL
+                     ITMTQNMELTTMICSPMTILTFSACEACTGLALLVASTRTHASDHLKNLNLLQC"
+     gene            10081..11446
+                     /gene="ND4"
+                     /locus_tag="CEK10_mgp04"
+                     /db_xref="GeneID:33194393"
+     CDS             10081..11446
+                     /gene="ND4"
+                     /locus_tag="CEK10_mgp04"
+                     /note="TAA stop codon is completed by the addition of 3' A
+                     residues to the mRNA"
+                     /codon_start=1
+                     /transl_except=(pos:11446,aa:TERM)
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 4"
+                     /protein_id="YP_009388920.1"
+                     /db_xref="GeneID:33194393"
+                     /translation="MLKLLLPMLMLPPTILTMKKSMLFTTFTCYTTLTALMTVHYLNN
+                     PINLPAWKVCPLLGLDHVSTPLLILSTWIPPLMAVANQQNMQMNSSNQQRLFLLTCSL
+                     LQITLIMAFSVTNLIFFYIMFESTLIPTLILITRWGSQMERLTAGMYFLFYTLFGSLP
+                     LLIALLWMESHTNNIMMLFPLLMEMTNSSMLTSPFLWLACLFAFLIKMPLYGLHLWLP
+                     KAHVEAPIAGSMVLAAILLKLGGYGIIRIMPVLTSVMEVMTLPLMVLALWGMIMTSLI
+                     CLRQTDLKAIIAYSSVSHMALVVAATLIKTPWSISGALILMIAHGLSSSLLFCLANTN
+                     YERTHTRTLLLVRGLQNILPFMTFWWLMASLTNMALPPTINIIGELMIISSLFNWASM
+                     TLLLTGLATLLTGIYTLYIFLTMQQGKLTLNLACNPSYTREHLLMTLHLLPLILLMLN
+                     PKLLT"
+     gene            11447..11515
+                     /locus_tag="CEK10_mgt17"
+                     /db_xref="GeneID:33194392"
+     tRNA            11447..11515
+                     /locus_tag="CEK10_mgt17"
+                     /product="tRNA-His"
+                     /db_xref="GeneID:33194392"
+     gene            11516..11580
+                     /locus_tag="CEK10_mgt18"
+                     /db_xref="GeneID:33194414"
+     tRNA            11516..11580
+                     /locus_tag="CEK10_mgt18"
+                     /product="tRNA-Ser"
+                     /codon_recognized="AGY"
+                     /db_xref="GeneID:33194414"
+     gene            11580..11652
+                     /locus_tag="CEK10_mgt19"
+                     /db_xref="GeneID:33194415"
+     tRNA            11580..11652
+                     /locus_tag="CEK10_mgt19"
+                     /product="tRNA-Leu"
+                     /codon_recognized="CUN"
+                     /db_xref="GeneID:33194415"
+     gene            11653..13470
+                     /gene="ND5"
+                     /locus_tag="CEK10_mgp03"
+                     /db_xref="GeneID:33194416"
+     CDS             11653..13470
+                     /gene="ND5"
+                     /locus_tag="CEK10_mgp03"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 5"
+                     /protein_id="YP_009388921.1"
+                     /db_xref="GeneID:33194416"
+                     /translation="MLNLMFHTTTTLTLLVLLLPFLFPRTMSKLWTNPITTATKLACM
+                     MSMISLATFISTGVETITTSLTWLNSLFSLQISLMFDRYSTSFLPIALFITWTIMEFT
+                     NWYMNKDFNRKKFMKYLLLFLLAMFILITANNLFQLFIGWEGVGIMSFLLIGWWFSRM
+                     NANSAALQAMIYNRIGDIGLLLSLSWFAMYYNTWNFEELFSLTTMPLLPLLGIILAAA
+                     GKSAQFGLHPWLPNAMEGPTPVSALLHSSTMVVAGVFLLIRLNPLLQMNSTTTTICLC
+                     LGATTTVFSALCALTQNDLKKIIAFSTSSQLGLMMVAIGLNQPDLAFLHISTHAFFKA
+                     MLFLCSGSIIHSLSDEQDIRKMGNLQKTLPITMASMTLGSLALIGIPFLAGFYSKDMI
+                     IEALNTTHTNAWALMLTLLATALTAAYSFRMMFYTQMNTPHYLPLSPTLESNKYQIRP
+                     ILYLGLGTLFSGFIITMMMMPMKTQIMTMNFSTKLMTLLITTIGLLVALDLTKSSMTL
+                     SSTKPTIKYNMLNQLGFFNILTHRTIPQLIFNLSQKLAYQLNDLLWYEKLGPKMLMDG
+                     AKKMSNLLTKAQTGLMKTYLTIFMITMMGVSFISFYTER"
+     gene            complement(13455..13982)
+                     /gene="ND6"
+                     /locus_tag="CEK10_mgp02"
+                     /db_xref="GeneID:33194394"
+     CDS             complement(13455..13982)
+                     /gene="ND6"
+                     /locus_tag="CEK10_mgp02"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 6"
+                     /protein_id="YP_009388922.1"
+                     /db_xref="GeneID:33194394"
+                     /translation="MSYFLVFLSLFFVLCLAGVAANPFPLFGAIGLIFATLIGCGILV
+                     LLGMSLISMILLLIYLGGMLVVFAYSIALSAEAYPETWLDYSVFMYLMAYGFLFYIFI
+                     SLSGDFNLIDGWGILQVDAFGFFDLRLDISGIILLYSDGGPLLLLCAGGLLLVLFVVL
+                     ELSRGRMRGGGLRSV"
+     gene            complement(13983..14048)
+                     /locus_tag="CEK10_mgt20"
+                     /db_xref="GeneID:33194395"
+     tRNA            complement(13983..14048)
+                     /locus_tag="CEK10_mgt20"
+                     /product="tRNA-Glu"
+                     /db_xref="GeneID:33194395"
+     gene            14052..15186
+                     /gene="CYTB"
+                     /locus_tag="CEK10_mgp01"
+                     /db_xref="GeneID:33194417"
+     CDS             14052..15186
+                     /gene="CYTB"
+                     /locus_tag="CEK10_mgp01"
+                     /note="TAA stop codon is completed by the addition of 3' A
+                     residues to the mRNA"
+                     /codon_start=1
+                     /transl_except=(pos:15186,aa:TERM)
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="YP_009388923.1"
+                     /db_xref="GeneID:33194417"
+                     /translation="MLSRKTDPLLKILNNSFIDLPTPSNITIWWNFGSLLGLCLCMQI
+                     LTGLLLATHYTAEITSAFASIVYICRDVNYGWLIRSLHANGASFFFICLYIHLARGLY
+                     YGSYLYKKTWNIGVTLLLLTMMTAFVGYVLPWGQMSFWGATVITNLLSAIPYIGTTLV
+                     TWMWGGFSVDSATLTRFFMLHFLFPFIICAMAGVHLLFLHETGSNNPTGLSSNTDKIP
+                     FHPYFSMKDLLGSLLLLLLLLLVTFFYPNMFLEPDNFIPANPLSTPIHIKPEWYFLFA
+                     YAILRSIPNKLGGVLALLCSILLFFFIPMLHIAKQRSQMFRPFAQVIFWLFITNILIL
+                     TWIGAQPVEPPFIMIGQYASFNYFILPMVMMPLINKLENLMLNW"
+     gene            15187..15258
+                     /locus_tag="CEK10_mgt21"
+                     /db_xref="GeneID:33194388"
+     tRNA            15187..15258
+                     /locus_tag="CEK10_mgt21"
+                     /product="tRNA-Thr"
+                     /db_xref="GeneID:33194388"
+     repeat_region   15260..17109
+                     /note="tandem repeats of 347-bp sequence"
+                     /rpt_type=tandem
+     gene            complement(17127..17192)
+                     /locus_tag="CEK10_mgt22"
+                     /db_xref="GeneID:33194418"
+     tRNA            complement(17127..17192)
+                     /locus_tag="CEK10_mgt22"
+                     /product="tRNA-Pro"
+                     /db_xref="GeneID:33194418"
+     misc_feature    17193..18974
+                     /note="The major non-coding region"
+     misc_feature    17894..17916
+                     /note="control region CSB-1"
+     misc_feature    18755..18772
+                     /note="control region CSB-2"
+     misc_feature    18807..18824
+                     /note="control region CSB-3"

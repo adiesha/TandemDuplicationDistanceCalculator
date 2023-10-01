@@ -2,6 +2,8 @@ tRNA-Phe
 12S
 tRNA-Val
 16S
+CR
+tRNA-Pro
 tRNA-Leu
 ND1
 tRNA-Ile
@@ -34,5 +36,5 @@ ND6
 tRNA-Glu
 CYTB
 tRNA-Thr
-tRNA-Pro
 CR
+tRNA-Pro

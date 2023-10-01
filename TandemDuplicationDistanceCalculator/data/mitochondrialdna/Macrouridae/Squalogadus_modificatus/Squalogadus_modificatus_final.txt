@@ -2,9 +2,9 @@ tRNA-Phe
 12S
 tRNA-Val
 16S
-tRNA-Leu
 ND1
 tRNA-Ile
+tRNA-Leu
 tRNA-Gln
 tRNA-Met
 ND2

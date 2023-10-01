@@ -11,6 +11,7 @@ ND2
 tRNA-Trp
 tRNA-Ala
 tRNA-Asn
+/note="L-strand origin of replication"
 tRNA-Cys
 tRNA-Tyr
 COX1
@@ -34,5 +35,6 @@ ND6
 tRNA-Glu
 CYTB
 tRNA-Thr
+tRNA-Pro
 tRNA-Pro
 CR

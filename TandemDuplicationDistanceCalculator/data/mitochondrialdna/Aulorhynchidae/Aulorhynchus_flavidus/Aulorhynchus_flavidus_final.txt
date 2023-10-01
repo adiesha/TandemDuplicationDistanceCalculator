@@ -26,8 +26,8 @@ ND3
 tRNA-Arg
 ND4L
 ND4
-tRNA-His
 tRNA-Ser
+tRNA-His
 tRNA-Leu
 ND5
 ND6

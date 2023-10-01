@@ -31,8 +31,8 @@ tRNA-Ser
 tRNA-Leu
 ND5
 ND6
-tRNA-Glu
 CYTB
 tRNA-Thr
 tRNA-Pro
+tRNA-Glu
 CR

@@ -33,6 +33,6 @@ ND5
 ND6
 tRNA-Glu
 CYTB
-tRNA-Thr
 tRNA-Pro
 CR
+tRNA-Thr

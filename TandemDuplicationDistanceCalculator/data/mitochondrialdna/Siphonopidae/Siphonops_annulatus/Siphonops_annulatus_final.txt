@@ -8,10 +8,11 @@ tRNA-Ile
 tRNA-Gln
 tRNA-Met
 ND2
-tRNA-Trp
 tRNA-Ala
-tRNA-Asn
+OL
 tRNA-Cys
+tRNA-Trp
+tRNA-Asn
 tRNA-Tyr
 COX1
 tRNA-Ser
