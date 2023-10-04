@@ -69,7 +69,14 @@ public class ReadMTGeneOrderTest {
         lz77Updated.compress(str1, str2);
         lz77Updated.printCompressed();
         System.out.println(ReadMTGeneOrder.getSubsequenceTuples(lz77Updated.getOutput(), str1 + str1));
+        List<List<LZ77Updated.Tuple1>> tuples = ReadMTGeneOrder.getSubsequenceTuples(lz77Updated.getOutput(), str1 + str1);
+        System.out.println("# of TDs = " + tuples.size());
+        int dels = 0;
+        for (List<LZ77Updated.Tuple1> t : tuples) {
+            dels = dels + t.size() + 1;
+        }
 
+        System.out.println("# of Deletions = " + dels);
     }
 }
 
