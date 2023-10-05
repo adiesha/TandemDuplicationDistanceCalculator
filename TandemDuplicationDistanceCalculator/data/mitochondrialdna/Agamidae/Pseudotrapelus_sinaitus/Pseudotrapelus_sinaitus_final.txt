@@ -4,8 +4,8 @@ tRNA-Val
 16S
 tRNA-Leu
 ND1
-tRNA-Ile
 tRNA-Gln
+tRNA-Ile
 tRNA-Met
 ND2
 tRNA-Trp
@@ -30,8 +30,9 @@ tRNA-His
 tRNA-Ser
 tRNA-Leu
 ND5
-CYTB
-tRNA-Thr
 ND6
 tRNA-Glu
+CYTB
+tRNA-Thr
 CR
+tRNA-Pro

@@ -1,0 +1,473 @@
+Notothenia coriiceps mitochondrion, complete genome
+NCBI Reference Sequence: NC_015653.1
+
+FASTA Graphics
+Go to:
+LOCUS       NC_015653              18347 bp    DNA     circular VRT 03-APR-2023
+DEFINITION  Notothenia coriiceps mitochondrion, complete genome.
+ACCESSION   NC_015653
+VERSION     NC_015653.1
+DBLINK      BioProject: PRJNA927338
+KEYWORDS    RefSeq.
+SOURCE      mitochondrion Notothenia coriiceps (black rockcod)
+  ORGANISM  Notothenia coriiceps
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Perciformes; Notothenioidei;
+            Nototheniidae; Notothenia.
+REFERENCE   1  (bases 1 to 18347)
+  CONSRTM   NCBI Genome Project
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-JUN-2011) National Center for Biotechnology
+            Information, NIH, Bethesda, MD 20894, USA
+REFERENCE   2  (bases 1 to 18347)
+  AUTHORS   Lee,J.K., Choi,J.E. and Park,H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-MAY-2011) Korea Polar Research Institute (KOPRI),
+            Get-pearl Tower, Songdo Techno Park, 12 Gaetbeol-ro, Incheon
+            406-840, South Korea
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence is identical to JF933906.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..18347
+                     /organism="Notothenia coriiceps"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="KGI0102"
+                     /db_xref="taxon:8208"
+     gene            1..975
+                     /gene="ND1"
+                     /locus_tag="KEH25_p01"
+                     /db_xref="GeneID:10752035"
+     CDS             1..975
+                     /gene="ND1"
+                     /locus_tag="KEH25_p01"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 1"
+                     /protein_id="YP_004581484.1"
+                     /db_xref="GeneID:10752035"
+                     /translation="MLSTLLTQIVNPLAYIVPVLLAVAFLTLLERKVLGYMQLRKGPN
+                     IVGPYGLLQPIADGLKLFTKEPIRPSTSSPLLFLLAPILALTLALALWAPLPLPHPVV
+                     DLNLGVLFVLALSSLAVYSILGSGWASNSKYALVGALRAVAQTISYEVSLGLILLSVI
+                     IFAGGFTLQTFNIAQESIWLVLPAWPLAAMWYISTLAETNRAPFDLTEGESELVSGFN
+                     VEYAGGPFALFFLAEYSNILLMNTLSTILFLGASHIPSFPELTTTNLMVKAALLSVVF
+                     LWVRASYPRFRYDQLMHLIWKNFLPLTLALVIWHLALPIAFTGLPPQF"
+     gene            980..1049
+                     /locus_tag="KEH25_t01"
+                     /db_xref="GeneID:64988814"
+     tRNA            980..1049
+                     /locus_tag="KEH25_t01"
+                     /product="tRNA-Ile"
+                     /db_xref="GeneID:64988814"
+     gene            complement(1049..1120)
+                     /locus_tag="KEH25_t02"
+                     /db_xref="GeneID:64988837"
+     tRNA            complement(1049..1120)
+                     /locus_tag="KEH25_t02"
+                     /product="tRNA-Gln"
+                     /db_xref="GeneID:64988837"
+     gene            1120..1188
+                     /locus_tag="KEH25_t03"
+                     /db_xref="GeneID:64988823"
+     tRNA            1120..1188
+                     /locus_tag="KEH25_t03"
+                     /product="tRNA-Met"
+                     /db_xref="GeneID:64988823"
+     gene            1189..2234
+                     /gene="ND2"
+                     /locus_tag="KEH25_p13"
+                     /db_xref="GeneID:10752023"
+     CDS             1189..2234
+                     /gene="ND2"
+                     /locus_tag="KEH25_p13"
+                     /note="TAA stop codon is completed by the addition of 3' A
+                     residues to the mRNA"
+                     /codon_start=1
+                     /transl_except=(pos:2233..2234,aa:TERM)
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 2"
+                     /protein_id="YP_004581485.1"
+                     /db_xref="GeneID:10752023"
+                     /translation="MSPYVLALLLFSLGLGTTMTFASSHWLLAWVGLEINTLAILPLM
+                     AQNHHPRAVEAATKYFLIQAGGAAVLLFAGTTNAYLTGQWDIQQAAHPLPIAIITLAL
+                     ALKLGLAPLHSWMPEVFQGLSLTTGLVLATWQKLAPLTLLLQIQPVNSPLLIFLGLAS
+                     TLIGGWGGLNQTQLRKILAYSSTAQLGWMVLVLQFAPSLTTLAILVYIAAATATFLTL
+                     KLAKATSINMLAISWAKAPALVALTPLVLLSLAGLPPMTGFMPKWLILQELSKQELAP
+                     TATLAALTALLSLYYYLRLTYAMTLTMFPNNLAGTLPWRLPSHQLTLPLACLAIATIS
+                     LLPLTPAALALVAL"
+     gene            2235..2305
+                     /locus_tag="KEH25_t04"
+                     /db_xref="GeneID:64988815"
+     tRNA            2235..2305
+                     /locus_tag="KEH25_t04"
+                     /product="tRNA-Trp"
+                     /db_xref="GeneID:64988815"
+     gene            complement(2307..2375)
+                     /locus_tag="KEH25_t05"
+                     /db_xref="GeneID:64988824"
+     tRNA            complement(2307..2375)
+                     /locus_tag="KEH25_t05"
+                     /product="tRNA-Ala"
+                     /db_xref="GeneID:64988824"
+     gene            complement(2377..2449)
+                     /locus_tag="KEH25_t06"
+                     /db_xref="GeneID:64988825"
+     tRNA            complement(2377..2449)
+                     /locus_tag="KEH25_t06"
+                     /product="tRNA-Asn"
+                     /db_xref="GeneID:64988825"
+     gene            complement(2484..2550)
+                     /locus_tag="KEH25_t07"
+                     /db_xref="GeneID:64988826"
+     tRNA            complement(2484..2550)
+                     /locus_tag="KEH25_t07"
+                     /product="tRNA-Cys"
+                     /db_xref="GeneID:64988826"
+     gene            complement(2551..2620)
+                     /locus_tag="KEH25_t08"
+                     /db_xref="GeneID:64988827"
+     tRNA            complement(2551..2620)
+                     /locus_tag="KEH25_t08"
+                     /product="tRNA-Tyr"
+                     /db_xref="GeneID:64988827"
+     gene            2622..4172
+                     /gene="COX1"
+                     /locus_tag="KEH25_p12"
+                     /db_xref="GeneID:10752024"
+     CDS             2622..4172
+                     /gene="COX1"
+                     /locus_tag="KEH25_p12"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="YP_004581486.1"
+                     /db_xref="GeneID:10752024"
+                     /translation="MAITRWFFSTNHKDIGTLYLVFGAWAGMVGTALSLLIRAELSQP
+                     GSLLGDDQIYNVIVTAHAFVMIFFMVMPIMIGGFGNWLIPLMIGAPDMAFPRMNNMSF
+                     WLLPPSFLLLLASSGVEAGAGTGWTVYPPLSGNLAHAGASVDLTIFSLHLAGISSILG
+                     AINFITTIINMKPPAISQYQTPLFVWAVLITAVLLLLSLPVLAAGITMLLTDRNLNTT
+                     FFDPAGGGDPILYQHLFWFFGHPEVYILILPGFGMISHIVAYYAGKQEPFGYMGMVWA
+                     MMAIGLLGFIVWAHHMFTVGMDVDTRAYFTSATMIIAIPTGVKVFSWLATLHGGTIKW
+                     EAPLLWALGFIFLFTVGGLTGIVLANSSLDIVLHDTYYVVAHFHYVLSMGAVFAIVAA
+                     FVHWFPLFTGYTMHSVWTKIHFTVMFIGVNLTFFPQHFLGLAGMPRRYSDYPDAYTLW
+                     NTVSSIGSLVSLVAVIMFLFIIWEAFAAKREVSSVELTTTNVEWLHGCPPPYHTFEEP
+                     AFVQIHYN"
+     gene            complement(4173..4243)
+                     /locus_tag="KEH25_t09"
+                     /db_xref="GeneID:64988816"
+     tRNA            complement(4173..4243)
+                     /locus_tag="KEH25_t09"
+                     /product="tRNA-Ser"
+                     /codon_recognized="UCN"
+                     /db_xref="GeneID:64988816"
+     gene            4245..4315
+                     /locus_tag="KEH25_t10"
+                     /db_xref="GeneID:64988828"
+     tRNA            4245..4315
+                     /locus_tag="KEH25_t10"
+                     /product="tRNA-Asp"
+                     /db_xref="GeneID:64988828"
+     gene            4318..5008
+                     /gene="COX2"
+                     /locus_tag="KEH25_p11"
+                     /db_xref="GeneID:10752025"
+     CDS             4318..5008
+                     /gene="COX2"
+                     /locus_tag="KEH25_p11"
+                     /note="TAA stop codon is completed by the addition of 3' A
+                     residues to the mRNA"
+                     /codon_start=1
+                     /transl_except=(pos:5008,aa:TERM)
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit II"
+                     /protein_id="YP_004581487.1"
+                     /db_xref="GeneID:10752025"
+                     /translation="MAFPSQLGFQDAASPVMEELLHFHDHAMMIVFMISTLVLYFIVA
+                     LVTSSLTNKYILDSQEIEIIWTVLPAIILILIALPSLRILYLMDEINDPHLTIKAMGH
+                     QWYWSYEYTDYDALEFDSYMIPTQDLTPGQFRLLEADHRMIAPVESPVRVLVSGEDVL
+                     HSWAVPSLGVKMDAVPGRLNQTAFIASRPGVFYGQCSEICGANHSFMPVVVEAVPLQD
+                     FEAWSTLMIQDA"
+     gene            5009..5082
+                     /locus_tag="KEH25_t11"
+                     /db_xref="GeneID:64988817"
+     tRNA            5009..5082
+                     /locus_tag="KEH25_t11"
+                     /product="tRNA-Lys"
+                     /db_xref="GeneID:64988817"
+     gene            5084..5251
+                     /gene="ATP8"
+                     /locus_tag="KEH25_p10"
+                     /db_xref="GeneID:10752026"
+     CDS             5084..5251
+                     /gene="ATP8"
+                     /locus_tag="KEH25_p10"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="ATP synthase F0 subunit 8"
+                     /protein_id="YP_004581488.1"
+                     /db_xref="GeneID:10752026"
+                     /translation="MPVNYHTSCFTMLALSLFLYFTMGHAKIVGHATTLKPSPWPAKF
+                     LTEQKWSWPWS"
+     gene            5230..5925
+                     /gene="ATP6"
+                     /locus_tag="KEH25_p09"
+                     /db_xref="GeneID:10752027"
+     CDS             5230..5925
+                     /gene="ATP6"
+                     /locus_tag="KEH25_p09"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="ATP synthase F0 subunit 6"
+                     /protein_id="YP_004581489.1"
+                     /db_xref="GeneID:10752027"
+                     /translation="MVLTLILGLFDQFFSPYFLGVPLLAIAIAAPWVLFPKPSNRVIN
+                     GRSLVAQNSFVLNFAKQILLPLNVGAHKWALLLTVLMVNLITLNLLGLLPYTFTPTTQ
+                     LPLNMGFAIPLWLATVVIGLRNQPTIALGHLLPEGTPAPLIPVLIIIETISLFVRPFA
+                     LGVRLTANLAAGHLLIQLLSSATLFLIDQMWPVAILTGLVMALLTLLELAVAAIQAYV
+                     FVLLLSLYLQENT"
+     gene            5958..6742
+                     /gene="COX3"
+                     /locus_tag="KEH25_p08"
+                     /db_xref="GeneID:10752028"
+     CDS             5958..6742
+                     /gene="COX3"
+                     /locus_tag="KEH25_p08"
+                     /note="TAA stop codon is completed by the addition of 3' A
+                     residues to the mRNA"
+                     /codon_start=1
+                     /transl_except=(pos:6741..6742,aa:TERM)
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit III"
+                     /protein_id="YP_004581490.1"
+                     /db_xref="GeneID:10752028"
+                     /translation="MAHQAHAYHMVDPSPWPLTGAIAALLMTSGLAVWFHQHSTTLMT
+                     LGTILLLLTMYQWWRDIVREGTFQGHHTPPVQKGLRYGMILFITSEVFFFLGFFWAFY
+                     HASLAPTPELGGCWPPTGIFTLDPLEVPLLNTAVLLASGVTVTWAHHSIMEGDRKQAI
+                     HSLTMTIILGFYFTILQALEYVDAPFTIGDGVYGATFFVATGFHGLHVIIGSTFLAVC
+                     LLRQIKHHFTSGHHFGFEAAAWYWHFVDVVWLFLYVSIYWWGS"
+     gene            6743..6812
+                     /locus_tag="KEH25_t12"
+                     /db_xref="GeneID:64988818"
+     tRNA            6743..6812
+                     /locus_tag="KEH25_t12"
+                     /product="tRNA-Gly"
+                     /db_xref="GeneID:64988818"
+     gene            6813..7161
+                     /gene="ND3"
+                     /locus_tag="KEH25_p07"
+                     /db_xref="GeneID:10752029"
+     CDS             6813..7161
+                     /gene="ND3"
+                     /locus_tag="KEH25_p07"
+                     /note="TAA stop codon is completed by the addition of 3' A
+                     residues to the mRNA"
+                     /codon_start=1
+                     /transl_except=(pos:7161,aa:TERM)
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 3"
+                     /protein_id="YP_004581491.1"
+                     /db_xref="GeneID:10752029"
+                     /translation="MNLVMTIIAIASLLSTILAIVSFCLPQMSPDYEKLSPYECGFDP
+                     LGSARLPFSLRFFLIAILFLLFDLEIALLLPLPWGDQLASPLVSFSWATALLTLLTLG
+                     LIYEWAQDGLEWAE"
+     gene            7162..7230
+                     /locus_tag="KEH25_t13"
+                     /db_xref="GeneID:64988819"
+     tRNA            7162..7230
+                     /locus_tag="KEH25_t13"
+                     /product="tRNA-Arg"
+                     /db_xref="GeneID:64988819"
+     gene            7231..7527
+                     /gene="ND4L"
+                     /locus_tag="KEH25_p06"
+                     /db_xref="GeneID:10752030"
+     CDS             7231..7527
+                     /gene="ND4L"
+                     /locus_tag="KEH25_p06"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 4L"
+                     /protein_id="YP_004581492.1"
+                     /db_xref="GeneID:10752030"
+                     /translation="MTSIQFTFSSAFILGLTGLAFNRTHLLSALLCLEGMMLSLYIAL
+                     SIWTLETGSTSSSALPLFLLAISACEASAGLALLVATARTHGTDRLQSLNLLQC"
+     gene            7521..8901
+                     /gene="ND4"
+                     /locus_tag="KEH25_p05"
+                     /db_xref="GeneID:10752031"
+     CDS             7521..8901
+                     /gene="ND4"
+                     /locus_tag="KEH25_p05"
+                     /note="TAA stop codon is completed by the addition of 3' A
+                     residues to the mRNA"
+                     /codon_start=1
+                     /transl_except=(pos:8901,aa:TERM)
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 4"
+                     /protein_id="YP_004581493.1"
+                     /db_xref="GeneID:10752031"
+                     /translation="MLKILIPTLMLIPTIWLVPAKWLWPSTLVHSLVIAVASFTWFKN
+                     TSETGWTTLNSYMATDLLSTPLLVLTCWLLPLMILASQHHMGNEPKNRQRTYITLLTS
+                     LQFFLILAFSATELIMFYLMFEATLLPTLMIITRWGNQAERLNAGMYFLFYTLASSLP
+                     LLVALLILQNTSGTLSLLTLQYMGPLSLTTHADKLWWAGCLLAFLVKMPLYGVHLWLP
+                     KAHVEAPVAGSMILAAVLLKLGGYGMMRMMLVLEPLTKEMSYPFMVFALWGIMMAGSI
+                     CLRQTDLKSLIAYSSVSHMGLVVAGILVQTPWGFSGALILMIAHGLTSSALFCLANTN
+                     YERIHSRSILLARGLQMVLPLMATWWFFASLANLALPPLPNLMGELMIITSLINWSPW
+                     TLALTGSGVLITASYSMYMFITTQRGPLPSHLIALDPSHTREHLIMALHLLPLILLIL
+                     KPHLIWGWAS"
+     gene            8902..8970
+                     /locus_tag="KEH25_t14"
+                     /db_xref="GeneID:64988820"
+     tRNA            8902..8970
+                     /locus_tag="KEH25_t14"
+                     /product="tRNA-His"
+                     /db_xref="GeneID:64988820"
+     gene            8971..9037
+                     /locus_tag="KEH25_t15"
+                     /db_xref="GeneID:64988829"
+     tRNA            8971..9037
+                     /locus_tag="KEH25_t15"
+                     /product="tRNA-Ser"
+                     /codon_recognized="AGY"
+                     /db_xref="GeneID:64988829"
+     gene            9042..9114
+                     /locus_tag="KEH25_t16"
+                     /db_xref="GeneID:64988830"
+     tRNA            9042..9114
+                     /locus_tag="KEH25_t16"
+                     /product="tRNA-Leu"
+                     /codon_recognized="CUU"
+                     /db_xref="GeneID:64988830"
+     gene            9115..10953
+                     /gene="ND5"
+                     /locus_tag="KEH25_p04"
+                     /db_xref="GeneID:10752032"
+     CDS             9115..10953
+                     /gene="ND5"
+                     /locus_tag="KEH25_p04"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 5"
+                     /protein_id="YP_004581494.1"
+                     /db_xref="GeneID:10752032"
+                     /translation="MFFPASVLTSSLMITLFLLGSPLLLSLFSAPAKPSWATTHVKPA
+                     VKGAFFVSLIPLILFINFGKQQVISTWTWTSTLTFDMSVSFKFDHYSLIFTPVALYVT
+                     WSILEFATWYMQDDPDMNRFFKYLLIFLIAMIVLVTANNLFQLFIGWEGVGIMSFLLI
+                     GWWSGRADANTAALQAVVYNRVGDIGLIFAMAWMATNMNSWELQQIFIALKGFNVTPP
+                     VLGLIIAAAGKSAQFGLHPWLPSAMEGPTPVSALLHSSTMVVAGIFLLIRMNPMIEKS
+                     PAALTLCLCLGGLTSMFTAFCALTHNDLKKVIAFSTASQLGLMMVTIGLNQPQLAFLH
+                     ICMHAFFKAMLFLCSGSIIHSLGGEQDIRKMGALHRQTPWTSSCFIIGTLALTGMPFL
+                     SGFFSKDAIIEAMTTSYLNTWALLLTLFATAFTAIYSVRLIYFVLMPNPRSMTITPIG
+                     EANPQVLNPLKRLVWGSIFAGLWLTLSINPLKIPVMSMPPTIKLTALLVTISGLLIAL
+                     WFITPSGARIQTTLFPTPHHFSSMLGYYPTLVHRMTPKLSLMWGQTIADQTIDQNWLE
+                     EIGPKATATLSKPLIIFTSEMQQGRMKTHLLFFFLGLTLMTSMIIY"
+     repeat_region   10996..11185
+                     /note="heteroplasmic"
+                     /rpt_type=tandem
+                     /rpt_unit_seq="gtgccgggctctgcctcaccaaaattaa"
+     gene            11246..12386
+                     /gene="CYTB"
+                     /locus_tag="KEH25_p03"
+                     /db_xref="GeneID:10752033"
+     CDS             11246..12386
+                     /gene="CYTB"
+                     /locus_tag="KEH25_p03"
+                     /note="TAA stop codon is completed by the addition of 3' A
+                     residues to the mRNA"
+                     /codon_start=1
+                     /transl_except=(pos:12386,aa:TERM)
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="YP_004581495.1"
+                     /db_xref="GeneID:10752033"
+                     /translation="MASLRKTHPLLKIANDALVDLPAPSNISVWWNFGSLLGLCLIAQ
+                     ILTGLFLAMHYTADINTAFSSVAHITRDVNYGWLIRDMHANGASFFFICIYMHIGRGL
+                     YYGSYLYKETWNVGVVLLLLVMMTAFVGYVLPWGQMSFWGATVITNLLSAVPYVGNAL
+                     VQWIWGGFSVDNATLTRFFAFHFLFPFVIAGATMVHLLFLHQTGSNNPLGLNSTSDKI
+                     PFHPYFSYKDLLGFAALLVALATVALFTPNLLGDPDNFTPANPLVTPPHIKPEWYFLF
+                     AYAILRSIPDKLGGVLALLASILVLLVVPFLHTCKLRSLTFRPLSQLLFWSLIADVAI
+                     LTWIGGMPVEDPYIIIGQVASVLYFSIFLIFFPLAGWLENKILGLA"
+     gene            12387..12458
+                     /locus_tag="KEH25_t17"
+                     /db_xref="GeneID:64988821"
+     tRNA            12387..12458
+                     /locus_tag="KEH25_t17"
+                     /product="tRNA-Thr"
+                     /db_xref="GeneID:64988821"
+     misc_feature    12459..13381
+                     /note="control region I"
+     repeat_region   13350..13381
+                     /rpt_type=tandem
+                     /rpt_unit_seq="atcctcaccccccccc"
+     gene            complement(13382..13906)
+                     /gene="ND6"
+                     /locus_tag="KEH25_p02"
+                     /db_xref="GeneID:10752034"
+     CDS             complement(13382..13906)
+                     /gene="ND6"
+                     /locus_tag="KEH25_p02"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 6"
+                     /protein_id="YP_004581496.1"
+                     /db_xref="GeneID:10752034"
+                     /translation="MLYCGYLLMFGVVVGMAAVAANPSPFYAALGLVMVAAMGCGFIM
+                     CLGGTFSCLVLFLIYLGGMLVVFAYSVALCSDALPTGLAEGSVLKSMVGYLGLTGVVA
+                     LFQQSSEAPLFWWFVGQESEMSVMQGETEGVSEAYGSGGILLLTCGWALLVALYVALE
+                     VSRGCSRGPVRPIK"
+     gene            complement(13907..13975)
+                     /locus_tag="KEH25_t18"
+                     /db_xref="GeneID:64988822"
+     tRNA            complement(13907..13975)
+                     /locus_tag="KEH25_t18"
+                     /product="tRNA-Glu"
+                     /db_xref="GeneID:64988822"
+     gene            complement(14043..14112)
+                     /locus_tag="KEH25_t19"
+                     /db_xref="GeneID:64988831"
+     tRNA            complement(14043..14112)
+                     /locus_tag="KEH25_t19"
+                     /product="tRNA-Pro"
+                     /db_xref="GeneID:64988831"
+     misc_feature    14113..15492
+                     /note="control region II"
+     gene            15493..15560
+                     /locus_tag="KEH25_t20"
+                     /db_xref="GeneID:64988832"
+     tRNA            15493..15560
+                     /locus_tag="KEH25_t20"
+                     /product="tRNA-Phe"
+                     /db_xref="GeneID:64988832"
+     gene            15561..16508
+                     /locus_tag="KEH25_r02"
+                     /db_xref="GeneID:64988833"
+     rRNA            15561..16508
+                     /locus_tag="KEH25_r02"
+                     /product="s-rRNA"
+                     /note="12S ribosomal RNA"
+                     /db_xref="GeneID:64988833"
+     gene            16509..16580
+                     /locus_tag="KEH25_t21"
+                     /db_xref="GeneID:64988834"
+     tRNA            16509..16580
+                     /locus_tag="KEH25_t21"
+                     /product="tRNA-Val"
+                     /db_xref="GeneID:64988834"
+     gene            16581..18273
+                     /locus_tag="KEH25_r01"
+                     /db_xref="GeneID:64988835"
+     rRNA            16581..18273
+                     /locus_tag="KEH25_r01"
+                     /product="l-rRNA"
+                     /note="16S ribosomal RNA"
+                     /db_xref="GeneID:64988835"
+     gene            18274..18347
+                     /locus_tag="KEH25_t22"
+                     /db_xref="GeneID:64988836"
+     tRNA            18274..18347
+                     /locus_tag="KEH25_t22"
+                     /product="tRNA-Leu"
+                     /codon_recognized="UUR"
+                     /db_xref="GeneID:64988836"
