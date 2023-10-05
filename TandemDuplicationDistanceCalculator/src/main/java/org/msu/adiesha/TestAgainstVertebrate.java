@@ -24,13 +24,13 @@ public class TestAgainstVertebrate {
 
 
         /*
-         * Convergence 9 (Lampris guttatus, Hapalogenys analis, Trichiurus japonicus)
+         * Convergence 9
          */
         DoTestAgainstVertebrate("data/mitochondrialdna/Monacanthidae/Rudarius_ercodes/Rudarius_ercodes_final.txt");
         DoTestAgainstVertebrate("data/mitochondrialdna/Umbridae/Dallia_pectoralis/Dallia_pectoralis_final.txt");
 
         /*
-         * Convergence 8 (Lampris guttatus, Hapalogenys analis, Trichiurus japonicus)
+         * Convergence 8 (
          */
 
         DoTestAgainstVertebrate("data/mitochondrialdna/Platytroctidae/Normichthys_operosus/Normichthys_operosus_final.txt");
@@ -38,20 +38,20 @@ public class TestAgainstVertebrate {
 
 
         /*
-         * Convergence 7 (Lampris guttatus, Hapalogenys analis, Trichiurus japonicus)
+         * Convergence 7
          */
         DoTestAgainstVertebrate("data/mitochondrialdna/Aulorhynchidae/Aulorhynchus_flavidus/Aulorhynchus_flavidus_final.txt");
 
 
         /*
-         * Convergence 6 (Lampris guttatus, Hapalogenys analis, Trichiurus japonicus)
+         * Convergence 6
          */
         DoTestAgainstVertebrate("data/mitochondrialdna/Macrouridae/Trachyrincus_murrayi/Trachyrincus_murrayi_final.txt");
         DoTestAgainstVertebrate("data/mitochondrialdna/Macrouridae/Squalogadus_modificatus/Squalogadus_modificatus_final.txt");
 
 
         /*
-         * Convergence 5 (Lampris guttatus, Hapalogenys analis, Trichiurus japonicus)
+         * Convergence 5
          */
         DoTestAgainstVertebrate("data/mitochondrialdna/Macrouridae/Cetonurus_globiceps/Cetonurus_globiceps_final.txt");
         DoTestAgainstVertebrate("data/mitochondrialdna/Macrouridae/Coelorinchus_kishinouyei/Coelorinchus_kishinouyei_final.txt");
@@ -60,12 +60,51 @@ public class TestAgainstVertebrate {
 
 
         /*
-         * Convergence 4 (Lampris guttatus, Hapalogenys analis, Trichiurus japonicus)
+         * Convergence 4
          */
         DoTestAgainstVertebrate("data/mitochondrialdna/Kurtidae/Kurtus_gulliveri/Kurtus_gulliveri_final.txt");
         DoTestAgainstVertebrate("data/mitochondrialdna/Benthophilinae/Ponticola_kessleri/Ponticola_kessleri_final.txt");
         DoTestAgainstVertebrate("data/mitochondrialdna/Chamaeleonidae/Chamaeleo_arabicus/Chamaeleo_arabicus_final.txt");
         DoTestAgainstVertebrate("data/mitochondrialdna/Agamidae/Xenagama_taylori/Xenagama_taylori_final_final.txt");
+        DoTestAgainstVertebrate("data/mitochondrialdna/Agamidae/Uromastyx_benti/Uromastyx_benti_final.txt");
+        DoTestAgainstVertebrate("data/mitochondrialdna/Agamidae/Phrynocephalus_putjatai/Phrynocephalus_putjatai_final.txt");
+
+
+
+        /*
+         * Convergence 3
+         */
+        DoTestAgainstVertebrate("data/mitochondrialdna/Nototheniidae/Pagothenia-borchgrevinki/Pagothenia-borchgrevinki_final.txt");
+        DoTestAgainstVertebrate("data/mitochondrialdna/Rhineuridae/Rhineura_floridana/Rhineura_floridana_final_final.txt");
+
+
+        /*
+         * Convergence 2
+         */
+        DoTestAgainstVertebrate("data/mitochondrialdna/Derichthyidae/Coloconger_cadenati/Coloconger_cadenati_final.txt");
+        DoTestAgainstVertebrate("data/mitochondrialdna/Congridae/Ariosoma_shiroanago/Ariosoma_shiroanago_final.txt");
+        DoTestAgainstVertebrate("data/mitochondrialdna/Congridae/Paraconger_notialis/Paraconger_notialis_final.txt");
+        DoTestAgainstVertebrate("data/mitochondrialdna/Congridae/Conger_japonicus/Conger_japonicus_final.txt");
+        DoTestAgainstVertebrate("data/mitochondrialdna/Congridae/Heteroconger_hassi/Heteroconger_hassi_final.txt");
+        DoTestAgainstVertebrate("data/mitochondrialdna/Derichthyidae/Derichthys_serpentinus/Derichthys_serpentinus_final.txt");
+        DoTestAgainstVertebrate("data/mitochondrialdna/Derichthyidae/Nessorhamphus_ingolfianus/Nessorhamphus_ingolfianus_final.txt");
+        DoTestAgainstVertebrate("data/mitochondrialdna/Muraenesocidae/Cynoponticus_ferox/Cynoponticus_ferox_final.txt");
+        DoTestAgainstVertebrate("data/mitochondrialdna/Muraenesox_bagio/Muraenesox_bagio.txt");
+        DoTestAgainstVertebrate("data/mitochondrialdna/Nettastomatidae/Facciolella_oxyrhyncha/Facciolella_oxyrhyncha_final.txt");
+        DoTestAgainstVertebrate("data/mitochondrialdna/Nettastomatidae/Hoplunnis_punctata/Hoplunnis_punctata_final.txt");
+        DoTestAgainstVertebrate("data/mitochondrialdna/Nettastomatidae/Nettastoma_parviceps/Nettastoma_parviceps_final.txt");
+        DoTestAgainstVertebrate("data/mitochondrialdna/Ophichthidae/Ophisurus_macrorhynchos/Ophisurus_macrorhynchos_final.txt");
+        DoTestAgainstVertebrate("data/mitochondrialdna/Channichthyidae/Chaenocephalus_aceratus/Chaenocephalus_aceratus_final.txt");
+        DoTestAgainstVertebrate("data/mitochondrialdna/Channichthyidae/Chionodraco_hamatus/Chionodraco_hamatus_final.txt");
+
+        DoTestAgainstVertebrate("data/mitochondrialdna/Nototheniidae/Notothenia_coriiceps/Notothenia_coriiceps_final.txt");
+        DoTestAgainstVertebrate("data/mitochondrialdna/Plethodontidae/Aneides_flavipunctatus/Aneides_flavipunctatus_final.txt");
+        DoTestAgainstVertebrate("data/mitochondrialdna/Plethodontidae/Stereochilus_marginatus/Stereochilus_marginatus_final_final.txt");
+
+        /*
+         * Convergence 1
+         */
+        DoTestAgainstVertebrate("data/mitochondrialdna/Siphonopidae/Siphonops_annulatus/Siphonops_annulatus_final_final.txt");
 
     }
 
