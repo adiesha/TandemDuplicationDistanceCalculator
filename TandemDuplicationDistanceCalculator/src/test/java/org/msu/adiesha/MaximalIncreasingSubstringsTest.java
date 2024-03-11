@@ -1,7 +1,9 @@
 package org.msu.adiesha;
 
+import jdk.jshell.execution.Util;
 import org.junit.Assert;
 import org.junit.Test;
+import org.msu.adiesha.utils.Utils;
 
 import java.util.List;
 
@@ -66,38 +68,5 @@ public class MaximalIncreasingSubstringsTest {
 
     }
 
-    @Test
-    public void checkAlphabet() {
 
-        String source = "ab";
-        String target = "abc";
-        System.out.println(MaximalIncreasingSubstrings.checkAlphabet(source, target));
-        Assert.assertFalse(MaximalIncreasingSubstrings.checkAlphabet(source, target));
-
-        source = "asdfasdfjhhjjgsahdfhagshdfgajhhajhsgdfhgsahfgsahjdfrtt";
-        target = "safakjshfksjhdfjhaashhsadfhjsahdkjfhkjdshfjgttttsajhdgfjhsgd";
-        System.out.println(MaximalIncreasingSubstrings.checkAlphabet(source, target));
-
-
-        source = "abc";
-        target = "ab";
-        System.out.println(MaximalIncreasingSubstrings.checkAlphabet(source, target));
-        Assert.assertFalse(MaximalIncreasingSubstrings.checkAlphabet(source, target));
-
-        source = "ab";
-        target = "ba";
-        System.out.println(MaximalIncreasingSubstrings.checkAlphabet(source, target));
-        Assert.assertTrue(MaximalIncreasingSubstrings.checkAlphabet(source, target));
-
-        source = "afdssdfsdfsdfssreree";
-        target = "asdfsadfsdfsafdsadfrr";
-        System.out.println(MaximalIncreasingSubstrings.checkAlphabet(source, target));
-        Assert.assertFalse(MaximalIncreasingSubstrings.checkAlphabet(source, target));
-
-        // same alphabet
-        source = "asdfsdafasdfsadfsadfwerwqrwqwrqewerwerwq";
-        target = "asdfrewq";
-        System.out.println(MaximalIncreasingSubstrings.checkAlphabet(source, target));
-        Assert.assertTrue(MaximalIncreasingSubstrings.checkAlphabet(source, target));
-    }
 }
