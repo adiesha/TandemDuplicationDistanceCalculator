@@ -2,6 +2,7 @@ package org.msu.adiesha;
 
 import org.apache.commons.lang.ArrayUtils;
 import org.msu.adiesha.utils.SuffixTree;
+import org.msu.adiesha.utils.Utils;
 
 import java.util.ArrayList;
 import java.util.HashSet;
@@ -19,7 +20,7 @@ public class MaximalIncreasingSubstrings {
      */
     public static List<Result> findMaximalIncreasingSubsequences(String source, String target) {
         // check the alphabet of the source and target string. If they are not the same assert false
-        assert checkAlphabet(source, target);
+        assert Utils.checkAlphabet(source, target);
         SuffixTree suffixTree = new SuffixTree(source);
         // created the suffix tree
         // we know that the source and target strings have the same alphabet
@@ -34,11 +35,7 @@ public class MaximalIncreasingSubstrings {
         return results;
     }
 
-    public static boolean checkAlphabet(String source, String target) {
-        Set<Character> alphabetSource = new HashSet<>(List.of(ArrayUtils.toObject(source.toCharArray())));
-        Set<Character> alphabetTarget = new HashSet<>(List.of(ArrayUtils.toObject(target.toCharArray())));
-        return alphabetSource.size() == alphabetTarget.size() && alphabetTarget.containsAll(alphabetSource);
-    }
+
 
 
     public static class Result {
