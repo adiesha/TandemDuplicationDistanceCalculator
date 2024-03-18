@@ -30,7 +30,7 @@ public class ReadMTGeneOrder {
 
 
     public static Map<String, Character> assignCharsToStringList(List<String> list) {
-
+        assert list.size() <= 52;
         Character[] characters = allowedCharacters.toArray(new Character[allowedCharacters.size()]);
 
         int i = 0;
@@ -59,6 +59,7 @@ public class ReadMTGeneOrder {
             outputBuffer.append(map.get(s));
             if (!map.containsKey(s)) {
                 System.out.println(s + " is not in the map");
+                return null;
             }
         }
 
