@@ -5,8 +5,8 @@ import com.google.ortools.linearsolver.MPConstraint;
 import com.google.ortools.linearsolver.MPObjective;
 import com.google.ortools.linearsolver.MPSolver;
 import com.google.ortools.linearsolver.MPVariable;
+import org.javatuples.Pair;
 
-import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Map;
 
@@ -74,14 +74,14 @@ public class FeedBackArchSetSolverMIP {
      * @param v         Number of vertices in the graph
      * @param adjMatrix adjacency matrix
      */
-    public static void calculateFeedBackArcSet(int v, int[][] adjMatrix) {
+    public static Pair<MPSolver.ResultStatus, MPSolver> calculateFeedBackArcSet(int v, int[][] adjMatrix) {
         // Load the native libs
         Loader.loadNativeLibraries();
         // Create the linear solver with the SCIP backend.
         MPSolver solver = MPSolver.createSolver("SCIP");
         if (solver == null) {
             System.out.println("Could not create solver SCIP");
-            return;
+            return null;
         }
 
 
@@ -108,7 +108,7 @@ public class FeedBackArchSetSolverMIP {
         // create the constraints
         for (int i = 0; i < yVars.length; i++) {
             for (int j = 0; j < yVars.length; j++) {
-                coefs[i][j] = (adjMatrix[i][j] == 1) ? 1 : 0;
+                coefs[i][j] = (adjMatrix[i][j] >= 1) ? adjMatrix[i][j] : 0;
             }
         }
 
@@ -179,6 +179,8 @@ public class FeedBackArchSetSolverMIP {
         System.out.println("^*********^");
         updateDAG(adjMatrix, yVars);
         print2d(adjMatrix);
+
+        return new Pair<>(resultStatus, solver);
     }
 
     public static void print2d(int[][] adj) {
@@ -205,16 +207,18 @@ public class FeedBackArchSetSolverMIP {
         for (int i = 0; i < adj.length; i++) {
             for (int j = 0; j < adj.length; j++) {
                 if (i != j) {
-                    if (adj[i][j] == 1) {
+                    if (adj[i][j] >= 1) {
                         // i->j edge exist
                         if (i < j) {
                             int order = (int) result[i][j].solutionValue();
                             if (order == 1) { // j precedes i in the solution therefore i->j cannot exist
+                                System.out.println("j precedes i in the solution, removing i->j" + i + " " + j);
                                 adj[i][j] = 0;
                             }
                         } else {
                             int order = (int) result[j][i].solutionValue();
                             if (order == 0) { // j precedes i
+                                System.out.println("j precedes i in the solution, removing i->j" + i + " " + j);
                                 adj[i][j] = 0;
                             }
                         }
