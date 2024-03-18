@@ -1,0 +1,1377 @@
+---------------------
+Source: Clinocottus_analis
+Target: Vertebrate
+---------------------
+KT#: 67
+SourceAddition#: 2
+TargetDeletions#: 0
+
+***************************---------------------
+Source: Boulengerula_taitana
+Target: Vertebrate
+---------------------
+KT#: 0
+SourceAddition#: 1
+TargetDeletions#: 0
+
+***************************---------------------
+Source: Lampris_guttatus
+Target: Vertebrate
+---------------------
+KT#: 0
+SourceAddition#: 0
+TargetDeletions#: 1
+
+***************************---------------------
+Source: Hapalogenys_analis
+Target: Vertebrate
+---------------------
+KT#: 0
+SourceAddition#: 0
+TargetDeletions#: 1
+
+***************************---------------------
+Source: Trichiurus_japonicus
+Target: Vertebrate
+---------------------
+KT#: 0
+SourceAddition#: 0
+TargetDeletions#: 1
+
+***************************---------------------
+Source: Rudarius_ercodes
+Target: Vertebrate
+---------------------
+KT#: 25
+SourceAddition#: 0
+TargetDeletions#: 1
+
+***************************---------------------
+Source: Dallia_pectoralis
+Target: Vertebrate
+---------------------
+KT#: 2
+SourceAddition#: 0
+TargetDeletions#: 0
+
+***************************---------------------
+Source: Normichthys_operosus
+Target: Vertebrate
+---------------------
+KT#: 1
+SourceAddition#: 0
+TargetDeletions#: 0
+
+***************************---------------------
+Source: Ambassis_gymnocephalus
+Target: Vertebrate
+---------------------
+KT#: 1
+SourceAddition#: 0
+TargetDeletions#: 0
+
+***************************---------------------
+Source: Aulorhynchus_flavidus
+Target: Vertebrate
+---------------------
+KT#: 1
+SourceAddition#: 0
+TargetDeletions#: 0
+
+***************************---------------------
+Source: Trachyrincus_murrayi
+Target: Vertebrate
+---------------------
+KT#: 2
+SourceAddition#: 0
+TargetDeletions#: 0
+
+***************************---------------------
+Source: Squalogadus_modificatus
+Target: Vertebrate
+---------------------
+KT#: 2
+SourceAddition#: 0
+TargetDeletions#: 0
+
+***************************---------------------
+Source: Cetonurus_globiceps
+Target: Vertebrate
+---------------------
+KT#: 3
+SourceAddition#: 0
+TargetDeletions#: 0
+
+***************************---------------------
+Source: Coelorinchus_kishinouyei
+Target: Vertebrate
+---------------------
+KT#: 3
+SourceAddition#: 0
+TargetDeletions#: 0
+
+***************************---------------------
+Source: Ventrifossa_garmani
+Target: Vertebrate
+---------------------
+KT#: 3
+SourceAddition#: 0
+TargetDeletions#: 0
+
+***************************---------------------
+Source: Uroplatus_fimbriatus
+Target: Vertebrate
+---------------------
+KT#: 0
+SourceAddition#: 0
+TargetDeletions#: 1
+
+***************************---------------------
+Source: Kurtus_gulliveri
+Target: Vertebrate
+---------------------
+KT#: 1
+SourceAddition#: 0
+TargetDeletions#: 0
+
+***************************---------------------
+Source: Ponticola_kessleri
+Target: Vertebrate
+---------------------
+KT#: 1
+SourceAddition#: 0
+TargetDeletions#: 0
+
+***************************---------------------
+Source: Chamaeleo_arabicus
+Target: Vertebrate
+---------------------
+KT#: 2
+SourceAddition#: 0
+TargetDeletions#: 0
+
+***************************---------------------
+Source: Xenagama_taylori_final
+Target: Vertebrate
+---------------------
+KT#: 2
+SourceAddition#: 0
+TargetDeletions#: 0
+
+***************************---------------------
+Source: Uromastyx_benti
+Target: Vertebrate
+---------------------
+KT#: 1
+SourceAddition#: 0
+TargetDeletions#: 0
+
+***************************---------------------
+Source: Phrynocephalus_putjatai
+Target: Vertebrate
+---------------------
+KT#: 37
+SourceAddition#: 0
+TargetDeletions#: 0
+
+***************************---------------------
+Source: Pagothenia-borchgrevinki
+Target: Vertebrate
+---------------------
+KT#: 6
+SourceAddition#: 0
+TargetDeletions#: 0
+
+***************************---------------------
+Source: Rhineura_floridana_final
+Target: Vertebrate
+---------------------
+KT#: 6
+SourceAddition#: 0
+TargetDeletions#: 0
+
+***************************---------------------
+Source: Coloconger_cadenati
+Target: Vertebrate
+---------------------
+KT#: 4
+SourceAddition#: 0
+TargetDeletions#: 0
+
+***************************---------------------
+Source: Ariosoma_shiroanago
+Target: Vertebrate
+---------------------
+KT#: 4
+SourceAddition#: 0
+TargetDeletions#: 0
+
+***************************---------------------
+Source: Paraconger_notialis
+Target: Vertebrate
+---------------------
+KT#: 4
+SourceAddition#: 0
+TargetDeletions#: 0
+
+***************************---------------------
+Source: Conger_japonicus
+Target: Vertebrate
+---------------------
+KT#: 7
+SourceAddition#: 0
+TargetDeletions#: 0
+
+***************************---------------------
+Source: Heteroconger_hassi
+Target: Vertebrate
+---------------------
+KT#: 4
+SourceAddition#: 0
+TargetDeletions#: 0
+
+***************************---------------------
+Source: Derichthys_serpentinus
+Target: Vertebrate
+---------------------
+KT#: 4
+SourceAddition#: 0
+TargetDeletions#: 0
+
+***************************---------------------
+Source: Nessorhamphus_ingolfianus
+Target: Vertebrate
+---------------------
+KT#: 4
+SourceAddition#: 0
+TargetDeletions#: 0
+
+***************************---------------------
+Source: Cynoponticus_ferox
+Target: Vertebrate
+---------------------
+KT#: 4
+SourceAddition#: 0
+TargetDeletions#: 0
+
+***************************---------------------
+Source: Muraenesox
+Target: Vertebrate
+---------------------
+KT#: 4
+SourceAddition#: 0
+TargetDeletions#: 1
+
+***************************---------------------
+Source: Facciolella_oxyrhyncha
+Target: Vertebrate
+---------------------
+KT#: 4
+SourceAddition#: 0
+TargetDeletions#: 0
+
+***************************---------------------
+Source: Hoplunnis_punctata
+Target: Vertebrate
+---------------------
+KT#: 4
+SourceAddition#: 0
+TargetDeletions#: 0
+
+***************************---------------------
+Source: Nettastoma_parviceps
+Target: Vertebrate
+---------------------
+KT#: 4
+SourceAddition#: 0
+TargetDeletions#: 0
+
+***************************---------------------
+Source: Ophisurus_macrorhynchos
+Target: Vertebrate
+---------------------
+KT#: 7
+SourceAddition#: 1
+TargetDeletions#: 0
+
+***************************---------------------
+Source: Chaenocephalus_aceratus
+Target: Vertebrate
+---------------------
+KT#: 4
+SourceAddition#: 0
+TargetDeletions#: 0
+
+***************************---------------------
+Source: Chionodraco_hamatus
+Target: Vertebrate
+---------------------
+KT#: 4
+SourceAddition#: 0
+TargetDeletions#: 0
+
+***************************---------------------
+Source: Notothenia_coriiceps
+Target: Vertebrate
+---------------------
+KT#: 4
+SourceAddition#: 0
+TargetDeletions#: 0
+
+***************************---------------------
+Source: Aneides_flavipunctatus
+Target: Vertebrate
+---------------------
+KT#: 4
+SourceAddition#: 0
+TargetDeletions#: 0
+
+***************************---------------------
+Source: Stereochilus_marginatus_final
+Target: Vertebrate
+---------------------
+KT#: 4
+SourceAddition#: 0
+TargetDeletions#: 0
+
+***************************---------------------
+Source: Siphonops_annulatus_final
+Target: Vertebrate
+---------------------
+KT#: 3
+SourceAddition#: 0
+TargetDeletions#: 0
+
+***************************---------------------
+Source: Clinocottus_analis
+Target: Vertebrate
+---------------------
+KT#: 67
+SourceAddition#: 2
+TargetDeletions#: 0
+
+***************************---------------------
+Source: Boulengerula_taitana
+Target: Vertebrate
+---------------------
+KT#: 0
+SourceAddition#: 1
+TargetDeletions#: 0
+
+***************************---------------------
+Source: Lampris_guttatus
+Target: Vertebrate
+---------------------
+KT#: 0
+SourceAddition#: 0
+TargetDeletions#: 1
+
+***************************---------------------
+Source: Hapalogenys_analis
+Target: Vertebrate
+---------------------
+KT#: 0
+SourceAddition#: 0
+TargetDeletions#: 1
+
+***************************---------------------
+Source: Trichiurus_japonicus
+Target: Vertebrate
+---------------------
+KT#: 0
+SourceAddition#: 0
+TargetDeletions#: 1
+
+***************************---------------------
+Source: Rudarius_ercodes
+Target: Vertebrate
+---------------------
+KT#: 25
+SourceAddition#: 0
+TargetDeletions#: 1
+
+***************************---------------------
+Source: Dallia_pectoralis
+Target: Vertebrate
+---------------------
+KT#: 2
+SourceAddition#: 0
+TargetDeletions#: 0
+
+***************************---------------------
+Source: Normichthys_operosus
+Target: Vertebrate
+---------------------
+KT#: 1
+SourceAddition#: 0
+TargetDeletions#: 0
+
+***************************---------------------
+Source: Ambassis_gymnocephalus
+Target: Vertebrate
+---------------------
+KT#: 1
+SourceAddition#: 0
+TargetDeletions#: 0
+
+***************************---------------------
+Source: Aulorhynchus_flavidus
+Target: Vertebrate
+---------------------
+KT#: 1
+SourceAddition#: 0
+TargetDeletions#: 0
+
+***************************---------------------
+Source: Trachyrincus_murrayi
+Target: Vertebrate
+---------------------
+KT#: 2
+SourceAddition#: 0
+TargetDeletions#: 0
+
+***************************---------------------
+Source: Squalogadus_modificatus
+Target: Vertebrate
+---------------------
+KT#: 2
+SourceAddition#: 0
+TargetDeletions#: 0
+
+***************************---------------------
+Source: Cetonurus_globiceps
+Target: Vertebrate
+---------------------
+KT#: 3
+SourceAddition#: 0
+TargetDeletions#: 0
+
+***************************---------------------
+Source: Coelorinchus_kishinouyei
+Target: Vertebrate
+---------------------
+KT#: 3
+SourceAddition#: 0
+TargetDeletions#: 0
+
+***************************---------------------
+Source: Ventrifossa_garmani
+Target: Vertebrate
+---------------------
+KT#: 3
+SourceAddition#: 0
+TargetDeletions#: 0
+
+***************************---------------------
+Source: Uroplatus_fimbriatus
+Target: Vertebrate
+---------------------
+KT#: 0
+SourceAddition#: 0
+TargetDeletions#: 1
+
+***************************---------------------
+Source: Kurtus_gulliveri
+Target: Vertebrate
+---------------------
+KT#: 1
+SourceAddition#: 0
+TargetDeletions#: 0
+
+***************************---------------------
+Source: Ponticola_kessleri
+Target: Vertebrate
+---------------------
+KT#: 1
+SourceAddition#: 0
+TargetDeletions#: 0
+
+***************************---------------------
+Source: Chamaeleo_arabicus
+Target: Vertebrate
+---------------------
+KT#: 2
+SourceAddition#: 0
+TargetDeletions#: 0
+
+***************************---------------------
+Source: Xenagama_taylori_final
+Target: Vertebrate
+---------------------
+KT#: 2
+SourceAddition#: 0
+TargetDeletions#: 0
+
+***************************---------------------
+Source: Uromastyx_benti
+Target: Vertebrate
+---------------------
+KT#: 1
+SourceAddition#: 0
+TargetDeletions#: 0
+
+***************************---------------------
+Source: Phrynocephalus_putjatai
+Target: Vertebrate
+---------------------
+KT#: 37
+SourceAddition#: 0
+TargetDeletions#: 0
+
+***************************---------------------
+Source: Pagothenia-borchgrevinki
+Target: Vertebrate
+---------------------
+KT#: 6
+SourceAddition#: 0
+TargetDeletions#: 0
+
+***************************---------------------
+Source: Rhineura_floridana_final
+Target: Vertebrate
+---------------------
+KT#: 6
+SourceAddition#: 0
+TargetDeletions#: 0
+
+***************************---------------------
+Source: Coloconger_cadenati
+Target: Vertebrate
+---------------------
+KT#: 4
+SourceAddition#: 0
+TargetDeletions#: 0
+
+***************************---------------------
+Source: Ariosoma_shiroanago
+Target: Vertebrate
+---------------------
+KT#: 4
+SourceAddition#: 0
+TargetDeletions#: 0
+
+***************************---------------------
+Source: Paraconger_notialis
+Target: Vertebrate
+---------------------
+KT#: 4
+SourceAddition#: 0
+TargetDeletions#: 0
+
+***************************---------------------
+Source: Conger_japonicus
+Target: Vertebrate
+---------------------
+KT#: 7
+SourceAddition#: 0
+TargetDeletions#: 0
+
+***************************---------------------
+Source: Heteroconger_hassi
+Target: Vertebrate
+---------------------
+KT#: 4
+SourceAddition#: 0
+TargetDeletions#: 0
+
+***************************---------------------
+Source: Derichthys_serpentinus
+Target: Vertebrate
+---------------------
+KT#: 4
+SourceAddition#: 0
+TargetDeletions#: 0
+
+***************************---------------------
+Source: Nessorhamphus_ingolfianus
+Target: Vertebrate
+---------------------
+KT#: 4
+SourceAddition#: 0
+TargetDeletions#: 0
+
+***************************---------------------
+Source: Cynoponticus_ferox
+Target: Vertebrate
+---------------------
+KT#: 4
+SourceAddition#: 0
+TargetDeletions#: 0
+
+***************************---------------------
+Source: Muraenesox
+Target: Vertebrate
+---------------------
+KT#: 4
+SourceAddition#: 0
+TargetDeletions#: 1
+
+***************************---------------------
+Source: Facciolella_oxyrhyncha
+Target: Vertebrate
+---------------------
+KT#: 4
+SourceAddition#: 0
+TargetDeletions#: 0
+
+***************************---------------------
+Source: Hoplunnis_punctata
+Target: Vertebrate
+---------------------
+KT#: 4
+SourceAddition#: 0
+TargetDeletions#: 0
+
+***************************---------------------
+Source: Nettastoma_parviceps
+Target: Vertebrate
+---------------------
+KT#: 4
+SourceAddition#: 0
+TargetDeletions#: 0
+
+***************************---------------------
+Source: Ophisurus_macrorhynchos
+Target: Vertebrate
+---------------------
+KT#: 7
+SourceAddition#: 1
+TargetDeletions#: 0
+
+***************************---------------------
+Source: Chaenocephalus_aceratus
+Target: Vertebrate
+---------------------
+KT#: 4
+SourceAddition#: 0
+TargetDeletions#: 0
+
+***************************---------------------
+Source: Chionodraco_hamatus
+Target: Vertebrate
+---------------------
+KT#: 4
+SourceAddition#: 0
+TargetDeletions#: 0
+
+***************************---------------------
+Source: Notothenia_coriiceps
+Target: Vertebrate
+---------------------
+KT#: 4
+SourceAddition#: 0
+TargetDeletions#: 0
+
+***************************---------------------
+Source: Aneides_flavipunctatus
+Target: Vertebrate
+---------------------
+KT#: 4
+SourceAddition#: 0
+TargetDeletions#: 0
+
+***************************---------------------
+Source: Stereochilus_marginatus_final
+Target: Vertebrate
+---------------------
+KT#: 4
+SourceAddition#: 0
+TargetDeletions#: 0
+
+***************************---------------------
+Source: Siphonops_annulatus_final
+Target: Vertebrate
+---------------------
+KT#: 3
+SourceAddition#: 0
+TargetDeletions#: 0
+
+***************************---------------------
+Source: Clinocottus_analis
+Target: Vertebrate
+---------------------
+KT#: 67
+SourceAddition#: 2
+TargetDeletions#: 0
+
+***************************---------------------
+Source: Boulengerula_taitana
+Target: Vertebrate
+---------------------
+KT#: 0
+SourceAddition#: 1
+TargetDeletions#: 0
+
+***************************---------------------
+Source: Lampris_guttatus
+Target: Vertebrate
+---------------------
+KT#: 0
+SourceAddition#: 0
+TargetDeletions#: 1
+
+***************************---------------------
+Source: Hapalogenys_analis
+Target: Vertebrate
+---------------------
+KT#: 0
+SourceAddition#: 0
+TargetDeletions#: 1
+
+***************************---------------------
+Source: Trichiurus_japonicus
+Target: Vertebrate
+---------------------
+KT#: 0
+SourceAddition#: 0
+TargetDeletions#: 1
+
+***************************---------------------
+Source: Rudarius_ercodes
+Target: Vertebrate
+---------------------
+KT#: 25
+SourceAddition#: 0
+TargetDeletions#: 1
+
+***************************---------------------
+Source: Dallia_pectoralis
+Target: Vertebrate
+---------------------
+KT#: 2
+SourceAddition#: 0
+TargetDeletions#: 0
+
+***************************---------------------
+Source: Normichthys_operosus
+Target: Vertebrate
+---------------------
+KT#: 1
+SourceAddition#: 0
+TargetDeletions#: 0
+
+***************************---------------------
+Source: Ambassis_gymnocephalus
+Target: Vertebrate
+---------------------
+KT#: 1
+SourceAddition#: 0
+TargetDeletions#: 0
+
+***************************---------------------
+Source: Aulorhynchus_flavidus
+Target: Vertebrate
+---------------------
+KT#: 1
+SourceAddition#: 0
+TargetDeletions#: 0
+
+***************************---------------------
+Source: Trachyrincus_murrayi
+Target: Vertebrate
+---------------------
+KT#: 2
+SourceAddition#: 0
+TargetDeletions#: 0
+
+***************************---------------------
+Source: Squalogadus_modificatus
+Target: Vertebrate
+---------------------
+KT#: 2
+SourceAddition#: 0
+TargetDeletions#: 0
+
+***************************---------------------
+Source: Cetonurus_globiceps
+Target: Vertebrate
+---------------------
+KT#: 3
+SourceAddition#: 0
+TargetDeletions#: 0
+
+***************************---------------------
+Source: Coelorinchus_kishinouyei
+Target: Vertebrate
+---------------------
+KT#: 3
+SourceAddition#: 0
+TargetDeletions#: 0
+
+***************************---------------------
+Source: Ventrifossa_garmani
+Target: Vertebrate
+---------------------
+KT#: 3
+SourceAddition#: 0
+TargetDeletions#: 0
+
+***************************---------------------
+Source: Uroplatus_fimbriatus
+Target: Vertebrate
+---------------------
+KT#: 0
+SourceAddition#: 0
+TargetDeletions#: 1
+
+***************************---------------------
+Source: Kurtus_gulliveri
+Target: Vertebrate
+---------------------
+KT#: 1
+SourceAddition#: 0
+TargetDeletions#: 0
+
+***************************---------------------
+Source: Ponticola_kessleri
+Target: Vertebrate
+---------------------
+KT#: 1
+SourceAddition#: 0
+TargetDeletions#: 0
+
+***************************---------------------
+Source: Chamaeleo_arabicus
+Target: Vertebrate
+---------------------
+KT#: 2
+SourceAddition#: 0
+TargetDeletions#: 0
+
+***************************---------------------
+Source: Xenagama_taylori_final
+Target: Vertebrate
+---------------------
+KT#: 2
+SourceAddition#: 0
+TargetDeletions#: 0
+
+***************************---------------------
+Source: Uromastyx_benti
+Target: Vertebrate
+---------------------
+KT#: 1
+SourceAddition#: 0
+TargetDeletions#: 0
+
+***************************---------------------
+Source: Phrynocephalus_putjatai
+Target: Vertebrate
+---------------------
+KT#: 37
+SourceAddition#: 0
+TargetDeletions#: 0
+
+***************************---------------------
+Source: Pagothenia-borchgrevinki
+Target: Vertebrate
+---------------------
+KT#: 6
+SourceAddition#: 0
+TargetDeletions#: 0
+
+***************************---------------------
+Source: Rhineura_floridana_final
+Target: Vertebrate
+---------------------
+KT#: 6
+SourceAddition#: 0
+TargetDeletions#: 0
+
+***************************---------------------
+Source: Coloconger_cadenati
+Target: Vertebrate
+---------------------
+KT#: 4
+SourceAddition#: 0
+TargetDeletions#: 0
+
+***************************---------------------
+Source: Ariosoma_shiroanago
+Target: Vertebrate
+---------------------
+KT#: 4
+SourceAddition#: 0
+TargetDeletions#: 0
+
+***************************---------------------
+Source: Paraconger_notialis
+Target: Vertebrate
+---------------------
+KT#: 4
+SourceAddition#: 0
+TargetDeletions#: 0
+
+***************************---------------------
+Source: Conger_japonicus
+Target: Vertebrate
+---------------------
+KT#: 7
+SourceAddition#: 0
+TargetDeletions#: 0
+
+***************************---------------------
+Source: Heteroconger_hassi
+Target: Vertebrate
+---------------------
+KT#: 4
+SourceAddition#: 0
+TargetDeletions#: 0
+
+***************************---------------------
+Source: Derichthys_serpentinus
+Target: Vertebrate
+---------------------
+KT#: 4
+SourceAddition#: 0
+TargetDeletions#: 0
+
+***************************---------------------
+Source: Nessorhamphus_ingolfianus
+Target: Vertebrate
+---------------------
+KT#: 4
+SourceAddition#: 0
+TargetDeletions#: 0
+
+***************************---------------------
+Source: Cynoponticus_ferox
+Target: Vertebrate
+---------------------
+KT#: 4
+SourceAddition#: 0
+TargetDeletions#: 0
+
+***************************---------------------
+Source: Muraenesox
+Target: Vertebrate
+---------------------
+KT#: 4
+SourceAddition#: 0
+TargetDeletions#: 1
+
+***************************---------------------
+Source: Facciolella_oxyrhyncha
+Target: Vertebrate
+---------------------
+KT#: 4
+SourceAddition#: 0
+TargetDeletions#: 0
+
+***************************---------------------
+Source: Hoplunnis_punctata
+Target: Vertebrate
+---------------------
+KT#: 4
+SourceAddition#: 0
+TargetDeletions#: 0
+
+***************************---------------------
+Source: Nettastoma_parviceps
+Target: Vertebrate
+---------------------
+KT#: 4
+SourceAddition#: 0
+TargetDeletions#: 0
+
+***************************---------------------
+Source: Ophisurus_macrorhynchos
+Target: Vertebrate
+---------------------
+KT#: 7
+SourceAddition#: 1
+TargetDeletions#: 0
+
+***************************---------------------
+Source: Chaenocephalus_aceratus
+Target: Vertebrate
+---------------------
+KT#: 4
+SourceAddition#: 0
+TargetDeletions#: 0
+
+***************************---------------------
+Source: Chionodraco_hamatus
+Target: Vertebrate
+---------------------
+KT#: 4
+SourceAddition#: 0
+TargetDeletions#: 0
+
+***************************---------------------
+Source: Notothenia_coriiceps
+Target: Vertebrate
+---------------------
+KT#: 4
+SourceAddition#: 0
+TargetDeletions#: 0
+
+***************************---------------------
+Source: Aneides_flavipunctatus
+Target: Vertebrate
+---------------------
+KT#: 4
+SourceAddition#: 0
+TargetDeletions#: 0
+
+***************************---------------------
+Source: Stereochilus_marginatus_final
+Target: Vertebrate
+---------------------
+KT#: 4
+SourceAddition#: 0
+TargetDeletions#: 0
+
+***************************---------------------
+Source: Siphonops_annulatus_final
+Target: Vertebrate
+---------------------
+KT#: 3
+SourceAddition#: 0
+TargetDeletions#: 0
+
+***************************---------------------
+Source: Clinocottus_analis
+Target: Vertebrate
+---------------------
+KT#: 67
+SourceAddition#: 2
+TargetDeletions#: 0
+
+***************************---------------------
+Source: Boulengerula_taitana
+Target: Vertebrate
+---------------------
+KT#: 0
+SourceAddition#: 1
+TargetDeletions#: 0
+
+***************************---------------------
+Source: Lampris_guttatus
+Target: Vertebrate
+---------------------
+KT#: 0
+SourceAddition#: 0
+TargetDeletions#: 1
+
+***************************---------------------
+Source: Hapalogenys_analis
+Target: Vertebrate
+---------------------
+KT#: 0
+SourceAddition#: 0
+TargetDeletions#: 1
+
+***************************---------------------
+Source: Trichiurus_japonicus
+Target: Vertebrate
+---------------------
+KT#: 0
+SourceAddition#: 0
+TargetDeletions#: 1
+
+***************************---------------------
+Source: Rudarius_ercodes
+Target: Vertebrate
+---------------------
+KT#: 25
+SourceAddition#: 0
+TargetDeletions#: 1
+
+***************************---------------------
+Source: Dallia_pectoralis
+Target: Vertebrate
+---------------------
+KT#: 2
+SourceAddition#: 0
+TargetDeletions#: 0
+
+***************************---------------------
+Source: Normichthys_operosus
+Target: Vertebrate
+---------------------
+KT#: 1
+SourceAddition#: 0
+TargetDeletions#: 0
+
+***************************---------------------
+Source: Ambassis_gymnocephalus
+Target: Vertebrate
+---------------------
+KT#: 1
+SourceAddition#: 0
+TargetDeletions#: 0
+
+***************************---------------------
+Source: Aulorhynchus_flavidus
+Target: Vertebrate
+---------------------
+KT#: 1
+SourceAddition#: 0
+TargetDeletions#: 0
+
+***************************---------------------
+Source: Trachyrincus_murrayi
+Target: Vertebrate
+---------------------
+KT#: 2
+SourceAddition#: 0
+TargetDeletions#: 0
+
+***************************---------------------
+Source: Squalogadus_modificatus
+Target: Vertebrate
+---------------------
+KT#: 2
+SourceAddition#: 0
+TargetDeletions#: 0
+
+***************************---------------------
+Source: Cetonurus_globiceps
+Target: Vertebrate
+---------------------
+KT#: 3
+SourceAddition#: 0
+TargetDeletions#: 0
+
+***************************---------------------
+Source: Coelorinchus_kishinouyei
+Target: Vertebrate
+---------------------
+KT#: 3
+SourceAddition#: 0
+TargetDeletions#: 0
+
+***************************---------------------
+Source: Ventrifossa_garmani
+Target: Vertebrate
+---------------------
+KT#: 3
+SourceAddition#: 0
+TargetDeletions#: 0
+
+***************************---------------------
+Source: Uroplatus_fimbriatus
+Target: Vertebrate
+---------------------
+KT#: 0
+SourceAddition#: 0
+TargetDeletions#: 1
+
+***************************---------------------
+Source: Kurtus_gulliveri
+Target: Vertebrate
+---------------------
+KT#: 1
+SourceAddition#: 0
+TargetDeletions#: 0
+
+***************************---------------------
+Source: Ponticola_kessleri
+Target: Vertebrate
+---------------------
+KT#: 1
+SourceAddition#: 0
+TargetDeletions#: 0
+
+***************************---------------------
+Source: Chamaeleo_arabicus
+Target: Vertebrate
+---------------------
+KT#: 2
+SourceAddition#: 0
+TargetDeletions#: 0
+
+***************************---------------------
+Source: Xenagama_taylori_final
+Target: Vertebrate
+---------------------
+KT#: 2
+SourceAddition#: 0
+TargetDeletions#: 0
+
+***************************---------------------
+Source: Uromastyx_benti
+Target: Vertebrate
+---------------------
+KT#: 1
+SourceAddition#: 0
+TargetDeletions#: 0
+
+***************************---------------------
+Source: Phrynocephalus_putjatai
+Target: Vertebrate
+---------------------
+KT#: 37
+SourceAddition#: 0
+TargetDeletions#: 0
+
+***************************---------------------
+Source: Pagothenia-borchgrevinki
+Target: Vertebrate
+---------------------
+KT#: 6
+SourceAddition#: 0
+TargetDeletions#: 0
+
+***************************---------------------
+Source: Rhineura_floridana_final
+Target: Vertebrate
+---------------------
+KT#: 6
+SourceAddition#: 0
+TargetDeletions#: 0
+
+***************************---------------------
+Source: Coloconger_cadenati
+Target: Vertebrate
+---------------------
+KT#: 4
+SourceAddition#: 0
+TargetDeletions#: 0
+
+***************************---------------------
+Source: Ariosoma_shiroanago
+Target: Vertebrate
+---------------------
+KT#: 4
+SourceAddition#: 0
+TargetDeletions#: 0
+
+***************************---------------------
+Source: Paraconger_notialis
+Target: Vertebrate
+---------------------
+KT#: 4
+SourceAddition#: 0
+TargetDeletions#: 0
+
+***************************---------------------
+Source: Conger_japonicus
+Target: Vertebrate
+---------------------
+KT#: 7
+SourceAddition#: 0
+TargetDeletions#: 0
+
+***************************---------------------
+Source: Heteroconger_hassi
+Target: Vertebrate
+---------------------
+KT#: 4
+SourceAddition#: 0
+TargetDeletions#: 0
+
+***************************---------------------
+Source: Derichthys_serpentinus
+Target: Vertebrate
+---------------------
+KT#: 4
+SourceAddition#: 0
+TargetDeletions#: 0
+
+***************************---------------------
+Source: Nessorhamphus_ingolfianus
+Target: Vertebrate
+---------------------
+KT#: 4
+SourceAddition#: 0
+TargetDeletions#: 0
+
+***************************---------------------
+Source: Cynoponticus_ferox
+Target: Vertebrate
+---------------------
+KT#: 4
+SourceAddition#: 0
+TargetDeletions#: 0
+
+***************************---------------------
+Source: Muraenesox
+Target: Vertebrate
+---------------------
+KT#: 4
+SourceAddition#: 0
+TargetDeletions#: 1
+
+***************************---------------------
+Source: Facciolella_oxyrhyncha
+Target: Vertebrate
+---------------------
+KT#: 4
+SourceAddition#: 0
+TargetDeletions#: 0
+
+***************************---------------------
+Source: Hoplunnis_punctata
+Target: Vertebrate
+---------------------
+KT#: 4
+SourceAddition#: 0
+TargetDeletions#: 0
+
+***************************---------------------
+Source: Nettastoma_parviceps
+Target: Vertebrate
+---------------------
+KT#: 4
+SourceAddition#: 0
+TargetDeletions#: 0
+
+***************************---------------------
+Source: Ophisurus_macrorhynchos
+Target: Vertebrate
+---------------------
+KT#: 7
+SourceAddition#: 1
+TargetDeletions#: 0
+
+***************************---------------------
+Source: Chaenocephalus_aceratus
+Target: Vertebrate
+---------------------
+KT#: 4
+SourceAddition#: 0
+TargetDeletions#: 0
+
+***************************---------------------
+Source: Chionodraco_hamatus
+Target: Vertebrate
+---------------------
+KT#: 4
+SourceAddition#: 0
+TargetDeletions#: 0
+
+***************************---------------------
+Source: Notothenia_coriiceps
+Target: Vertebrate
+---------------------
+KT#: 4
+SourceAddition#: 0
+TargetDeletions#: 0
+
+***************************---------------------
+Source: Aneides_flavipunctatus
+Target: Vertebrate
+---------------------
+KT#: 4
+SourceAddition#: 0
+TargetDeletions#: 0
+
+***************************---------------------
+Source: Stereochilus_marginatus_final
+Target: Vertebrate
+---------------------
+KT#: 4
+SourceAddition#: 0
+TargetDeletions#: 0
+
+***************************---------------------
+Source: Siphonops_annulatus_final
+Target: Vertebrate
+---------------------
+KT#: 3
+SourceAddition#: 0
+TargetDeletions#: 0
+
+***************************

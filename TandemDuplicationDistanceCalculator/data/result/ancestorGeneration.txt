@@ -1,0 +1,505 @@
+---------------------------------------------------------------------
+Generating ancestor
+Source: Siphonops annulatus
+Target: Trachyrincus murrayi
+Mapped source and target to character array-----> 
+ijklmnopqrstuvwxyzABCDEFGHIJKymLMNOPQR
+ijklnompqrusvtwxyzABCDEFGHIJKymLMNOPQR
+
+Creating chains for directed graph generation
+[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37]
+[0, 1, 2, 3, 5, 6, 30, 7, 8, 9, 12, 10, 13, 11, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37]
+OPTIMAL
+Problem solved in 452 milliseconds 
+Problem solved in 250 iterations 
+Problem solved in 1 branch-and-bound nodes 
+********
+ijklmnopqrusvtwxyzABCDEFGHIJKymLMNOPQR
+tRNA-Phe 12S tRNA-Val 16S tRNA-Leu ND1 tRNA-Ile tRNA-Gln tRNA-Met ND2 tRNA-Ala tRNA-Cys tRNA-Trp tRNA-Asn tRNA-Tyr COX1 tRNA-Ser tRNA-Asp COX2 tRNA-Lys ATP8 ATP6 COX3 tRNA-Gly ND3 tRNA-Arg ND4L ND4 tRNA-His tRNA-Ser tRNA-Leu ND5 ND6 tRNA-Glu CYTB tRNA-Thr tRNA-Pro CR 
+tRNA-Phe 12S tRNA-Val 16S tRNA-Leu ND1 tRNA-Ile tRNA-Gln tRNA-Met ND2 tRNA-Trp tRNA-Ala tRNA-Asn tRNA-Cys tRNA-Tyr COX1 tRNA-Ser tRNA-Asp COX2 tRNA-Lys ATP8 ATP6 COX3 tRNA-Gly ND3 tRNA-Arg ND4L ND4 tRNA-His tRNA-Ser tRNA-Leu ND5 ND6 tRNA-Glu CYTB tRNA-Thr tRNA-Pro CR 
+tRNA-Phe 12S tRNA-Val 16S ND1 tRNA-Ile tRNA-Leu tRNA-Gln tRNA-Met ND2 tRNA-Trp tRNA-Ala tRNA-Asn tRNA-Cys tRNA-Tyr COX1 tRNA-Ser tRNA-Asp COX2 tRNA-Lys ATP8 ATP6 COX3 tRNA-Gly ND3 tRNA-Arg ND4L ND4 tRNA-His tRNA-Ser tRNA-Leu ND5 ND6 tRNA-Glu CYTB tRNA-Thr tRNA-Pro CR 
+F 12S V 16S L ND1 I Q M ND2 A C W N Y COX1 S D COX2 K ATP8 ATP6 COX3 G ND3 R ND4L ND4 H S L ND5 ND6 E CYTB T P CR 
+F 12S V 16S L ND1 I Q M ND2 W A N C Y COX1 S D COX2 K ATP8 ATP6 COX3 G ND3 R ND4L ND4 H S L ND5 ND6 E CYTB T P CR 
+F 12S V 16S ND1 I L Q M ND2 W A N C Y COX1 S D COX2 K ATP8 ATP6 COX3 G ND3 R ND4L ND4 H S L ND5 ND6 E CYTB T P CR 
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+---------------------------------------------------------------------
+Generating ancestor
+Source: Siphonops annulatus
+Target: Ponticola kessleri
+Mapped source and target to character array-----> 
+ijklmnopqrstuvwxyzABCDEFGHIJKymLMNOPQR
+ijklmnpoqrusvtwxyzABCDEFGHIJKymLMNOPQR
+
+Creating chains for directed graph generation
+[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37]
+[0, 1, 2, 3, 4, 5, 7, 6, 8, 9, 12, 10, 13, 11, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37]
+OPTIMAL
+Problem solved in 738 milliseconds 
+Problem solved in 3 iterations 
+Problem solved in 1 branch-and-bound nodes 
+********
+ijklmnopqrusvtwxyzABCDEFGHIJKymLMNOPQR
+tRNA-Phe 12S tRNA-Val 16S tRNA-Leu ND1 tRNA-Ile tRNA-Gln tRNA-Met ND2 tRNA-Ala tRNA-Cys tRNA-Trp tRNA-Asn tRNA-Tyr COX1 tRNA-Ser tRNA-Asp COX2 tRNA-Lys ATP8 ATP6 COX3 tRNA-Gly ND3 tRNA-Arg ND4L ND4 tRNA-His tRNA-Ser tRNA-Leu ND5 ND6 tRNA-Glu CYTB tRNA-Thr tRNA-Pro CR 
+tRNA-Phe 12S tRNA-Val 16S tRNA-Leu ND1 tRNA-Ile tRNA-Gln tRNA-Met ND2 tRNA-Trp tRNA-Ala tRNA-Asn tRNA-Cys tRNA-Tyr COX1 tRNA-Ser tRNA-Asp COX2 tRNA-Lys ATP8 ATP6 COX3 tRNA-Gly ND3 tRNA-Arg ND4L ND4 tRNA-His tRNA-Ser tRNA-Leu ND5 ND6 tRNA-Glu CYTB tRNA-Thr tRNA-Pro CR 
+tRNA-Phe 12S tRNA-Val 16S tRNA-Leu ND1 tRNA-Gln tRNA-Ile tRNA-Met ND2 tRNA-Trp tRNA-Ala tRNA-Asn tRNA-Cys tRNA-Tyr COX1 tRNA-Ser tRNA-Asp COX2 tRNA-Lys ATP8 ATP6 COX3 tRNA-Gly ND3 tRNA-Arg ND4L ND4 tRNA-His tRNA-Ser tRNA-Leu ND5 ND6 tRNA-Glu CYTB tRNA-Thr tRNA-Pro CR 
+F 12S V 16S L ND1 I Q M ND2 A C W N Y COX1 S D COX2 K ATP8 ATP6 COX3 G ND3 R ND4L ND4 H S L ND5 ND6 E CYTB T P CR 
+F 12S V 16S L ND1 I Q M ND2 W A N C Y COX1 S D COX2 K ATP8 ATP6 COX3 G ND3 R ND4L ND4 H S L ND5 ND6 E CYTB T P CR 
+F 12S V 16S L ND1 Q I M ND2 W A N C Y COX1 S D COX2 K ATP8 ATP6 COX3 G ND3 R ND4L ND4 H S L ND5 ND6 E CYTB T P CR 
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+---------------------------------------------------------------------
+Generating ancestor
+Source: Ponticola kessleri
+Target: Siphonops annulatus
+Mapped source and target to character array-----> 
+ijklmnopqrstuvwxyzABCDEFGHIJKymLMNOPQR
+ijklmnpoqrtvsuwxyzABCDEFGHIJKymLMNOPQR
+
+Creating chains for directed graph generation
+[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37]
+[0, 1, 2, 3, 4, 5, 7, 6, 8, 9, 11, 13, 10, 12, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37]
+OPTIMAL
+Problem solved in 152 milliseconds 
+Problem solved in 0 iterations 
+Problem solved in 0 branch-and-bound nodes 
+********
+ijklmnopqrstuvwxyzABCDEFGHIJKymLMNOPQR
+tRNA-Phe 12S tRNA-Val 16S tRNA-Leu ND1 tRNA-Gln tRNA-Ile tRNA-Met ND2 tRNA-Trp tRNA-Ala tRNA-Asn tRNA-Cys tRNA-Tyr COX1 tRNA-Ser tRNA-Asp COX2 tRNA-Lys ATP8 ATP6 COX3 tRNA-Gly ND3 tRNA-Arg ND4L ND4 tRNA-His tRNA-Ser tRNA-Leu ND5 ND6 tRNA-Glu CYTB tRNA-Thr tRNA-Pro CR 
+tRNA-Phe 12S tRNA-Val 16S tRNA-Leu ND1 tRNA-Gln tRNA-Ile tRNA-Met ND2 tRNA-Trp tRNA-Ala tRNA-Asn tRNA-Cys tRNA-Tyr COX1 tRNA-Ser tRNA-Asp COX2 tRNA-Lys ATP8 ATP6 COX3 tRNA-Gly ND3 tRNA-Arg ND4L ND4 tRNA-His tRNA-Ser tRNA-Leu ND5 ND6 tRNA-Glu CYTB tRNA-Thr tRNA-Pro CR 
+tRNA-Phe 12S tRNA-Val 16S tRNA-Leu ND1 tRNA-Ile tRNA-Gln tRNA-Met ND2 tRNA-Ala tRNA-Cys tRNA-Trp tRNA-Asn tRNA-Tyr COX1 tRNA-Ser tRNA-Asp COX2 tRNA-Lys ATP8 ATP6 COX3 tRNA-Gly ND3 tRNA-Arg ND4L ND4 tRNA-His tRNA-Ser tRNA-Leu ND5 ND6 tRNA-Glu CYTB tRNA-Thr tRNA-Pro CR 
+F 12S V 16S L ND1 Q I M ND2 W A N C Y COX1 S D COX2 K ATP8 ATP6 COX3 G ND3 R ND4L ND4 H S L ND5 ND6 E CYTB T P CR 
+F 12S V 16S L ND1 Q I M ND2 W A N C Y COX1 S D COX2 K ATP8 ATP6 COX3 G ND3 R ND4L ND4 H S L ND5 ND6 E CYTB T P CR 
+F 12S V 16S L ND1 I Q M ND2 A C W N Y COX1 S D COX2 K ATP8 ATP6 COX3 G ND3 R ND4L ND4 H S L ND5 ND6 E CYTB T P CR 
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+---------------------------------------------------------------------
+Generating ancestor
+Source: hamaeleo_africanus
+Target: Siphonops annulatus
+Mapped source and target to character array-----> 
+ijklmnopqrstuvwxyzABCDEFGHIJKymLMNOPQR
+ijklmnpoqrtvsuwxyzABCDEFGHIJKymLMNOPRQ
+
+Creating chains for directed graph generation
+[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37]
+[0, 1, 2, 3, 4, 5, 7, 6, 8, 9, 11, 13, 10, 12, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 37, 36]
+OPTIMAL
+Problem solved in 107 milliseconds 
+Problem solved in 0 iterations 
+Problem solved in 0 branch-and-bound nodes 
+********
+ijklmnopqrstuvwxyzABCDEFGHIJKymLMNOPQR
+tRNA-Phe 12S tRNA-Val 16S tRNA-Leu ND1 tRNA-Gln tRNA-Ile tRNA-Met ND2 tRNA-Trp tRNA-Ala tRNA-Asn tRNA-Cys tRNA-Tyr COX1 tRNA-Ser tRNA-Asp COX2 tRNA-Lys ATP8 ATP6 COX3 tRNA-Gly ND3 tRNA-Arg ND4L ND4 tRNA-His tRNA-Ser tRNA-Leu ND5 ND6 tRNA-Glu CYTB tRNA-Thr CR tRNA-Pro 
+tRNA-Phe 12S tRNA-Val 16S tRNA-Leu ND1 tRNA-Gln tRNA-Ile tRNA-Met ND2 tRNA-Trp tRNA-Ala tRNA-Asn tRNA-Cys tRNA-Tyr COX1 tRNA-Ser tRNA-Asp COX2 tRNA-Lys ATP8 ATP6 COX3 tRNA-Gly ND3 tRNA-Arg ND4L ND4 tRNA-His tRNA-Ser tRNA-Leu ND5 ND6 tRNA-Glu CYTB tRNA-Thr CR tRNA-Pro 
+tRNA-Phe 12S tRNA-Val 16S tRNA-Leu ND1 tRNA-Ile tRNA-Gln tRNA-Met ND2 tRNA-Ala tRNA-Cys tRNA-Trp tRNA-Asn tRNA-Tyr COX1 tRNA-Ser tRNA-Asp COX2 tRNA-Lys ATP8 ATP6 COX3 tRNA-Gly ND3 tRNA-Arg ND4L ND4 tRNA-His tRNA-Ser tRNA-Leu ND5 ND6 tRNA-Glu CYTB tRNA-Thr tRNA-Pro CR 
+F 12S V 16S L ND1 Q I M ND2 W A N C Y COX1 S D COX2 K ATP8 ATP6 COX3 G ND3 R ND4L ND4 H S L ND5 ND6 E CYTB T CR P 
+F 12S V 16S L ND1 Q I M ND2 W A N C Y COX1 S D COX2 K ATP8 ATP6 COX3 G ND3 R ND4L ND4 H S L ND5 ND6 E CYTB T CR P 
+F 12S V 16S L ND1 I Q M ND2 A C W N Y COX1 S D COX2 K ATP8 ATP6 COX3 G ND3 R ND4L ND4 H S L ND5 ND6 E CYTB T P CR 
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+---------------------------------------------------------------------
+Generating ancestor
+Source: Siphonops annulatus
+Target: Lampris Guttatus
+Mapped source and target to character array-----> 
+ijklmnopqrstuvwxyzABCDEFGHIJKymLMNOPQR
+ijklmnopqrusvtwxyzABCDEFGHIJKymLMNOPR
+
+Creating chains for directed graph generation
+[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37]
+[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 12, 10, 13, 11, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 37]
+OPTIMAL
+Problem solved in 639 milliseconds 
+Problem solved in 4 iterations 
+Problem solved in 1 branch-and-bound nodes 
+********
+ijklmnopqrusvtwxyzABCDEFGHIJKymLMNOPQR
+tRNA-Phe 12S tRNA-Val 16S tRNA-Leu ND1 tRNA-Ile tRNA-Gln tRNA-Met ND2 tRNA-Ala tRNA-Cys tRNA-Trp tRNA-Asn tRNA-Tyr COX1 tRNA-Ser tRNA-Asp COX2 tRNA-Lys ATP8 ATP6 COX3 tRNA-Gly ND3 tRNA-Arg ND4L ND4 tRNA-His tRNA-Ser tRNA-Leu ND5 ND6 tRNA-Glu CYTB tRNA-Thr tRNA-Pro CR 
+tRNA-Phe 12S tRNA-Val 16S tRNA-Leu ND1 tRNA-Ile tRNA-Gln tRNA-Met ND2 tRNA-Trp tRNA-Ala tRNA-Asn tRNA-Cys tRNA-Tyr COX1 tRNA-Ser tRNA-Asp COX2 tRNA-Lys ATP8 ATP6 COX3 tRNA-Gly ND3 tRNA-Arg ND4L ND4 tRNA-His tRNA-Ser tRNA-Leu ND5 ND6 tRNA-Glu CYTB tRNA-Thr tRNA-Pro CR 
+tRNA-Phe 12S tRNA-Val 16S tRNA-Leu ND1 tRNA-Ile tRNA-Gln tRNA-Met ND2 tRNA-Trp tRNA-Ala tRNA-Asn tRNA-Cys tRNA-Tyr COX1 tRNA-Ser tRNA-Asp COX2 tRNA-Lys ATP8 ATP6 COX3 tRNA-Gly ND3 tRNA-Arg ND4L ND4 tRNA-His tRNA-Ser tRNA-Leu ND5 ND6 tRNA-Glu CYTB tRNA-Thr CR 
+F 12S V 16S L ND1 I Q M ND2 A C W N Y COX1 S D COX2 K ATP8 ATP6 COX3 G ND3 R ND4L ND4 H S L ND5 ND6 E CYTB T P CR 
+F 12S V 16S L ND1 I Q M ND2 W A N C Y COX1 S D COX2 K ATP8 ATP6 COX3 G ND3 R ND4L ND4 H S L ND5 ND6 E CYTB T P CR 
+F 12S V 16S L ND1 I Q M ND2 W A N C Y COX1 S D COX2 K ATP8 ATP6 COX3 G ND3 R ND4L ND4 H S L ND5 ND6 E CYTB T CR 
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+---------------------------------------------------------------------
+Generating ancestor
+Source: Rhineura floridana
+Target: Siphonops annulatus
+Mapped source and target to character array-----> 
+ijklmnopqrstuvwxyzABCDEFGHIJKymLMNOPQR
+ijklmnopqrtvsuwxyzABCDEFGHIJKymLPQMNOR
+
+Creating chains for directed graph generation
+[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37]
+[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 11, 13, 10, 12, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 35, 36, 32, 33, 34, 37]
+OPTIMAL
+Problem solved in 577 milliseconds 
+Problem solved in 0 iterations 
+Problem solved in 1 branch-and-bound nodes 
+********
+ijklmnopqrstuvwxyzABCDEFGHIJKymLMNOPQR
+tRNA-Phe 12S tRNA-Val 16S tRNA-Leu ND1 tRNA-Ile tRNA-Gln tRNA-Met ND2 tRNA-Trp tRNA-Ala tRNA-Asn tRNA-Cys tRNA-Tyr COX1 tRNA-Ser tRNA-Asp COX2 tRNA-Lys ATP8 ATP6 COX3 tRNA-Gly ND3 tRNA-Arg ND4L ND4 tRNA-His tRNA-Ser tRNA-Leu ND5 CYTB tRNA-Thr tRNA-Pro ND6 tRNA-Glu CR 
+tRNA-Phe 12S tRNA-Val 16S tRNA-Leu ND1 tRNA-Ile tRNA-Gln tRNA-Met ND2 tRNA-Trp tRNA-Ala tRNA-Asn tRNA-Cys tRNA-Tyr COX1 tRNA-Ser tRNA-Asp COX2 tRNA-Lys ATP8 ATP6 COX3 tRNA-Gly ND3 tRNA-Arg ND4L ND4 tRNA-His tRNA-Ser tRNA-Leu ND5 CYTB tRNA-Thr tRNA-Pro ND6 tRNA-Glu CR 
+tRNA-Phe 12S tRNA-Val 16S tRNA-Leu ND1 tRNA-Ile tRNA-Gln tRNA-Met ND2 tRNA-Ala tRNA-Cys tRNA-Trp tRNA-Asn tRNA-Tyr COX1 tRNA-Ser tRNA-Asp COX2 tRNA-Lys ATP8 ATP6 COX3 tRNA-Gly ND3 tRNA-Arg ND4L ND4 tRNA-His tRNA-Ser tRNA-Leu ND5 ND6 tRNA-Glu CYTB tRNA-Thr tRNA-Pro CR 
+F 12S V 16S L ND1 I Q M ND2 W A N C Y COX1 S D COX2 K ATP8 ATP6 COX3 G ND3 R ND4L ND4 H S L ND5 CYTB T P ND6 E CR 
+F 12S V 16S L ND1 I Q M ND2 W A N C Y COX1 S D COX2 K ATP8 ATP6 COX3 G ND3 R ND4L ND4 H S L ND5 CYTB T P ND6 E CR 
+F 12S V 16S L ND1 I Q M ND2 A C W N Y COX1 S D COX2 K ATP8 ATP6 COX3 G ND3 R ND4L ND4 H S L ND5 ND6 E CYTB T P CR 
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+---------------------------------------------------------------------
+Generating ancestor
+Source: Siphonops annulatus
+Target: Hapalogenys analis
+Mapped source and target to character array-----> 
+ijklmnopqrstuvwxyzABCDEFGHIJKymLMNOPQR
+ijklmnopqrusvtwxyzABCDEFGHIJKymLMNOPR
+
+Creating chains for directed graph generation
+[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37]
+[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 12, 10, 13, 11, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 37]
+OPTIMAL
+Problem solved in 580 milliseconds 
+Problem solved in 4 iterations 
+Problem solved in 1 branch-and-bound nodes 
+********
+ijklmnopqrusvtwxyzABCDEFGHIJKymLMNOPQR
+tRNA-Phe 12S tRNA-Val 16S tRNA-Leu ND1 tRNA-Ile tRNA-Gln tRNA-Met ND2 tRNA-Ala tRNA-Cys tRNA-Trp tRNA-Asn tRNA-Tyr COX1 tRNA-Ser tRNA-Asp COX2 tRNA-Lys ATP8 ATP6 COX3 tRNA-Gly ND3 tRNA-Arg ND4L ND4 tRNA-His tRNA-Ser tRNA-Leu ND5 ND6 tRNA-Glu CYTB tRNA-Thr tRNA-Pro CR 
+tRNA-Phe 12S tRNA-Val 16S tRNA-Leu ND1 tRNA-Ile tRNA-Gln tRNA-Met ND2 tRNA-Trp tRNA-Ala tRNA-Asn tRNA-Cys tRNA-Tyr COX1 tRNA-Ser tRNA-Asp COX2 tRNA-Lys ATP8 ATP6 COX3 tRNA-Gly ND3 tRNA-Arg ND4L ND4 tRNA-His tRNA-Ser tRNA-Leu ND5 ND6 tRNA-Glu CYTB tRNA-Thr tRNA-Pro CR 
+tRNA-Phe 12S tRNA-Val 16S tRNA-Leu ND1 tRNA-Ile tRNA-Gln tRNA-Met ND2 tRNA-Trp tRNA-Ala tRNA-Asn tRNA-Cys tRNA-Tyr COX1 tRNA-Ser tRNA-Asp COX2 tRNA-Lys ATP8 ATP6 COX3 tRNA-Gly ND3 tRNA-Arg ND4L ND4 tRNA-His tRNA-Ser tRNA-Leu ND5 ND6 tRNA-Glu CYTB tRNA-Thr CR 
+F 12S V 16S L ND1 I Q M ND2 A C W N Y COX1 S D COX2 K ATP8 ATP6 COX3 G ND3 R ND4L ND4 H S L ND5 ND6 E CYTB T P CR 
+F 12S V 16S L ND1 I Q M ND2 W A N C Y COX1 S D COX2 K ATP8 ATP6 COX3 G ND3 R ND4L ND4 H S L ND5 ND6 E CYTB T P CR 
+F 12S V 16S L ND1 I Q M ND2 W A N C Y COX1 S D COX2 K ATP8 ATP6 COX3 G ND3 R ND4L ND4 H S L ND5 ND6 E CYTB T CR 
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+---------------------------------------------------------------------
+Generating ancestor
+Source: Normichthys operosus
+Target: Pagothenia borchgrevinki
+Mapped source and target to character array-----> 
+ijklmnopqrstuvwxyzABCDEFGHIJKzmLMNOPQR
+ijklmnopqrstuvwxzyABCDEFGHIJKzmLOPQMNR
+
+Creating chains for directed graph generation
+[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37]
+[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 17, 16, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 34, 35, 36, 32, 33, 37]
+OPTIMAL
+Problem solved in 96 milliseconds 
+Problem solved in 0 iterations 
+Problem solved in 0 branch-and-bound nodes 
+********
+ijklmnopqrstuvwxyzABCDEFGHIJKzmLMNOPQR
+tRNA-Phe 12S tRNA-Val 16S tRNA-Leu ND1 tRNA-Ile tRNA-Gln tRNA-Met ND2 tRNA-Trp tRNA-Ala tRNA-Asn tRNA-Cys tRNA-Tyr COX1 tRNA-Asp tRNA-Ser COX2 tRNA-Lys ATP8 ATP6 COX3 tRNA-Gly ND3 tRNA-Arg ND4L ND4 tRNA-His tRNA-Ser tRNA-Leu ND5 ND6 tRNA-Glu CYTB tRNA-Thr tRNA-Pro CR 
+tRNA-Phe 12S tRNA-Val 16S tRNA-Leu ND1 tRNA-Ile tRNA-Gln tRNA-Met ND2 tRNA-Trp tRNA-Ala tRNA-Asn tRNA-Cys tRNA-Tyr COX1 tRNA-Asp tRNA-Ser COX2 tRNA-Lys ATP8 ATP6 COX3 tRNA-Gly ND3 tRNA-Arg ND4L ND4 tRNA-His tRNA-Ser tRNA-Leu ND5 ND6 tRNA-Glu CYTB tRNA-Thr tRNA-Pro CR 
+tRNA-Phe 12S tRNA-Val 16S tRNA-Leu ND1 tRNA-Ile tRNA-Gln tRNA-Met ND2 tRNA-Trp tRNA-Ala tRNA-Asn tRNA-Cys tRNA-Tyr COX1 tRNA-Ser tRNA-Asp COX2 tRNA-Lys ATP8 ATP6 COX3 tRNA-Gly ND3 tRNA-Arg ND4L ND4 tRNA-His tRNA-Ser tRNA-Leu ND5 CYTB tRNA-Thr tRNA-Pro ND6 tRNA-Glu CR 
+F 12S V 16S L ND1 I Q M ND2 W A N C Y COX1 D S COX2 K ATP8 ATP6 COX3 G ND3 R ND4L ND4 H S L ND5 ND6 E CYTB T P CR 
+F 12S V 16S L ND1 I Q M ND2 W A N C Y COX1 D S COX2 K ATP8 ATP6 COX3 G ND3 R ND4L ND4 H S L ND5 ND6 E CYTB T P CR 
+F 12S V 16S L ND1 I Q M ND2 W A N C Y COX1 S D COX2 K ATP8 ATP6 COX3 G ND3 R ND4L ND4 H S L ND5 CYTB T P ND6 E CR 
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+---------------------------------------------------------------------
+Generating ancestor
+Source: Dallia pectoralis
+Target: Muraenesox bagio
+Mapped source and target to character array-----> 
+ijklmnopqrstuvwxyzABCDEFGHIJKymLMNOPQR
+ijklmnopqrstuvwxyzABCDEFGHIJKymLORMNQ
+
+Creating chains for directed graph generation
+[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37]
+[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 34, 37, 32, 33, 36]
+OPTIMAL
+Problem solved in 131 milliseconds 
+Problem solved in 0 iterations 
+Problem solved in 0 branch-and-bound nodes 
+********
+ijklmnopqrstuvwxyzABCDEFGHIJKymLMNOPQR
+tRNA-Phe 12S tRNA-Val 16S tRNA-Leu ND1 tRNA-Ile tRNA-Gln tRNA-Met ND2 tRNA-Trp tRNA-Ala tRNA-Asn tRNA-Cys tRNA-Tyr COX1 tRNA-Ser tRNA-Asp COX2 tRNA-Lys ATP8 ATP6 COX3 tRNA-Gly ND3 tRNA-Arg ND4L ND4 tRNA-His tRNA-Ser tRNA-Leu ND5 ND6 tRNA-Glu CYTB tRNA-Pro CR tRNA-Thr 
+tRNA-Phe 12S tRNA-Val 16S tRNA-Leu ND1 tRNA-Ile tRNA-Gln tRNA-Met ND2 tRNA-Trp tRNA-Ala tRNA-Asn tRNA-Cys tRNA-Tyr COX1 tRNA-Ser tRNA-Asp COX2 tRNA-Lys ATP8 ATP6 COX3 tRNA-Gly ND3 tRNA-Arg ND4L ND4 tRNA-His tRNA-Ser tRNA-Leu ND5 ND6 tRNA-Glu CYTB tRNA-Pro CR tRNA-Thr 
+tRNA-Phe 12S tRNA-Val 16S tRNA-Leu ND1 tRNA-Ile tRNA-Gln tRNA-Met ND2 tRNA-Trp tRNA-Ala tRNA-Asn tRNA-Cys tRNA-Tyr COX1 tRNA-Ser tRNA-Asp COX2 tRNA-Lys ATP8 ATP6 COX3 tRNA-Gly ND3 tRNA-Arg ND4L ND4 tRNA-His tRNA-Ser tRNA-Leu ND5 CYTB tRNA-Thr ND6 tRNA-Glu CR 
+F 12S V 16S L ND1 I Q M ND2 W A N C Y COX1 S D COX2 K ATP8 ATP6 COX3 G ND3 R ND4L ND4 H S L ND5 ND6 E CYTB P CR T 
+F 12S V 16S L ND1 I Q M ND2 W A N C Y COX1 S D COX2 K ATP8 ATP6 COX3 G ND3 R ND4L ND4 H S L ND5 ND6 E CYTB P CR T 
+F 12S V 16S L ND1 I Q M ND2 W A N C Y COX1 S D COX2 K ATP8 ATP6 COX3 G ND3 R ND4L ND4 H S L ND5 CYTB T ND6 E CR 
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+---------------------------------------------------------------------
+Generating ancestor
+Source: Dallia pectoralis
+Target: Squalogadus modificatus
+Mapped source and target to character array-----> 
+ijklmnopqrstuvwxyzABCDEFGHIJKymLMNOPQR
+ijklnompqrstuvwxyzABCDEFGHIJKymLMNORPQ
+
+Creating chains for directed graph generation
+[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37]
+[0, 1, 2, 3, 5, 6, 30, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 37, 35, 36]
+OPTIMAL
+Problem solved in 116 milliseconds 
+Problem solved in 0 iterations 
+Problem solved in 0 branch-and-bound nodes 
+********
+ijklmnopqrstuvwxyzABCDEFGHIJKymLMNOPQR
+tRNA-Phe 12S tRNA-Val 16S tRNA-Leu ND1 tRNA-Ile tRNA-Gln tRNA-Met ND2 tRNA-Trp tRNA-Ala tRNA-Asn tRNA-Cys tRNA-Tyr COX1 tRNA-Ser tRNA-Asp COX2 tRNA-Lys ATP8 ATP6 COX3 tRNA-Gly ND3 tRNA-Arg ND4L ND4 tRNA-His tRNA-Ser tRNA-Leu ND5 ND6 tRNA-Glu CYTB tRNA-Pro CR tRNA-Thr 
+tRNA-Phe 12S tRNA-Val 16S tRNA-Leu ND1 tRNA-Ile tRNA-Gln tRNA-Met ND2 tRNA-Trp tRNA-Ala tRNA-Asn tRNA-Cys tRNA-Tyr COX1 tRNA-Ser tRNA-Asp COX2 tRNA-Lys ATP8 ATP6 COX3 tRNA-Gly ND3 tRNA-Arg ND4L ND4 tRNA-His tRNA-Ser tRNA-Leu ND5 ND6 tRNA-Glu CYTB tRNA-Pro CR tRNA-Thr 
+tRNA-Phe 12S tRNA-Val 16S ND1 tRNA-Ile tRNA-Leu tRNA-Gln tRNA-Met ND2 tRNA-Trp tRNA-Ala tRNA-Asn tRNA-Cys tRNA-Tyr COX1 tRNA-Ser tRNA-Asp COX2 tRNA-Lys ATP8 ATP6 COX3 tRNA-Gly ND3 tRNA-Arg ND4L ND4 tRNA-His tRNA-Ser tRNA-Leu ND5 ND6 tRNA-Glu CYTB tRNA-Thr tRNA-Pro CR 
+F 12S V 16S L ND1 I Q M ND2 W A N C Y COX1 S D COX2 K ATP8 ATP6 COX3 G ND3 R ND4L ND4 H S L ND5 ND6 E CYTB P CR T 
+F 12S V 16S L ND1 I Q M ND2 W A N C Y COX1 S D COX2 K ATP8 ATP6 COX3 G ND3 R ND4L ND4 H S L ND5 ND6 E CYTB P CR T 
+F 12S V 16S ND1 I L Q M ND2 W A N C Y COX1 S D COX2 K ATP8 ATP6 COX3 G ND3 R ND4L ND4 H S L ND5 ND6 E CYTB T P CR 
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+---------------------------------------------------------------------
+Generating ancestor
+Source: Clinocottus analis
+Target: Aulorhynchus flavidus
+Mapped source and target to character array-----> 
+ijklmnopqrstuvwxyzABCDEFGHIJKLMAoNOPQRmn
+ijklopqrstuvwxyzABCDEFGHIJKLAMoNOPQRnm
+
+Creating chains for directed graph generation
+[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39]
+[0, 1, 2, 3, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 31, 30, 32, 33, 34, 35, 36, 37, 39, 4]
+OPTIMAL
+Problem solved in 90 milliseconds 
+Problem solved in 0 iterations 
+Problem solved in 0 branch-and-bound nodes 
+********
+ijklmnopqrstuvwxyzABCDEFGHIJKLMAoNOPQRmn
+tRNA-Phe 12S tRNA-Val 16S CR tRNA-Pro tRNA-Leu ND1 tRNA-Ile tRNA-Gln tRNA-Met ND2 tRNA-Trp tRNA-Ala tRNA-Asn tRNA-Cys tRNA-Tyr COX1 tRNA-Ser tRNA-Asp COX2 tRNA-Lys ATP8 ATP6 COX3 tRNA-Gly ND3 tRNA-Arg ND4L ND4 tRNA-His tRNA-Ser tRNA-Leu ND5 ND6 tRNA-Glu CYTB tRNA-Thr CR tRNA-Pro 
+tRNA-Phe 12S tRNA-Val 16S CR tRNA-Pro tRNA-Leu ND1 tRNA-Ile tRNA-Gln tRNA-Met ND2 tRNA-Trp tRNA-Ala tRNA-Asn tRNA-Cys tRNA-Tyr COX1 tRNA-Ser tRNA-Asp COX2 tRNA-Lys ATP8 ATP6 COX3 tRNA-Gly ND3 tRNA-Arg ND4L ND4 tRNA-His tRNA-Ser tRNA-Leu ND5 ND6 tRNA-Glu CYTB tRNA-Thr CR tRNA-Pro 
+tRNA-Phe 12S tRNA-Val 16S tRNA-Leu ND1 tRNA-Ile tRNA-Gln tRNA-Met ND2 tRNA-Trp tRNA-Ala tRNA-Asn tRNA-Cys tRNA-Tyr COX1 tRNA-Ser tRNA-Asp COX2 tRNA-Lys ATP8 ATP6 COX3 tRNA-Gly ND3 tRNA-Arg ND4L ND4 tRNA-Ser tRNA-His tRNA-Leu ND5 ND6 tRNA-Glu CYTB tRNA-Thr tRNA-Pro CR 
+F 12S V 16S CR P L ND1 I Q M ND2 W A N C Y COX1 S D COX2 K ATP8 ATP6 COX3 G ND3 R ND4L ND4 H S L ND5 ND6 E CYTB T CR P 
+F 12S V 16S CR P L ND1 I Q M ND2 W A N C Y COX1 S D COX2 K ATP8 ATP6 COX3 G ND3 R ND4L ND4 H S L ND5 ND6 E CYTB T CR P 
+F 12S V 16S L ND1 I Q M ND2 W A N C Y COX1 S D COX2 K ATP8 ATP6 COX3 G ND3 R ND4L ND4 S H L ND5 ND6 E CYTB T P CR 
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+---------------------------------------------------------------------
+Generating ancestor
+Source: Ventrifossa garmani
+Target: Normichthys operosus
+Mapped source and target to character array-----> 
+ijklmnopqrstuvwxyzABCDEFGHIJKymLMNOPQR
+ijklmnopqrstuvwxzyABCDEFGHIJKymLMQNOPR
+
+Creating chains for directed graph generation
+[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37]
+[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 17, 29, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 36, 33, 34, 35, 37]
+OPTIMAL
+Problem solved in 111 milliseconds 
+Problem solved in 0 iterations 
+Problem solved in 0 branch-and-bound nodes 
+********
+ijklmnopqrstuvwxyzABCDEFGHIJKymLMNOPQR
+tRNA-Phe 12S tRNA-Val 16S tRNA-Leu ND1 tRNA-Ile tRNA-Gln tRNA-Met ND2 tRNA-Trp tRNA-Ala tRNA-Asn tRNA-Cys tRNA-Tyr COX1 tRNA-Ser tRNA-Asp COX2 tRNA-Lys ATP8 ATP6 COX3 tRNA-Gly ND3 tRNA-Arg ND4L ND4 tRNA-His tRNA-Ser tRNA-Leu ND5 ND6 CYTB tRNA-Thr tRNA-Pro tRNA-Glu CR 
+tRNA-Phe 12S tRNA-Val 16S tRNA-Leu ND1 tRNA-Ile tRNA-Gln tRNA-Met ND2 tRNA-Trp tRNA-Ala tRNA-Asn tRNA-Cys tRNA-Tyr COX1 tRNA-Ser tRNA-Asp COX2 tRNA-Lys ATP8 ATP6 COX3 tRNA-Gly ND3 tRNA-Arg ND4L ND4 tRNA-His tRNA-Ser tRNA-Leu ND5 ND6 CYTB tRNA-Thr tRNA-Pro tRNA-Glu CR 
+tRNA-Phe 12S tRNA-Val 16S tRNA-Leu ND1 tRNA-Ile tRNA-Gln tRNA-Met ND2 tRNA-Trp tRNA-Ala tRNA-Asn tRNA-Cys tRNA-Tyr COX1 tRNA-Asp tRNA-Ser COX2 tRNA-Lys ATP8 ATP6 COX3 tRNA-Gly ND3 tRNA-Arg ND4L ND4 tRNA-His tRNA-Ser tRNA-Leu ND5 ND6 tRNA-Glu CYTB tRNA-Thr tRNA-Pro CR 
+F 12S V 16S L ND1 I Q M ND2 W A N C Y COX1 S D COX2 K ATP8 ATP6 COX3 G ND3 R ND4L ND4 H S L ND5 ND6 CYTB T P E CR 
+F 12S V 16S L ND1 I Q M ND2 W A N C Y COX1 S D COX2 K ATP8 ATP6 COX3 G ND3 R ND4L ND4 H S L ND5 ND6 CYTB T P E CR 
+F 12S V 16S L ND1 I Q M ND2 W A N C Y COX1 D S COX2 K ATP8 ATP6 COX3 G ND3 R ND4L ND4 H S L ND5 ND6 E CYTB T P CR 
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+---------------------------------------------------------------------
+Generating ancestor
+Source: Aulorhynchus flavidus
+Target: Ponticola kessleri
+Mapped source and target to character array-----> 
+ijklmnopqrstuvwxyzABCDEFGHIJyKmLMNOPQR
+ijklmnpoqrstuvwxyzABCDEFGHIJKymLMNOPQR
+
+Creating chains for directed graph generation
+[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37]
+[0, 1, 2, 3, 4, 5, 7, 6, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 29, 16, 30, 31, 32, 33, 34, 35, 36, 37]
+OPTIMAL
+Problem solved in 94 milliseconds 
+Problem solved in 0 iterations 
+Problem solved in 0 branch-and-bound nodes 
+********
+ijklmnopqrstuvwxyzABCDEFGHIJyKmLMNOPQR
+tRNA-Phe 12S tRNA-Val 16S tRNA-Leu ND1 tRNA-Ile tRNA-Gln tRNA-Met ND2 tRNA-Trp tRNA-Ala tRNA-Asn tRNA-Cys tRNA-Tyr COX1 tRNA-Ser tRNA-Asp COX2 tRNA-Lys ATP8 ATP6 COX3 tRNA-Gly ND3 tRNA-Arg ND4L ND4 tRNA-Ser tRNA-His tRNA-Leu ND5 ND6 tRNA-Glu CYTB tRNA-Thr tRNA-Pro CR 
+tRNA-Phe 12S tRNA-Val 16S tRNA-Leu ND1 tRNA-Ile tRNA-Gln tRNA-Met ND2 tRNA-Trp tRNA-Ala tRNA-Asn tRNA-Cys tRNA-Tyr COX1 tRNA-Ser tRNA-Asp COX2 tRNA-Lys ATP8 ATP6 COX3 tRNA-Gly ND3 tRNA-Arg ND4L ND4 tRNA-Ser tRNA-His tRNA-Leu ND5 ND6 tRNA-Glu CYTB tRNA-Thr tRNA-Pro CR 
+tRNA-Phe 12S tRNA-Val 16S tRNA-Leu ND1 tRNA-Gln tRNA-Ile tRNA-Met ND2 tRNA-Trp tRNA-Ala tRNA-Asn tRNA-Cys tRNA-Tyr COX1 tRNA-Ser tRNA-Asp COX2 tRNA-Lys ATP8 ATP6 COX3 tRNA-Gly ND3 tRNA-Arg ND4L ND4 tRNA-His tRNA-Ser tRNA-Leu ND5 ND6 tRNA-Glu CYTB tRNA-Thr tRNA-Pro CR 
+F 12S V 16S L ND1 I Q M ND2 W A N C Y COX1 S D COX2 K ATP8 ATP6 COX3 G ND3 R ND4L ND4 S H L ND5 ND6 E CYTB T P CR 
+F 12S V 16S L ND1 I Q M ND2 W A N C Y COX1 S D COX2 K ATP8 ATP6 COX3 G ND3 R ND4L ND4 S H L ND5 ND6 E CYTB T P CR 
+F 12S V 16S L ND1 Q I M ND2 W A N C Y COX1 S D COX2 K ATP8 ATP6 COX3 G ND3 R ND4L ND4 H S L ND5 ND6 E CYTB T P CR 
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+---------------------------------------------------------------------
+Generating ancestor
+Source: Rhineura floridana
+Target: Chamaeleo africanus
+Mapped source and target to character array-----> 
+ijklmnopqrstuvwxyzABCDEFGHIJKymLMNOPQR
+ijklmnpoqrstuvwxyzABCDEFGHIJKymLPQMNRO
+
+Creating chains for directed graph generation
+[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37]
+[0, 1, 2, 3, 4, 5, 7, 6, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 35, 36, 32, 33, 37, 34]
+OPTIMAL
+Problem solved in 509 milliseconds 
+Problem solved in 0 iterations 
+Problem solved in 1 branch-and-bound nodes 
+********
+ijklmnopqrstuvwxyzABCDEFGHIJKymLPQMNRO
+tRNA-Phe 12S tRNA-Val 16S tRNA-Leu ND1 tRNA-Ile tRNA-Gln tRNA-Met ND2 tRNA-Trp tRNA-Ala tRNA-Asn tRNA-Cys tRNA-Tyr COX1 tRNA-Ser tRNA-Asp COX2 tRNA-Lys ATP8 ATP6 COX3 tRNA-Gly ND3 tRNA-Arg ND4L ND4 tRNA-His tRNA-Ser tRNA-Leu ND5 CYTB tRNA-Thr tRNA-Pro ND6 tRNA-Glu CR 
+tRNA-Phe 12S tRNA-Val 16S tRNA-Leu ND1 tRNA-Ile tRNA-Gln tRNA-Met ND2 tRNA-Trp tRNA-Ala tRNA-Asn tRNA-Cys tRNA-Tyr COX1 tRNA-Ser tRNA-Asp COX2 tRNA-Lys ATP8 ATP6 COX3 tRNA-Gly ND3 tRNA-Arg ND4L ND4 tRNA-His tRNA-Ser tRNA-Leu ND5 ND6 tRNA-Glu CYTB tRNA-Thr CR tRNA-Pro 
+tRNA-Phe 12S tRNA-Val 16S tRNA-Leu ND1 tRNA-Gln tRNA-Ile tRNA-Met ND2 tRNA-Trp tRNA-Ala tRNA-Asn tRNA-Cys tRNA-Tyr COX1 tRNA-Ser tRNA-Asp COX2 tRNA-Lys ATP8 ATP6 COX3 tRNA-Gly ND3 tRNA-Arg ND4L ND4 tRNA-His tRNA-Ser tRNA-Leu ND5 ND6 tRNA-Glu CYTB tRNA-Thr CR tRNA-Pro 
+F 12S V 16S L ND1 I Q M ND2 W A N C Y COX1 S D COX2 K ATP8 ATP6 COX3 G ND3 R ND4L ND4 H S L ND5 CYTB T P ND6 E CR 
+F 12S V 16S L ND1 I Q M ND2 W A N C Y COX1 S D COX2 K ATP8 ATP6 COX3 G ND3 R ND4L ND4 H S L ND5 ND6 E CYTB T CR P 
+F 12S V 16S L ND1 Q I M ND2 W A N C Y COX1 S D COX2 K ATP8 ATP6 COX3 G ND3 R ND4L ND4 H S L ND5 ND6 E CYTB T CR P 
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+---------------------------------------------------------------------
+Generating ancestor
+Source: Rhineura floridana
+Target: Chamaeleo africanus
+Mapped source and target to character array-----> 
+ijklmnopqrstuvwxyzABCDEFGHIJKymLMNOPQR
+ijklmnpoqrstuvwxyzABCDEFGHIJKymLPQMNRO
+
+Creating chains for directed graph generation
+[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37]
+[0, 1, 2, 3, 4, 5, 7, 6, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 35, 36, 32, 33, 37, 34]
+OPTIMAL
+Problem solved in 521 milliseconds 
+Problem solved in 0 iterations 
+Problem solved in 1 branch-and-bound nodes 
+********
+ijklmnopqrstuvwxyzABCDEFGHIJKymLPQMNRO
+tRNA-Phe 12S tRNA-Val 16S tRNA-Leu ND1 tRNA-Ile tRNA-Gln tRNA-Met ND2 tRNA-Trp tRNA-Ala tRNA-Asn tRNA-Cys tRNA-Tyr COX1 tRNA-Ser tRNA-Asp COX2 tRNA-Lys ATP8 ATP6 COX3 tRNA-Gly ND3 tRNA-Arg ND4L ND4 tRNA-His tRNA-Ser tRNA-Leu ND5 CYTB tRNA-Thr tRNA-Pro ND6 tRNA-Glu CR 
+tRNA-Phe 12S tRNA-Val 16S tRNA-Leu ND1 tRNA-Ile tRNA-Gln tRNA-Met ND2 tRNA-Trp tRNA-Ala tRNA-Asn tRNA-Cys tRNA-Tyr COX1 tRNA-Ser tRNA-Asp COX2 tRNA-Lys ATP8 ATP6 COX3 tRNA-Gly ND3 tRNA-Arg ND4L ND4 tRNA-His tRNA-Ser tRNA-Leu ND5 ND6 tRNA-Glu CYTB tRNA-Thr CR tRNA-Pro 
+tRNA-Phe 12S tRNA-Val 16S tRNA-Leu ND1 tRNA-Gln tRNA-Ile tRNA-Met ND2 tRNA-Trp tRNA-Ala tRNA-Asn tRNA-Cys tRNA-Tyr COX1 tRNA-Ser tRNA-Asp COX2 tRNA-Lys ATP8 ATP6 COX3 tRNA-Gly ND3 tRNA-Arg ND4L ND4 tRNA-His tRNA-Ser tRNA-Leu ND5 ND6 tRNA-Glu CYTB tRNA-Thr CR tRNA-Pro 
+F 12S V 16S L ND1 I Q M ND2 W A N C Y COX1 S D COX2 K ATP8 ATP6 COX3 G ND3 R ND4L ND4 H S L ND5 CYTB T P ND6 E CR 
+F 12S V 16S L ND1 I Q M ND2 W A N C Y COX1 S D COX2 K ATP8 ATP6 COX3 G ND3 R ND4L ND4 H S L ND5 ND6 E CYTB T CR P 
+F 12S V 16S L ND1 Q I M ND2 W A N C Y COX1 S D COX2 K ATP8 ATP6 COX3 G ND3 R ND4L ND4 H S L ND5 ND6 E CYTB T CR P 
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+---------------------------------------------------------------------
+Generating ancestor
+Source: Hoplunnis punctata
+Target: Ventrifossa garmani
+Mapped source and target to character array-----> 
+ijklmnopqrstuvwxyzABCDEFGHIJKymLMNOPQR
+ijklmnopqrstuvwxyzABCDEFGHIJKymLOMNQPR
+
+Creating chains for directed graph generation
+[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37]
+[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 34, 32, 33, 36, 35, 37]
+OPTIMAL
+Problem solved in 97 milliseconds 
+Problem solved in 0 iterations 
+Problem solved in 0 branch-and-bound nodes 
+********
+ijklmnopqrstuvwxyzABCDEFGHIJKymLMNOPQR
+tRNA-Phe 12S tRNA-Val 16S tRNA-Leu ND1 tRNA-Ile tRNA-Gln tRNA-Met ND2 tRNA-Trp tRNA-Ala tRNA-Asn tRNA-Cys tRNA-Tyr COX1 tRNA-Ser tRNA-Asp COX2 tRNA-Lys ATP8 ATP6 COX3 tRNA-Gly ND3 tRNA-Arg ND4L ND4 tRNA-His tRNA-Ser tRNA-Leu ND5 CYTB tRNA-Thr ND6 tRNA-Glu tRNA-Pro CR 
+tRNA-Phe 12S tRNA-Val 16S tRNA-Leu ND1 tRNA-Ile tRNA-Gln tRNA-Met ND2 tRNA-Trp tRNA-Ala tRNA-Asn tRNA-Cys tRNA-Tyr COX1 tRNA-Ser tRNA-Asp COX2 tRNA-Lys ATP8 ATP6 COX3 tRNA-Gly ND3 tRNA-Arg ND4L ND4 tRNA-His tRNA-Ser tRNA-Leu ND5 CYTB tRNA-Thr ND6 tRNA-Glu tRNA-Pro CR 
+tRNA-Phe 12S tRNA-Val 16S tRNA-Leu ND1 tRNA-Ile tRNA-Gln tRNA-Met ND2 tRNA-Trp tRNA-Ala tRNA-Asn tRNA-Cys tRNA-Tyr COX1 tRNA-Ser tRNA-Asp COX2 tRNA-Lys ATP8 ATP6 COX3 tRNA-Gly ND3 tRNA-Arg ND4L ND4 tRNA-His tRNA-Ser tRNA-Leu ND5 ND6 CYTB tRNA-Thr tRNA-Pro tRNA-Glu CR 
+F 12S V 16S L ND1 I Q M ND2 W A N C Y COX1 S D COX2 K ATP8 ATP6 COX3 G ND3 R ND4L ND4 H S L ND5 CYTB T ND6 E P CR 
+F 12S V 16S L ND1 I Q M ND2 W A N C Y COX1 S D COX2 K ATP8 ATP6 COX3 G ND3 R ND4L ND4 H S L ND5 CYTB T ND6 E P CR 
+F 12S V 16S L ND1 I Q M ND2 W A N C Y COX1 S D COX2 K ATP8 ATP6 COX3 G ND3 R ND4L ND4 H S L ND5 ND6 CYTB T P E CR 
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+---------------------------------------------------------------------
+Generating ancestor
+Source: Hemisus marmoratus
+Target: Chamaeleo arabicus
+Mapped source and target to character array-----> 
+ijklmnopqrstuvwxyzABCDEFGHIJKLzMNOPQmRS
+ijklmnpoqrsvtwxyzABCDEFGHIJKLzmMNOPRSQ
+
+Creating chains for directed graph generation
+[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38]
+[0, 1, 2, 3, 4, 5, 7, 6, 8, 9, 10, 13, 11, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 36, 31, 32, 33, 34, 37, 38, 35]
+OPTIMAL
+Problem solved in 227 milliseconds 
+Problem solved in 18 iterations 
+Problem solved in 1 branch-and-bound nodes 
+********
+ijklmnopqrstuvwxyzABCDEFGHIJKLzmMNOPRSQ
+tRNA-Phe 12S tRNA-Val 16S tRNA-Leu ND1 tRNA-Ile tRNA-Gln tRNA-Met ND2 tRNA-Trp tRNA-Asn OL tRNA-Ala tRNA-Cys tRNA-Tyr COX1 tRNA-Ser tRNA-Asp COX2 tRNA-Lys ATP8 ATP6 COX3 tRNA-Gly ND3 tRNA-Arg ND4L ND4 tRNA-His tRNA-Ser ND5 ND6 tRNA-Glu CYTB tRNA-Pro tRNA-Leu tRNA-Thr CR 
+tRNA-Phe 12S tRNA-Val 16S tRNA-Leu ND1 tRNA-Ile tRNA-Gln tRNA-Met ND2 tRNA-Trp tRNA-Asn OL tRNA-Ala tRNA-Cys tRNA-Tyr COX1 tRNA-Ser tRNA-Asp COX2 tRNA-Lys ATP8 ATP6 COX3 tRNA-Gly ND3 tRNA-Arg ND4L ND4 tRNA-His tRNA-Ser tRNA-Leu ND5 ND6 tRNA-Glu CYTB tRNA-Thr CR tRNA-Pro 
+tRNA-Phe 12S tRNA-Val 16S tRNA-Leu ND1 tRNA-Gln tRNA-Ile tRNA-Met ND2 tRNA-Trp tRNA-Ala tRNA-Asn tRNA-Cys tRNA-Tyr COX1 tRNA-Ser tRNA-Asp COX2 tRNA-Lys ATP8 ATP6 COX3 tRNA-Gly ND3 tRNA-Arg ND4L ND4 tRNA-His tRNA-Ser tRNA-Leu ND5 ND6 tRNA-Glu CYTB tRNA-Thr CR tRNA-Pro 
+F 12S V 16S L ND1 I Q M ND2 W N OL A C Y COX1 S D COX2 K ATP8 ATP6 COX3 G ND3 R ND4L ND4 H S ND5 ND6 E CYTB P L T CR 
+F 12S V 16S L ND1 I Q M ND2 W N OL A C Y COX1 S D COX2 K ATP8 ATP6 COX3 G ND3 R ND4L ND4 H S L ND5 ND6 E CYTB T CR P 
+F 12S V 16S L ND1 Q I M ND2 W A N C Y COX1 S D COX2 K ATP8 ATP6 COX3 G ND3 R ND4L ND4 H S L ND5 ND6 E CYTB T CR P 
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+---------------------------------------------------------------------
+Generating ancestor
+Source: Hemisus marmoratus
+Target: Hyperolius marmoratus
+Mapped source and target to character array-----> 
+ijklmnopqrstuvwxyzABCDEFGHIJKLzMNOPQmRS
+QRmijklmnopqrSqrstuvwxyzABCDEFGHIJKLzMNOPS
+
+Creating chains for directed graph generation
+[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38]
+[35, 37, 4, 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 38, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 38]
+OPTIMAL
+Problem solved in 276 milliseconds 
+Problem solved in 741 iterations 
+Problem solved in 1 branch-and-bound nodes 
+********
+ijklmnopqrstuvwxyzABCDEFGHIJKLzMNOPQmRS
+tRNA-Phe 12S tRNA-Val 16S tRNA-Leu ND1 tRNA-Ile tRNA-Gln tRNA-Met ND2 tRNA-Trp tRNA-Asn OL tRNA-Ala tRNA-Cys tRNA-Tyr COX1 tRNA-Ser tRNA-Asp COX2 tRNA-Lys ATP8 ATP6 COX3 tRNA-Gly ND3 tRNA-Arg ND4L ND4 tRNA-His tRNA-Ser ND5 ND6 tRNA-Glu CYTB tRNA-Pro tRNA-Leu tRNA-Thr CR 
+tRNA-Phe 12S tRNA-Val 16S tRNA-Leu ND1 tRNA-Ile tRNA-Gln tRNA-Met ND2 tRNA-Trp tRNA-Asn OL tRNA-Ala tRNA-Cys tRNA-Tyr COX1 tRNA-Ser tRNA-Asp COX2 tRNA-Lys ATP8 ATP6 COX3 tRNA-Gly ND3 tRNA-Arg ND4L ND4 tRNA-His tRNA-Ser ND5 ND6 tRNA-Glu CYTB tRNA-Pro tRNA-Leu tRNA-Thr CR 
+tRNA-Pro tRNA-Thr tRNA-Leu tRNA-Phe 12S tRNA-Val 16S tRNA-Leu ND1 tRNA-Ile tRNA-Gln tRNA-Met ND2 CR tRNA-Met ND2 tRNA-Trp tRNA-Asn OL tRNA-Ala tRNA-Cys tRNA-Tyr COX1 tRNA-Ser tRNA-Asp COX2 tRNA-Lys ATP8 ATP6 COX3 tRNA-Gly ND3 tRNA-Arg ND4L ND4 tRNA-His tRNA-Ser ND5 ND6 tRNA-Glu CYTB CR 
+F 12S V 16S L ND1 I Q M ND2 W N OL A C Y COX1 S D COX2 K ATP8 ATP6 COX3 G ND3 R ND4L ND4 H S ND5 ND6 E CYTB P L T CR 
+F 12S V 16S L ND1 I Q M ND2 W N OL A C Y COX1 S D COX2 K ATP8 ATP6 COX3 G ND3 R ND4L ND4 H S ND5 ND6 E CYTB P L T CR 
+P T L F 12S V 16S L ND1 I Q M ND2 CR M ND2 W N OL A C Y COX1 S D COX2 K ATP8 ATP6 COX3 G ND3 R ND4L ND4 H S ND5 ND6 E CYTB CR 
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+---------------------------------------------------------------------
+Generating ancestor
+Source: Hyperolius marmoratus
+Target: Trichobatrachus robustus
+Mapped source and target to character array-----> 
+ijklmnokpqrstustvwxyzABCDEFGHIJKLMNOCPQRSu
+lmnokpqrstvwxyzABCDEFGHIJKLMNOCPukjilOCPQRSukji
+
+Creating chains for directed graph generation
+[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41]
+[3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 41, 2, 1, 0, 3, 35, 36, 37, 38, 39, 40, 41, 2, 1, 0]
+OPTIMAL
+Problem solved in 309 milliseconds 
+Problem solved in 849 iterations 
+Problem solved in 1 branch-and-bound nodes 
+********
+kjilmnokpqrstustvwxyzABCDEFGHIJKLMNOCPQRSu
+tRNA-Pro tRNA-Thr tRNA-Leu tRNA-Phe 12S tRNA-Val 16S tRNA-Leu ND1 tRNA-Ile tRNA-Gln tRNA-Met ND2 CR tRNA-Met ND2 tRNA-Trp tRNA-Asn OL tRNA-Ala tRNA-Cys tRNA-Tyr COX1 tRNA-Ser tRNA-Asp COX2 tRNA-Lys ATP8 ATP6 COX3 tRNA-Gly ND3 tRNA-Arg ND4L ND4 tRNA-His tRNA-Ser ND5 ND6 tRNA-Glu CYTB CR 
+tRNA-Leu tRNA-Thr tRNA-Pro tRNA-Phe 12S tRNA-Val 16S tRNA-Leu ND1 tRNA-Ile tRNA-Gln tRNA-Met ND2 CR tRNA-Met ND2 tRNA-Trp tRNA-Asn OL tRNA-Ala tRNA-Cys tRNA-Tyr COX1 tRNA-Ser tRNA-Asp COX2 tRNA-Lys ATP8 ATP6 COX3 tRNA-Gly ND3 tRNA-Arg ND4L ND4 tRNA-His tRNA-Ser ND5 ND6 tRNA-Glu CYTB CR 
+tRNA-Phe 12S tRNA-Val 16S tRNA-Leu ND1 tRNA-Ile tRNA-Gln tRNA-Met ND2 tRNA-Trp tRNA-Asn OL tRNA-Ala tRNA-Cys tRNA-Tyr COX1 tRNA-Ser tRNA-Asp COX2 tRNA-Lys ATP8 ATP6 COX3 tRNA-Gly ND3 tRNA-Arg ND4L ND4 tRNA-His tRNA-Ser ND5 CR tRNA-Leu tRNA-Thr tRNA-Pro tRNA-Phe tRNA-His tRNA-Ser ND5 ND6 tRNA-Glu CYTB CR tRNA-Leu tRNA-Thr tRNA-Pro 
+P T L F 12S V 16S L ND1 I Q M ND2 CR M ND2 W N OL A C Y COX1 S D COX2 K ATP8 ATP6 COX3 G ND3 R ND4L ND4 H S ND5 ND6 E CYTB CR 
+L T P F 12S V 16S L ND1 I Q M ND2 CR M ND2 W N OL A C Y COX1 S D COX2 K ATP8 ATP6 COX3 G ND3 R ND4L ND4 H S ND5 ND6 E CYTB CR 
+F 12S V 16S L ND1 I Q M ND2 W N OL A C Y COX1 S D COX2 K ATP8 ATP6 COX3 G ND3 R ND4L ND4 H S ND5 CR L T P F H S ND5 ND6 E CYTB CR L T P 
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+---------------------------------------------------------------------
+Generating ancestor
+Source: Hyperolius marmoratus
+Target: Trichobatrachus robustus
+Mapped source and target to character array-----> 
+ijklmnopqrstuvjwxyzABCDEFGHDIJKLMALMNOPQRS
+ijklmnopqrstuvjwADCBEvjwxyzADCBEFGHDIJKLMNOPQRS
+
+Creating chains for directed graph generation
+[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41]
+[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 19, 22, 21, 20, 23, 13, 14, 15, 16, 17, 18, 19, 22, 21, 20, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 36, 37, 38, 39, 40, 41]
+OPTIMAL
+Problem solved in 269 milliseconds 
+Problem solved in 16 iterations 
+Problem solved in 1 branch-and-bound nodes 
+********
+ijklmnopqrstuvjwxyzADCBEFGHDIJKLMALMNOPQRS
+COX1 tRNA-Ser tRNA-Asp COX2 tRNA-Lys ATP8 ATP6 COX3 tRNA-Gly ND3 tRNA-Arg ND4L ND4 tRNA-His tRNA-Ser ND5 ND6 tRNA-Glu CYTB CR tRNA-Pro tRNA-Thr tRNA-Leu tRNA-Phe 12S tRNA-Val 16S tRNA-Leu ND1 tRNA-Ile tRNA-Gln tRNA-Met ND2 CR tRNA-Met ND2 tRNA-Trp tRNA-Asn OL tRNA-Ala tRNA-Cys tRNA-Tyr 
+COX1 tRNA-Ser tRNA-Asp COX2 tRNA-Lys ATP8 ATP6 COX3 tRNA-Gly ND3 tRNA-Arg ND4L ND4 tRNA-His tRNA-Ser ND5 ND6 tRNA-Glu CYTB CR tRNA-Leu tRNA-Thr tRNA-Pro tRNA-Phe 12S tRNA-Val 16S tRNA-Leu ND1 tRNA-Ile tRNA-Gln tRNA-Met ND2 CR tRNA-Met ND2 tRNA-Trp tRNA-Asn OL tRNA-Ala tRNA-Cys tRNA-Tyr 
+COX1 tRNA-Ser tRNA-Asp COX2 tRNA-Lys ATP8 ATP6 COX3 tRNA-Gly ND3 tRNA-Arg ND4L ND4 tRNA-His tRNA-Ser ND5 CR tRNA-Leu tRNA-Thr tRNA-Pro tRNA-Phe tRNA-His tRNA-Ser ND5 ND6 tRNA-Glu CYTB CR tRNA-Leu tRNA-Thr tRNA-Pro tRNA-Phe 12S tRNA-Val 16S tRNA-Leu ND1 tRNA-Ile tRNA-Gln tRNA-Met ND2 tRNA-Trp tRNA-Asn OL tRNA-Ala tRNA-Cys tRNA-Tyr 
+COX1 S D COX2 K ATP8 ATP6 COX3 G ND3 R ND4L ND4 H S ND5 ND6 E CYTB CR P T L F 12S V 16S L ND1 I Q M ND2 CR M ND2 W N OL A C Y 
+COX1 S D COX2 K ATP8 ATP6 COX3 G ND3 R ND4L ND4 H S ND5 ND6 E CYTB CR L T P F 12S V 16S L ND1 I Q M ND2 CR M ND2 W N OL A C Y 
+COX1 S D COX2 K ATP8 ATP6 COX3 G ND3 R ND4L ND4 H S ND5 CR L T P F H S ND5 ND6 E CYTB CR L T P F 12S V 16S L ND1 I Q M ND2 W N OL A C Y 
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+---------------------------------------------------------------------
+Generating ancestor
+Source: Hyperolius marmoratus
+Target: Breviceps adspersus
+Mapped source and target to character array-----> 
+ijklmnopqrstuvjwxyzABCDEFGHDIJKLMALMNOPQRS
+ijklmnopqrstujwxyzCBEFGHDCBEFGHvjBEFGHDIJKLMNOPNOPQRS
+
+Creating chains for directed graph generation
+[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41]
+[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 14, 15, 16, 17, 18, 21, 20, 23, 24, 25, 26, 27, 21, 20, 23, 24, 25, 26, 13, 14, 20, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 36, 37, 38, 36, 37, 38, 39, 40, 41]
+OPTIMAL
+Problem solved in 284 milliseconds 
+Problem solved in 51 iterations 
+Problem solved in 1 branch-and-bound nodes 
+********
+ijklmnopqrstuvjwxyzCDABEFGHDIJKLMALMNOPQRS
+COX1 tRNA-Ser tRNA-Asp COX2 tRNA-Lys ATP8 ATP6 COX3 tRNA-Gly ND3 tRNA-Arg ND4L ND4 tRNA-His tRNA-Ser ND5 ND6 tRNA-Glu CYTB CR tRNA-Pro tRNA-Thr tRNA-Leu tRNA-Phe 12S tRNA-Val 16S tRNA-Leu ND1 tRNA-Ile tRNA-Gln tRNA-Met ND2 CR tRNA-Met ND2 tRNA-Trp tRNA-Asn OL tRNA-Ala tRNA-Cys tRNA-Tyr 
+COX1 tRNA-Ser tRNA-Asp COX2 tRNA-Lys ATP8 ATP6 COX3 tRNA-Gly ND3 tRNA-Arg ND4L ND4 tRNA-His tRNA-Ser ND5 ND6 tRNA-Glu CYTB tRNA-Thr tRNA-Leu CR tRNA-Pro tRNA-Phe 12S tRNA-Val 16S tRNA-Leu ND1 tRNA-Ile tRNA-Gln tRNA-Met ND2 CR tRNA-Met ND2 tRNA-Trp tRNA-Asn OL tRNA-Ala tRNA-Cys tRNA-Tyr 
+COX1 tRNA-Ser tRNA-Asp COX2 tRNA-Lys ATP8 ATP6 COX3 tRNA-Gly ND3 tRNA-Arg ND4L ND4 tRNA-Ser ND5 ND6 tRNA-Glu CYTB tRNA-Thr tRNA-Pro tRNA-Phe 12S tRNA-Val 16S tRNA-Leu tRNA-Thr tRNA-Pro tRNA-Phe 12S tRNA-Val 16S tRNA-His tRNA-Ser tRNA-Pro tRNA-Phe 12S tRNA-Val 16S tRNA-Leu ND1 tRNA-Ile tRNA-Gln tRNA-Met ND2 tRNA-Trp tRNA-Asn OL tRNA-Trp tRNA-Asn OL tRNA-Ala tRNA-Cys tRNA-Tyr 
+COX1 S D COX2 K ATP8 ATP6 COX3 G ND3 R ND4L ND4 H S ND5 ND6 E CYTB CR P T L F 12S V 16S L ND1 I Q M ND2 CR M ND2 W N OL A C Y 
+COX1 S D COX2 K ATP8 ATP6 COX3 G ND3 R ND4L ND4 H S ND5 ND6 E CYTB T L CR P F 12S V 16S L ND1 I Q M ND2 CR M ND2 W N OL A C Y 
+COX1 S D COX2 K ATP8 ATP6 COX3 G ND3 R ND4L ND4 S ND5 ND6 E CYTB T P F 12S V 16S L T P F 12S V 16S H S P F 12S V 16S L ND1 I Q M ND2 W N OL W N OL A C Y 
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

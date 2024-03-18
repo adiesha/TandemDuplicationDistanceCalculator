@@ -1,0 +1,1220 @@
+---------------------
+Source: Clinocottus_analis
+Target: vertibrate
+---------------------
+MIS#: 4
+TD#: 2
+Deletions#: 7
+---------------------
+Source: Boulengerula_taitana
+Target: vertibrate
+---------------------
+MIS#: 2
+TD#: 1
+Deletions#: 3
+---------------------
+Source: Lampris_guttatus
+Target: vertibrate
+---------------------
+MIS#: 1
+TD#: 0
+Deletions#: 3
+---------------------
+Source: Hapalogenys_analis
+Target: vertibrate
+---------------------
+MIS#: 1
+TD#: 0
+Deletions#: 3
+---------------------
+Source: Trichiurus_japonicus
+Target: vertibrate
+---------------------
+MIS#: 1
+TD#: 0
+Deletions#: 3
+---------------------
+Source: Rudarius_ercodes
+Target: vertibrate
+---------------------
+MIS#: 1
+TD#: 0
+Deletions#: 3
+---------------------
+Source: Dallia_pectoralis
+Target: vertibrate
+---------------------
+MIS#: 2
+TD#: 1
+Deletions#: 4
+---------------------
+Source: Normichthys_operosus
+Target: vertibrate
+---------------------
+MIS#: 2
+TD#: 1
+Deletions#: 5
+---------------------
+Source: Ambassis_gymnocephalus
+Target: vertibrate
+---------------------
+MIS#: 2
+TD#: 1
+Deletions#: 5
+---------------------
+Source: Aulorhynchus_flavidus
+Target: vertibrate
+---------------------
+MIS#: 2
+TD#: 1
+Deletions#: 5
+---------------------
+Source: Trachyrincus_murrayi
+Target: vertibrate
+---------------------
+MIS#: 2
+TD#: 1
+Deletions#: 5
+---------------------
+Source: Squalogadus_modificatus
+Target: vertibrate
+---------------------
+MIS#: 2
+TD#: 1
+Deletions#: 5
+---------------------
+Source: Cetonurus_globiceps
+Target: vertibrate
+---------------------
+MIS#: 2
+TD#: 1
+Deletions#: 5
+---------------------
+Source: Coelorinchus_kishinouyei
+Target: vertibrate
+---------------------
+MIS#: 2
+TD#: 1
+Deletions#: 5
+---------------------
+Source: Ventrifossa_garmani
+Target: vertibrate
+---------------------
+MIS#: 2
+TD#: 1
+Deletions#: 5
+---------------------
+Source: Uroplatus_fimbriatus
+Target: vertibrate
+---------------------
+MIS#: 1
+TD#: 0
+Deletions#: 3
+---------------------
+Source: Kurtus_gulliveri
+Target: vertibrate
+---------------------
+MIS#: 2
+TD#: 1
+Deletions#: 5
+---------------------
+Source: Ponticola_kessleri
+Target: vertibrate
+---------------------
+MIS#: 2
+TD#: 1
+Deletions#: 5
+---------------------
+Source: Chamaeleo_arabicus
+Target: vertibrate
+---------------------
+MIS#: 3
+TD#: 2
+Deletions#: 7
+---------------------
+Source: Xenagama_taylori_final
+Target: vertibrate
+---------------------
+MIS#: 3
+TD#: 2
+Deletions#: 7
+---------------------
+Source: Uromastyx_benti
+Target: vertibrate
+---------------------
+MIS#: 2
+TD#: 1
+Deletions#: 5
+---------------------
+Source: Phrynocephalus_putjatai
+Target: vertibrate
+---------------------
+MIS#: 3
+TD#: 2
+Deletions#: 7
+---------------------
+Source: Pagothenia-borchgrevinki
+Target: vertibrate
+---------------------
+MIS#: 2
+TD#: 1
+Deletions#: 5
+---------------------
+Source: Rhineura_floridana_final
+Target: vertibrate
+---------------------
+MIS#: 2
+TD#: 1
+Deletions#: 5
+---------------------
+Source: Coloconger_cadenati
+Target: vertibrate
+---------------------
+MIS#: 2
+TD#: 1
+Deletions#: 5
+---------------------
+Source: Ariosoma_shiroanago
+Target: vertibrate
+---------------------
+MIS#: 2
+TD#: 1
+Deletions#: 5
+---------------------
+Source: Paraconger_notialis
+Target: vertibrate
+---------------------
+MIS#: 2
+TD#: 1
+Deletions#: 5
+---------------------
+Source: Conger_japonicus
+Target: vertibrate
+---------------------
+MIS#: 2
+TD#: 1
+Deletions#: 6
+---------------------
+Source: Heteroconger_hassi
+Target: vertibrate
+---------------------
+MIS#: 2
+TD#: 1
+Deletions#: 5
+---------------------
+Source: Derichthys_serpentinus
+Target: vertibrate
+---------------------
+MIS#: 2
+TD#: 1
+Deletions#: 5
+---------------------
+Source: Nessorhamphus_ingolfianus
+Target: vertibrate
+---------------------
+MIS#: 2
+TD#: 1
+Deletions#: 5
+---------------------
+Source: Cynoponticus_ferox
+Target: vertibrate
+---------------------
+MIS#: 2
+TD#: 1
+Deletions#: 5
+---------------------
+Source: Muraenesox
+Target: vertibrate
+---------------------
+MIS#: 2
+TD#: 1
+Deletions#: 5
+---------------------
+Source: Facciolella_oxyrhyncha
+Target: vertibrate
+---------------------
+MIS#: 2
+TD#: 1
+Deletions#: 5
+---------------------
+Source: Hoplunnis_punctata
+Target: vertibrate
+---------------------
+MIS#: 2
+TD#: 1
+Deletions#: 5
+---------------------
+Source: Nettastoma_parviceps
+Target: vertibrate
+---------------------
+MIS#: 2
+TD#: 1
+Deletions#: 5
+---------------------
+Source: Ophisurus_macrorhynchos
+Target: vertibrate
+---------------------
+MIS#: 2
+TD#: 1
+Deletions#: 6
+---------------------
+Source: Chaenocephalus_aceratus
+Target: vertibrate
+---------------------
+MIS#: 2
+TD#: 1
+Deletions#: 5
+---------------------
+Source: Chionodraco_hamatus
+Target: vertibrate
+---------------------
+MIS#: 2
+TD#: 1
+Deletions#: 5
+---------------------
+Source: Notothenia_coriiceps
+Target: vertibrate
+---------------------
+MIS#: 2
+TD#: 1
+Deletions#: 5
+---------------------
+Source: Aneides_flavipunctatus
+Target: vertibrate
+---------------------
+MIS#: 2
+TD#: 1
+Deletions#: 5
+---------------------
+Source: Stereochilus_marginatus_final
+Target: vertibrate
+---------------------
+MIS#: 2
+TD#: 1
+Deletions#: 5
+---------------------
+Source: Siphonops_annulatus_final
+Target: vertibrate
+---------------------
+MIS#: 2
+TD#: 1
+Deletions#: 7
+---------------------
+Source: Clinocottus_analis
+Target: vertibrate
+---------------------
+MIS#: 4
+TD#: 2
+Deletions#: 7
+---------------------
+Source: Boulengerula_taitana
+Target: vertibrate
+---------------------
+MIS#: 2
+TD#: 1
+Deletions#: 3
+---------------------
+Source: Lampris_guttatus
+Target: vertibrate
+---------------------
+MIS#: 1
+TD#: 0
+Deletions#: 3
+---------------------
+Source: Hapalogenys_analis
+Target: vertibrate
+---------------------
+MIS#: 1
+TD#: 0
+Deletions#: 3
+---------------------
+Source: Trichiurus_japonicus
+Target: vertibrate
+---------------------
+MIS#: 1
+TD#: 0
+Deletions#: 3
+---------------------
+Source: Rudarius_ercodes
+Target: vertibrate
+---------------------
+MIS#: 1
+TD#: 0
+Deletions#: 3
+---------------------
+Source: Dallia_pectoralis
+Target: vertibrate
+---------------------
+MIS#: 2
+TD#: 1
+Deletions#: 4
+---------------------
+Source: Normichthys_operosus
+Target: vertibrate
+---------------------
+MIS#: 2
+TD#: 1
+Deletions#: 5
+---------------------
+Source: Ambassis_gymnocephalus
+Target: vertibrate
+---------------------
+MIS#: 2
+TD#: 1
+Deletions#: 5
+---------------------
+Source: Aulorhynchus_flavidus
+Target: vertibrate
+---------------------
+MIS#: 2
+TD#: 1
+Deletions#: 5
+---------------------
+Source: Trachyrincus_murrayi
+Target: vertibrate
+---------------------
+MIS#: 2
+TD#: 1
+Deletions#: 5
+---------------------
+Source: Squalogadus_modificatus
+Target: vertibrate
+---------------------
+MIS#: 2
+TD#: 1
+Deletions#: 5
+---------------------
+Source: Cetonurus_globiceps
+Target: vertibrate
+---------------------
+MIS#: 2
+TD#: 1
+Deletions#: 5
+---------------------
+Source: Coelorinchus_kishinouyei
+Target: vertibrate
+---------------------
+MIS#: 2
+TD#: 1
+Deletions#: 5
+---------------------
+Source: Ventrifossa_garmani
+Target: vertibrate
+---------------------
+MIS#: 2
+TD#: 1
+Deletions#: 5
+---------------------
+Source: Uroplatus_fimbriatus
+Target: vertibrate
+---------------------
+MIS#: 1
+TD#: 0
+Deletions#: 3
+---------------------
+Source: Kurtus_gulliveri
+Target: vertibrate
+---------------------
+MIS#: 2
+TD#: 1
+Deletions#: 5
+---------------------
+Source: Ponticola_kessleri
+Target: vertibrate
+---------------------
+MIS#: 2
+TD#: 1
+Deletions#: 5
+---------------------
+Source: Chamaeleo_arabicus
+Target: vertibrate
+---------------------
+MIS#: 3
+TD#: 2
+Deletions#: 7
+---------------------
+Source: Xenagama_taylori_final
+Target: vertibrate
+---------------------
+MIS#: 3
+TD#: 2
+Deletions#: 7
+---------------------
+Source: Uromastyx_benti
+Target: vertibrate
+---------------------
+MIS#: 2
+TD#: 1
+Deletions#: 5
+---------------------
+Source: Phrynocephalus_putjatai
+Target: vertibrate
+---------------------
+MIS#: 3
+TD#: 2
+Deletions#: 7
+---------------------
+Source: Pagothenia-borchgrevinki
+Target: vertibrate
+---------------------
+MIS#: 2
+TD#: 1
+Deletions#: 5
+---------------------
+Source: Rhineura_floridana_final
+Target: vertibrate
+---------------------
+MIS#: 2
+TD#: 1
+Deletions#: 5
+---------------------
+Source: Coloconger_cadenati
+Target: vertibrate
+---------------------
+MIS#: 2
+TD#: 1
+Deletions#: 5
+---------------------
+Source: Ariosoma_shiroanago
+Target: vertibrate
+---------------------
+MIS#: 2
+TD#: 1
+Deletions#: 5
+---------------------
+Source: Paraconger_notialis
+Target: vertibrate
+---------------------
+MIS#: 2
+TD#: 1
+Deletions#: 5
+---------------------
+Source: Conger_japonicus
+Target: vertibrate
+---------------------
+MIS#: 2
+TD#: 1
+Deletions#: 6
+---------------------
+Source: Heteroconger_hassi
+Target: vertibrate
+---------------------
+MIS#: 2
+TD#: 1
+Deletions#: 5
+---------------------
+Source: Derichthys_serpentinus
+Target: vertibrate
+---------------------
+MIS#: 2
+TD#: 1
+Deletions#: 5
+---------------------
+Source: Nessorhamphus_ingolfianus
+Target: vertibrate
+---------------------
+MIS#: 2
+TD#: 1
+Deletions#: 5
+---------------------
+Source: Cynoponticus_ferox
+Target: vertibrate
+---------------------
+MIS#: 2
+TD#: 1
+Deletions#: 5
+---------------------
+Source: Muraenesox
+Target: vertibrate
+---------------------
+MIS#: 2
+TD#: 1
+Deletions#: 5
+---------------------
+Source: Facciolella_oxyrhyncha
+Target: vertibrate
+---------------------
+MIS#: 2
+TD#: 1
+Deletions#: 5
+---------------------
+Source: Hoplunnis_punctata
+Target: vertibrate
+---------------------
+MIS#: 2
+TD#: 1
+Deletions#: 5
+---------------------
+Source: Nettastoma_parviceps
+Target: vertibrate
+---------------------
+MIS#: 2
+TD#: 1
+Deletions#: 5
+---------------------
+Source: Ophisurus_macrorhynchos
+Target: vertibrate
+---------------------
+MIS#: 2
+TD#: 1
+Deletions#: 6
+---------------------
+Source: Chaenocephalus_aceratus
+Target: vertibrate
+---------------------
+MIS#: 2
+TD#: 1
+Deletions#: 5
+---------------------
+Source: Chionodraco_hamatus
+Target: vertibrate
+---------------------
+MIS#: 2
+TD#: 1
+Deletions#: 5
+---------------------
+Source: Notothenia_coriiceps
+Target: vertibrate
+---------------------
+MIS#: 2
+TD#: 1
+Deletions#: 5
+---------------------
+Source: Aneides_flavipunctatus
+Target: vertibrate
+---------------------
+MIS#: 2
+TD#: 1
+Deletions#: 5
+---------------------
+Source: Stereochilus_marginatus_final
+Target: vertibrate
+---------------------
+MIS#: 2
+TD#: 1
+Deletions#: 5
+---------------------
+Source: Siphonops_annulatus_final
+Target: vertibrate
+---------------------
+MIS#: 2
+TD#: 1
+Deletions#: 7
+---------------------
+Source: Clinocottus_analis
+Target: vertibrate
+---------------------
+MIS#: 4
+TD#: 2
+Deletions#: 7
+---------------------
+Source: Boulengerula_taitana
+Target: vertibrate
+---------------------
+MIS#: 2
+TD#: 1
+Deletions#: 3
+---------------------
+Source: Lampris_guttatus
+Target: vertibrate
+---------------------
+MIS#: 1
+TD#: 0
+Deletions#: 3
+---------------------
+Source: Hapalogenys_analis
+Target: vertibrate
+---------------------
+MIS#: 1
+TD#: 0
+Deletions#: 3
+---------------------
+Source: Trichiurus_japonicus
+Target: vertibrate
+---------------------
+MIS#: 1
+TD#: 0
+Deletions#: 3
+---------------------
+Source: Rudarius_ercodes
+Target: vertibrate
+---------------------
+MIS#: 1
+TD#: 0
+Deletions#: 3
+---------------------
+Source: Dallia_pectoralis
+Target: vertibrate
+---------------------
+MIS#: 2
+TD#: 1
+Deletions#: 4
+---------------------
+Source: Normichthys_operosus
+Target: vertibrate
+---------------------
+MIS#: 2
+TD#: 1
+Deletions#: 5
+---------------------
+Source: Ambassis_gymnocephalus
+Target: vertibrate
+---------------------
+MIS#: 2
+TD#: 1
+Deletions#: 5
+---------------------
+Source: Aulorhynchus_flavidus
+Target: vertibrate
+---------------------
+MIS#: 2
+TD#: 1
+Deletions#: 5
+---------------------
+Source: Trachyrincus_murrayi
+Target: vertibrate
+---------------------
+MIS#: 2
+TD#: 1
+Deletions#: 5
+---------------------
+Source: Squalogadus_modificatus
+Target: vertibrate
+---------------------
+MIS#: 2
+TD#: 1
+Deletions#: 5
+---------------------
+Source: Cetonurus_globiceps
+Target: vertibrate
+---------------------
+MIS#: 2
+TD#: 1
+Deletions#: 5
+---------------------
+Source: Coelorinchus_kishinouyei
+Target: vertibrate
+---------------------
+MIS#: 2
+TD#: 1
+Deletions#: 5
+---------------------
+Source: Ventrifossa_garmani
+Target: vertibrate
+---------------------
+MIS#: 2
+TD#: 1
+Deletions#: 5
+---------------------
+Source: Uroplatus_fimbriatus
+Target: vertibrate
+---------------------
+MIS#: 1
+TD#: 0
+Deletions#: 3
+---------------------
+Source: Kurtus_gulliveri
+Target: vertibrate
+---------------------
+MIS#: 2
+TD#: 1
+Deletions#: 5
+---------------------
+Source: Ponticola_kessleri
+Target: vertibrate
+---------------------
+MIS#: 2
+TD#: 1
+Deletions#: 5
+---------------------
+Source: Chamaeleo_arabicus
+Target: vertibrate
+---------------------
+MIS#: 3
+TD#: 2
+Deletions#: 7
+---------------------
+Source: Xenagama_taylori_final
+Target: vertibrate
+---------------------
+MIS#: 3
+TD#: 2
+Deletions#: 7
+---------------------
+Source: Uromastyx_benti
+Target: vertibrate
+---------------------
+MIS#: 2
+TD#: 1
+Deletions#: 5
+---------------------
+Source: Phrynocephalus_putjatai
+Target: vertibrate
+---------------------
+MIS#: 3
+TD#: 2
+Deletions#: 7
+---------------------
+Source: Pagothenia-borchgrevinki
+Target: vertibrate
+---------------------
+MIS#: 2
+TD#: 1
+Deletions#: 5
+---------------------
+Source: Rhineura_floridana_final
+Target: vertibrate
+---------------------
+MIS#: 2
+TD#: 1
+Deletions#: 5
+---------------------
+Source: Coloconger_cadenati
+Target: vertibrate
+---------------------
+MIS#: 2
+TD#: 1
+Deletions#: 5
+---------------------
+Source: Ariosoma_shiroanago
+Target: vertibrate
+---------------------
+MIS#: 2
+TD#: 1
+Deletions#: 5
+---------------------
+Source: Paraconger_notialis
+Target: vertibrate
+---------------------
+MIS#: 2
+TD#: 1
+Deletions#: 5
+---------------------
+Source: Conger_japonicus
+Target: vertibrate
+---------------------
+MIS#: 2
+TD#: 1
+Deletions#: 6
+---------------------
+Source: Heteroconger_hassi
+Target: vertibrate
+---------------------
+MIS#: 2
+TD#: 1
+Deletions#: 5
+---------------------
+Source: Derichthys_serpentinus
+Target: vertibrate
+---------------------
+MIS#: 2
+TD#: 1
+Deletions#: 5
+---------------------
+Source: Nessorhamphus_ingolfianus
+Target: vertibrate
+---------------------
+MIS#: 2
+TD#: 1
+Deletions#: 5
+---------------------
+Source: Cynoponticus_ferox
+Target: vertibrate
+---------------------
+MIS#: 2
+TD#: 1
+Deletions#: 5
+---------------------
+Source: Muraenesox
+Target: vertibrate
+---------------------
+MIS#: 2
+TD#: 1
+Deletions#: 5
+---------------------
+Source: Facciolella_oxyrhyncha
+Target: vertibrate
+---------------------
+MIS#: 2
+TD#: 1
+Deletions#: 5
+---------------------
+Source: Hoplunnis_punctata
+Target: vertibrate
+---------------------
+MIS#: 2
+TD#: 1
+Deletions#: 5
+---------------------
+Source: Nettastoma_parviceps
+Target: vertibrate
+---------------------
+MIS#: 2
+TD#: 1
+Deletions#: 5
+---------------------
+Source: Ophisurus_macrorhynchos
+Target: vertibrate
+---------------------
+MIS#: 2
+TD#: 1
+Deletions#: 6
+---------------------
+Source: Chaenocephalus_aceratus
+Target: vertibrate
+---------------------
+MIS#: 2
+TD#: 1
+Deletions#: 5
+---------------------
+Source: Chionodraco_hamatus
+Target: vertibrate
+---------------------
+MIS#: 2
+TD#: 1
+Deletions#: 5
+---------------------
+Source: Notothenia_coriiceps
+Target: vertibrate
+---------------------
+MIS#: 2
+TD#: 1
+Deletions#: 5
+---------------------
+Source: Aneides_flavipunctatus
+Target: vertibrate
+---------------------
+MIS#: 2
+TD#: 1
+Deletions#: 5
+---------------------
+Source: Stereochilus_marginatus_final
+Target: vertibrate
+---------------------
+MIS#: 2
+TD#: 1
+Deletions#: 5
+---------------------
+Source: Siphonops_annulatus_final
+Target: vertibrate
+---------------------
+MIS#: 2
+TD#: 1
+Deletions#: 7
+---------------------------------------------------------------------Generating ancestor
+Source: Siphonops annulatus
+Target: Trachyrincus_murrayi
+Mapped source and target to character array-----> 
+tsrqponmlkjihgfedcbaZYXWVUTSRdpQPONMLK
+tsrqonpmlkhjgifedcbaZYXWVUTSRdpQPONMLK
+
+Creating chains for directed graph generation
+[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37]
+[0, 1, 2, 3, 5, 6, 30, 7, 8, 9, 12, 10, 13, 11, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37]
+OPTIMAL
+********
+tsrqponmlkhjgifedcbaZYXWVUTSRdpQPONMLK
+tRNA-Phe 12S tRNA-Val 16S tRNA-Leu ND1 tRNA-Ile tRNA-Gln tRNA-Met ND2 tRNA-Ala tRNA-Cys tRNA-Trp tRNA-Asn tRNA-Tyr COX1 tRNA-Ser tRNA-Asp COX2 tRNA-Lys ATP8 ATP6 COX3 tRNA-Gly ND3 tRNA-Arg ND4L ND4 tRNA-His tRNA-Ser tRNA-Leu ND5 ND6 tRNA-Glu CYTB tRNA-Thr tRNA-Pro CR 
+data\result\vertibratevsothers.txt
+tRNA-Phe 12S tRNA-Val 16S ND1 tRNA-Ile tRNA-Leu tRNA-Gln tRNA-Met ND2 tRNA-Trp tRNA-Ala tRNA-Asn tRNA-Cys tRNA-Tyr COX1 tRNA-Ser tRNA-Asp COX2 tRNA-Lys ATP8 ATP6 COX3 tRNA-Gly ND3 tRNA-Arg ND4L ND4 tRNA-His tRNA-Ser tRNA-Leu ND5 ND6 tRNA-Glu CYTB tRNA-Thr tRNA-Pro CR 
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^---------------------
+Source: Clinocottus_analis
+Target: vertibrate
+---------------------
+MIS#: 4
+TD#: 2
+Deletions#: 7
+---------------------
+Source: Boulengerula_taitana
+Target: vertibrate
+---------------------
+MIS#: 2
+TD#: 1
+Deletions#: 3
+---------------------
+Source: Lampris_guttatus
+Target: vertibrate
+---------------------
+MIS#: 1
+TD#: 0
+Deletions#: 3
+---------------------
+Source: Hapalogenys_analis
+Target: vertibrate
+---------------------
+MIS#: 1
+TD#: 0
+Deletions#: 3
+---------------------
+Source: Trichiurus_japonicus
+Target: vertibrate
+---------------------
+MIS#: 1
+TD#: 0
+Deletions#: 3
+---------------------
+Source: Rudarius_ercodes
+Target: vertibrate
+---------------------
+MIS#: 1
+TD#: 0
+Deletions#: 3
+---------------------
+Source: Dallia_pectoralis
+Target: vertibrate
+---------------------
+MIS#: 2
+TD#: 1
+Deletions#: 4
+---------------------
+Source: Normichthys_operosus
+Target: vertibrate
+---------------------
+MIS#: 2
+TD#: 1
+Deletions#: 5
+---------------------
+Source: Ambassis_gymnocephalus
+Target: vertibrate
+---------------------
+MIS#: 2
+TD#: 1
+Deletions#: 5
+---------------------
+Source: Aulorhynchus_flavidus
+Target: vertibrate
+---------------------
+MIS#: 2
+TD#: 1
+Deletions#: 5
+---------------------
+Source: Trachyrincus_murrayi
+Target: vertibrate
+---------------------
+MIS#: 2
+TD#: 1
+Deletions#: 5
+---------------------
+Source: Squalogadus_modificatus
+Target: vertibrate
+---------------------
+MIS#: 2
+TD#: 1
+Deletions#: 5
+---------------------
+Source: Cetonurus_globiceps
+Target: vertibrate
+---------------------
+MIS#: 2
+TD#: 1
+Deletions#: 5
+---------------------
+Source: Coelorinchus_kishinouyei
+Target: vertibrate
+---------------------
+MIS#: 2
+TD#: 1
+Deletions#: 5
+---------------------
+Source: Ventrifossa_garmani
+Target: vertibrate
+---------------------
+MIS#: 2
+TD#: 1
+Deletions#: 5
+---------------------
+Source: Uroplatus_fimbriatus
+Target: vertibrate
+---------------------
+MIS#: 1
+TD#: 0
+Deletions#: 3
+---------------------
+Source: Kurtus_gulliveri
+Target: vertibrate
+---------------------
+MIS#: 2
+TD#: 1
+Deletions#: 5
+---------------------
+Source: Ponticola_kessleri
+Target: vertibrate
+---------------------
+MIS#: 2
+TD#: 1
+Deletions#: 5
+---------------------
+Source: Chamaeleo_arabicus
+Target: vertibrate
+---------------------
+MIS#: 3
+TD#: 2
+Deletions#: 7
+---------------------
+Source: Xenagama_taylori_final
+Target: vertibrate
+---------------------
+MIS#: 3
+TD#: 2
+Deletions#: 7
+---------------------
+Source: Uromastyx_benti
+Target: vertibrate
+---------------------
+MIS#: 2
+TD#: 1
+Deletions#: 5
+---------------------
+Source: Phrynocephalus_putjatai
+Target: vertibrate
+---------------------
+MIS#: 3
+TD#: 2
+Deletions#: 7
+---------------------
+Source: Pagothenia-borchgrevinki
+Target: vertibrate
+---------------------
+MIS#: 2
+TD#: 1
+Deletions#: 5
+---------------------
+Source: Rhineura_floridana_final
+Target: vertibrate
+---------------------
+MIS#: 2
+TD#: 1
+Deletions#: 5
+---------------------
+Source: Coloconger_cadenati
+Target: vertibrate
+---------------------
+MIS#: 2
+TD#: 1
+Deletions#: 5
+---------------------
+Source: Ariosoma_shiroanago
+Target: vertibrate
+---------------------
+MIS#: 2
+TD#: 1
+Deletions#: 5
+---------------------
+Source: Paraconger_notialis
+Target: vertibrate
+---------------------
+MIS#: 2
+TD#: 1
+Deletions#: 5
+---------------------
+Source: Conger_japonicus
+Target: vertibrate
+---------------------
+MIS#: 2
+TD#: 1
+Deletions#: 6
+---------------------
+Source: Heteroconger_hassi
+Target: vertibrate
+---------------------
+MIS#: 2
+TD#: 1
+Deletions#: 5
+---------------------
+Source: Derichthys_serpentinus
+Target: vertibrate
+---------------------
+MIS#: 2
+TD#: 1
+Deletions#: 5
+---------------------
+Source: Nessorhamphus_ingolfianus
+Target: vertibrate
+---------------------
+MIS#: 2
+TD#: 1
+Deletions#: 5
+---------------------
+Source: Cynoponticus_ferox
+Target: vertibrate
+---------------------
+MIS#: 2
+TD#: 1
+Deletions#: 5
+---------------------
+Source: Muraenesox
+Target: vertibrate
+---------------------
+MIS#: 2
+TD#: 1
+Deletions#: 5
+---------------------
+Source: Facciolella_oxyrhyncha
+Target: vertibrate
+---------------------
+MIS#: 2
+TD#: 1
+Deletions#: 5
+---------------------
+Source: Hoplunnis_punctata
+Target: vertibrate
+---------------------
+MIS#: 2
+TD#: 1
+Deletions#: 5
+---------------------
+Source: Nettastoma_parviceps
+Target: vertibrate
+---------------------
+MIS#: 2
+TD#: 1
+Deletions#: 5
+---------------------
+Source: Ophisurus_macrorhynchos
+Target: vertibrate
+---------------------
+MIS#: 2
+TD#: 1
+Deletions#: 6
+---------------------
+Source: Chaenocephalus_aceratus
+Target: vertibrate
+---------------------
+MIS#: 2
+TD#: 1
+Deletions#: 5
+---------------------
+Source: Chionodraco_hamatus
+Target: vertibrate
+---------------------
+MIS#: 2
+TD#: 1
+Deletions#: 5
+---------------------
+Source: Notothenia_coriiceps
+Target: vertibrate
+---------------------
+MIS#: 2
+TD#: 1
+Deletions#: 5
+---------------------
+Source: Aneides_flavipunctatus
+Target: vertibrate
+---------------------
+MIS#: 2
+TD#: 1
+Deletions#: 5
+---------------------
+Source: Stereochilus_marginatus_final
+Target: vertibrate
+---------------------
+MIS#: 2
+TD#: 1
+Deletions#: 5
+---------------------
+Source: Siphonops_annulatus_final
+Target: vertibrate
+---------------------
+MIS#: 2
+TD#: 1
+Deletions#: 7
